@@ -1,0 +1,7 @@
+domain,model,errors,unique_errors,unique_share_of_model_errors,skew,category_signature,model_specific_failure_style
+DeepResearch,GPT-5.4,138,92,66.7%,FP-heavy: 108 FP / 30 FN,Logic and facts dominate,Over-credits partial reasoning: accepts implied or incomplete support for multi-part logic/fact rubrics.
+DeepResearch,Gemini-3.1 Pro,91,45,49.5%,FP-heavy: 72 FP / 19 FN,Facts/numbers/format,"Accepts near-matches and missing qualifiers, but sometimes demands exact wording/approximate numbers."
+DeepResearch,Claude Opus 4.7,139,67,48.2%,Mixed unique errors: 34 FP / 33 FN,Facts/format prominent,Most distinctive: format/facts partial-credit leniency plus hyper-literal FNs for abbreviations or implicit concepts.
+AgenticCoding,GPT-5.4,70,35,50.0%,FN-heavy: 25 FP / 45 FN; unique errors 30 FN / 5 FP,Rules/task dominate,Strict procedural interpretation: treats optional or non-triggered conditions as required failures.
+AgenticCoding,Gemini-3.1 Pro,59,25,42.4%,Mild FP overall: 36 FP / 23 FN; unique mixed,Task/rules/planning,Procedural forgiveness: excuses tool/workflow violations as reasonable or simple exceptions.
+AgenticCoding,Claude Opus 4.7,54,21,38.9%,FP-heavy overall: 34 FP / 20 FN; unique mixed,Task/rules only in unique set,Non-applicability / absence-as-pass: treats no produced artifact or read-only reporting as satisfying a check.

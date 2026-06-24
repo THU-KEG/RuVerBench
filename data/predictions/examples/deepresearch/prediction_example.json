@@ -1,0 +1,92 @@
+[
+  {
+    "id": "DRB2_12",
+    "model": "response",
+    "metric": "Evaluation",
+    "evaluator": "example-judge",
+    "result": {
+      "m_weighted": 5,
+      "total_weight": 5,
+      "recall": 1.0,
+      "coverage_results": [
+        {
+          "point": "In the 'MCDM' section, list the Analytic Hierarchy Process (AHP) or Fuzzy AHP (Fuzzy ANP).",
+          "weight": 1,
+          "covered": true,
+          "justification": "The AI response explicitly lists the Analytic Hierarchy Process (AHP) under \"Specific MCDM Techniques and Applications\" in the MCDM section, describing its method and application. This satisfies the criterion as the requirement is for AHP or Fuzzy AHP."
+        },
+        {
+          "point": "In the 'Dynamic Rebalancing' section, explicitly mention the 'Calendar Rebalancing' strategy.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The AI response explicitly includes 'Calendar Rebalancing' as a strategy type in the 'Dynamic Rebalancing' section (subsection 4.2.1), describing it as rebalancing at fixed time intervals (monthly, quarterly)."
+        },
+        {
+          "point": "In the 'Dynamic Rebalancing' section, explicitly mention the 'Threshold Rebalancing' strategy.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The response explicitly includes 'Threshold Rebalancing' as one of the major rebalancing strategy types in subsection 4.2.1 under the 'Dynamic Rebalancing' section."
+        },
+        {
+          "point": "Analyze the value of MCDM methods: explain how this method quantifies investors' multi-dimensional preferences (such as social responsibility, liquidity) and incorporates them into the optimization process, making portfolio decisions more aligned with individualized complex needs.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The response's Section 3 on Multi-Criteria Decision Making (MCDM) explicitly addresses how these methods quantify multi-dimensional preferences (e.g., ESG, liquidity) and incorporate them into portfolio selection. It explains that MCDM evaluates assets based on conflicting criteria and uses techniques like AHP (to weight preferences) and TOPSIS (to rank alternatives), thereby enabling portfolio decisions that align with individualized complex needs beyond simple risk-return trade-offs."
+        },
+        {
+          "point": "In the 'Review of AI/ML Applications' section, explanations must be categorized under three subheadings: 'Signal Generation', 'Asset Clustering and Network Analysis', and 'Feature Enrichment'.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The AI response explicitly structures the 'Review of AI/ML Applications' section with the required three subheadings: 'Signal Generation' (2.1), 'Asset Clustering and Network Analysis' (2.2), and 'Feature Enrichment' (2.3), and provides detailed explanations under each."
+        }
+      ]
+    },
+    "thread_stats": {
+      "requests": 5,
+      "successes": 5,
+      "failures": 0
+    }
+  },
+  {
+    "id": "DRB2_20",
+    "model": "response",
+    "metric": "Evaluation",
+    "evaluator": "example-judge",
+    "result": {
+      "m_weighted": 3,
+      "total_weight": 4,
+      "recall": 0.75,
+      "coverage_results": [
+        {
+          "point": "Clearly state that singlet and triplet products are different, and their ratio changes can indicate magnetic directions.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The AI response clearly states that singlet and triplet states have different chemical fates (different products) and that the yield (ratio) of these products depends on the magnetic field direction, which can indicate magnetic directions. This is explicitly stated in Section 2.3."
+        },
+        {
+          "point": "Clearly state that FADH- is re-oxidized to FADox independently of light.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The AI response explicitly states that the re-oxidation of FADH⁻ to FADox is \"light-independent\" and \"occurs in the dark,\" directly addressing the criterion in section 3.1 of the report."
+        },
+        {
+          "point": "Explain why birds can still orient when light and magnetic fields are alternately applied in darkness: this demonstrates that the crucial step for magnetoreception (re-oxidation) can occur in darkness, and light exposure only serves to provide the FADH- required to initiate this step.",
+          "weight": 1,
+          "covered": false,
+          "justification": "The AI response mentions that re-oxidation is light-independent, but it does not explicitly explain the experimental scenario of alternately applying light and magnetic fields in darkness, nor does it connect that experiment to the conclusion that the crucial re-oxidation step can occur in darkness and light only provides FADH⁻. The response lacks the specific reasoning required by the criterion."
+        },
+        {
+          "point": "The answer should be divided into four sections: 'Functional Characteristics of the Avian Magnetic Compass', 'Principle of the Radical Pair Model', 'Role and Evidence of Cryptochrome', and 'Comprehensive Analysis'.",
+          "weight": 1,
+          "covered": true,
+          "justification": "The AI response is clearly divided into the four required sections with matching headings: '1. Functional Characteristics of the Avian Magnetic Compass', '2. Principle of the Radical Pair Model', '3. Role and Evidence of Cryptochrome', and '4. Comprehensive Analysis: The Radical Pair Model and Compass Characteristics'."
+        }
+      ]
+    },
+    "thread_stats": {
+      "requests": 4,
+      "successes": 4,
+      "failures": 0
+    }
+  }
+]

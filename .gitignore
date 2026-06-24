@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+.env
+
+.DS_Store
+.cache/
+.matplotlib-cache/
+
+outputs/
+auto_rubric_generation_experiment/results/logs/
+

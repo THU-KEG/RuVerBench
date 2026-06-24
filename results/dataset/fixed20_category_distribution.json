@@ -1,0 +1,58 @@
+[
+  {
+    "domain": "DeepResearch",
+    "category": "Format",
+    "full_benchmark_pct": 26.8,
+    "fixed20_pct": 27.4,
+    "delta_pct": 0.6
+  },
+  {
+    "domain": "DeepResearch",
+    "category": "Numbers",
+    "full_benchmark_pct": 20.8,
+    "fixed20_pct": 21.8,
+    "delta_pct": 1.0
+  },
+  {
+    "domain": "DeepResearch",
+    "category": "Logic",
+    "full_benchmark_pct": 22.4,
+    "fixed20_pct": 22.8,
+    "delta_pct": 0.4
+  },
+  {
+    "domain": "DeepResearch",
+    "category": "Facts",
+    "full_benchmark_pct": 30.0,
+    "fixed20_pct": 28.1,
+    "delta_pct": -2.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "category": "Task",
+    "full_benchmark_pct": 38.4,
+    "fixed20_pct": 37.9,
+    "delta_pct": -0.6
+  },
+  {
+    "domain": "AgenticCoding",
+    "category": "Planning",
+    "full_benchmark_pct": 10.7,
+    "fixed20_pct": 10.7,
+    "delta_pct": 0.1
+  },
+  {
+    "domain": "AgenticCoding",
+    "category": "Tools",
+    "full_benchmark_pct": 10.9,
+    "fixed20_pct": 13.6,
+    "delta_pct": 2.7
+  },
+  {
+    "domain": "AgenticCoding",
+    "category": "Rules",
+    "full_benchmark_pct": 40.0,
+    "fixed20_pct": 37.9,
+    "delta_pct": -2.1
+  }
+]

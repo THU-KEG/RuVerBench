@@ -1,0 +1,380 @@
+[
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -1.673087
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -2.587256
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -1.050761
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -2.578541
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -6.547619
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -1.915836
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": 0.306942
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -5.4028
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -1.070805
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -0.169105
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -4.910714
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -0.808721
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -3.653258
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -3.625541
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -1.549091
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": 1.788846
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": 2.347132
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": 0.780004
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -4.932107
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -11.257681
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -22.213574
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "actual_rubrics_per_call": 5,
+    "delta_bacc_vs_single_rubric": -20.488957
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -6.473848
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -10.183694
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -18.330998
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "actual_rubrics_per_call": 5,
+    "delta_bacc_vs_single_rubric": -18.015152
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -4.862037
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -19.271295
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -22.981602
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "actual_rubrics_per_call": 5,
+    "delta_bacc_vs_single_rubric": -35.345147
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -0.174931
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -9.945983
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -18.566688
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "actual_rubrics_per_call": 5,
+    "delta_bacc_vs_single_rubric": -21.130289
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -2.102926
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -7.582418
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -13.712121
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "actual_rubrics_per_call": 5,
+    "delta_bacc_vs_single_rubric": -15.311688
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 1,
+    "delta_bacc_vs_single_rubric": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 2,
+    "delta_bacc_vs_single_rubric": -2.064802
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 3,
+    "delta_bacc_vs_single_rubric": -9.47234
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 4,
+    "delta_bacc_vs_single_rubric": -13.073593
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "actual_rubrics_per_call": 5,
+    "delta_bacc_vs_single_rubric": -16.688312
+  }
+]

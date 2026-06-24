@@ -1,0 +1,12 @@
+{
+  "fraction": 0.2,
+  "seed": 0,
+  "deepresearch": {
+    "questions": 60,
+    "points": 303
+  },
+  "agenticcoding": {
+    "instances": 42,
+    "checks": 177
+  }
+}

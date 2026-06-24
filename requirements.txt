@@ -1,0 +1,5 @@
+matplotlib>=3.7
+numpy>=1.24
+openai>=1.0
+httpx>=0.24
+filelock>=3

@@ -1,0 +1,61 @@
+domain,model,votes,delta_bacc_vs_one_vote
+DeepResearch,Kimi K2.6,1,0.0
+DeepResearch,Kimi K2.6,3,0.234522
+DeepResearch,Kimi K2.6,5,0.334269
+DeepResearch,Kimi K2.6,7,0.413535
+DeepResearch,Kimi K2.6,9,0.73605
+DeepResearch,DeepSeek V4 Flash,1,0.0
+DeepResearch,DeepSeek V4 Flash,3,0.447986
+DeepResearch,DeepSeek V4 Flash,5,0.755584
+DeepResearch,DeepSeek V4 Flash,7,1.149745
+DeepResearch,DeepSeek V4 Flash,9,0.72986
+DeepResearch,GLM-5.1,1,0.0
+DeepResearch,GLM-5.1,3,0.798103
+DeepResearch,GLM-5.1,5,1.055436
+DeepResearch,GLM-5.1,7,1.146981
+DeepResearch,GLM-5.1,9,0.869552
+DeepResearch,Seed 2.0 Pro,1,0.0
+DeepResearch,Seed 2.0 Pro,3,0.303677
+DeepResearch,Seed 2.0 Pro,5,0.429694
+DeepResearch,Seed 2.0 Pro,7,0.45997
+DeepResearch,Seed 2.0 Pro,9,0.257318
+DeepResearch,GPT-OSS-120B,1,0.0
+DeepResearch,GPT-OSS-120B,3,0.244941
+DeepResearch,GPT-OSS-120B,5,0.188655
+DeepResearch,GPT-OSS-120B,7,0.104562
+DeepResearch,GPT-OSS-120B,9,0.289629
+DeepResearch,Qwen3.5-27B,1,0.0
+DeepResearch,Qwen3.5-27B,3,-0.173109
+DeepResearch,Qwen3.5-27B,5,-0.145772
+DeepResearch,Qwen3.5-27B,7,0.047475
+DeepResearch,Qwen3.5-27B,9,0.818537
+AgenticCoding,Kimi K2.6,1,0.0
+AgenticCoding,Kimi K2.6,3,2.152891
+AgenticCoding,Kimi K2.6,5,2.987701
+AgenticCoding,Kimi K2.6,7,2.720313
+AgenticCoding,Kimi K2.6,9,2.858244
+AgenticCoding,DeepSeek V4 Flash,1,0.0
+AgenticCoding,DeepSeek V4 Flash,3,3.554595
+AgenticCoding,DeepSeek V4 Flash,5,3.745637
+AgenticCoding,DeepSeek V4 Flash,7,4.534533
+AgenticCoding,DeepSeek V4 Flash,9,4.034398
+AgenticCoding,GLM-5.1,1,0.0
+AgenticCoding,GLM-5.1,3,1.125959
+AgenticCoding,GLM-5.1,5,1.584625
+AgenticCoding,GLM-5.1,7,2.068148
+AgenticCoding,GLM-5.1,9,2.774775
+AgenticCoding,Seed 2.0 Pro,1,0.0
+AgenticCoding,Seed 2.0 Pro,3,0.367977
+AgenticCoding,Seed 2.0 Pro,5,0.331428
+AgenticCoding,Seed 2.0 Pro,7,0.374939
+AgenticCoding,Seed 2.0 Pro,9,0.618604
+AgenticCoding,GPT-OSS-120B,1,0.0
+AgenticCoding,GPT-OSS-120B,3,0.641795
+AgenticCoding,GPT-OSS-120B,5,-0.050038
+AgenticCoding,GPT-OSS-120B,7,-1.318255
+AgenticCoding,GPT-OSS-120B,9,-3.609719
+AgenticCoding,Qwen3.5-27B,1,0.0
+AgenticCoding,Qwen3.5-27B,3,1.64829
+AgenticCoding,Qwen3.5-27B,5,1.952393
+AgenticCoding,Qwen3.5-27B,7,2.109179
+AgenticCoding,Qwen3.5-27B,9,2.887891

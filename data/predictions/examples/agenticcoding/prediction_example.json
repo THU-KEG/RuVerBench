@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "instance_id": "md-aws-mcp-server-logging-over-print",
+      "eval_result": {
+        "model": "example-judge"
+      },
+      "SP": {
+        "checks": [
+          {
+            "instance_id": "md-aws-mcp-server-logging-over-print",
+            "category": "SP",
+            "check_id": "SP_avoid_unnecessary_new_files",
+            "result": "success",
+            "reasoning": "Assistant created one new file (`command_validator.py`) via Write only when necessary because the task explicitly requested implementing a new `command_validator` module that did not previously exist. All other changes to existing files (`cli_executor.py`, `tools.py`, `test_cli_executor.py`, `test_tools.py`) were made using Edit rather than creating replacement files, following the preference for modifying existing files."
+          }
+        ]
+      },
+      "Tool schema": {
+        "checks": [
+          {
+            "instance_id": "md-aws-mcp-server-logging-over-print",
+            "category": "Tool schema",
+            "check_id": "ToolSchema_results_driven_followup",
+            "result": "success",
+            "reasoning": "Assistant continuously adjusts based on actual tool results: fixes Grep parameter error after error response; re-reads files on Edit failure (test_tools.py) before retrying; reads the specific line causing the lint E501 error before applying a fix; runs tests and lint to validate changes, and references those results in the final summary. No instance of ignoring or assuming tool return values was observed."
+          }
+        ]
+      }
+    },
+    {
+      "instance_id": "agents-inkline-type-guard",
+      "eval_result": {
+        "model": "example-judge"
+      },
+      "SP": {
+        "checks": [
+          {
+            "instance_id": "agents-inkline-type-guard",
+            "category": "SP",
+            "check_id": "SP_ask_followup_with_suggestions",
+            "result": "success",
+            "reasoning": "对话中 assistant 从未使用 ask_followup_question 工具，因此未触发需要提供 2-4 个建议的场景，符合要求。"
+          },
+          {
+            "instance_id": "agents-inkline-type-guard",
+            "category": "SP",
+            "check_id": "SP_language_english_default",
+            "result": "success",
+            "reasoning": "All assistant messages, including natural language, reasoning content, and tool calls, are in English. There is no instance where a language other than English is used."
+          },
+          {
+            "instance_id": "agents-inkline-type-guard",
+            "category": "SP",
+            "check_id": "SP_use_env_details_explained",
+            "result": "fail",
+            "reasoning": "The assistant repeatedly used information from environment_details (e.g., file structure, project layout) to make decisions about which files to read, but never explicitly explained to the user that it was relying on that automatically provided context. For example, it did not state 'From the environment details I see the project structure includes...' or otherwise clarify how environment_details influenced its approach. This implicitly assumes the user already knows how the assistant is using this information, violating the requirement to explain key dependencies."
+          },
+          {
+            "instance_id": "agents-inkline-type-guard",
+            "category": "SP",
+            "check_id": "SP_no_cd_workspace_change",
+            "result": "success",
+            "reasoning": "Assistant never attempted to change the global workspace directory via `cd` or assumed that `cd` would affect the default path for other tools. All tool calls used explicit paths relative to `/workspace/inkline`, and no `cd` commands were issued."
+          }
+        ]
+      },
+      "User query": {
+        "checks": [
+          {
+            "instance_id": "agents-inkline-type-guard",
+            "category": "User query",
+            "check_id": "UserQuery_guard_location_types_guards",
+            "result": "success",
+            "reasoning": "Assistant created the new type guard functions in the designated directory src/types/guards/schemaState.ts and exported them via the barrel src/types/guards/index.ts, fully complying with the requirement to place schema state type guards in the types guard directory."
+          }
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_instances": 2,
+    "total_checks_shown": 7,
+    "note": "Truncated example file showing prediction output structure."
+  }
+}

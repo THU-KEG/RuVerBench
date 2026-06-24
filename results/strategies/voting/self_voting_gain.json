@@ -1,0 +1,422 @@
+[
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.234522
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 0.334269
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 0.413535
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.73605
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.447986
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 0.755584
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 1.149745
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.72986
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.798103
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 1.055436
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 1.146981
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.869552
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.303677
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 0.429694
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 0.45997
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.257318
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.244941
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 0.188655
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 0.104562
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.289629
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": -0.173109
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": -0.145772
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 0.047475
+  },
+  {
+    "domain": "DeepResearch",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.818537
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 2.152891
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 2.987701
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 2.720313
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Kimi K2.6",
+    "model_id": "kimi-k2.6",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 2.858244
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 3.554595
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 3.745637
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 4.534533
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "DeepSeek V4 Flash",
+    "model_id": "deepseek-v4-flash",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 4.034398
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 1.125959
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 1.584625
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 2.068148
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GLM-5.1",
+    "model_id": "glm-5.1",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 2.774775
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.367977
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 0.331428
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 0.374939
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Seed 2.0 Pro",
+    "model_id": "doubao-seed-2.0-pro",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 0.618604
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 0.641795
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": -0.050038
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": -1.318255
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "GPT-OSS-120B",
+    "model_id": "gpt-oss-120b",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": -3.609719
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 1,
+    "delta_bacc_vs_one_vote": 0.0
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 3,
+    "delta_bacc_vs_one_vote": 1.64829
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 5,
+    "delta_bacc_vs_one_vote": 1.952393
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 7,
+    "delta_bacc_vs_one_vote": 2.109179
+  },
+  {
+    "domain": "AgenticCoding",
+    "model": "Qwen3.5-27B",
+    "model_id": "qwen3.5-27b",
+    "votes": 9,
+    "delta_bacc_vs_one_vote": 2.887891
+  }
+]

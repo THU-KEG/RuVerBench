@@ -1,0 +1,5 @@
+model_group,domain,avg_within_category_error_overlap_pct
+Frontier judges,DeepResearch,16.1
+Frontier judges,AgenticCoding,20.6
+Qwen3.5 variants,DeepResearch,51.9
+Qwen3.5 variants,AgenticCoding,36.3

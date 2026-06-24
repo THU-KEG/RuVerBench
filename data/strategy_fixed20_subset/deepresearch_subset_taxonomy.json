@@ -1,0 +1,2738 @@
+{
+  "category_order": [
+    "format",
+    "numbers",
+    "logic",
+    "facts"
+  ],
+  "default_category": "facts",
+  "points": [
+    {
+      "point_id": "DRB2_1::0",
+      "question_id": "DRB2_1",
+      "point_index": 0,
+      "source_full_point_index": 16,
+      "point": "明确指出‘增量模式’的建议涉及将土地出让金收入从普通商品房转向‘改善型住房’。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_1::1",
+      "question_id": "DRB2_1",
+      "point_index": 1,
+      "source_full_point_index": 30,
+      "point": "比较表必须包含‘对建筑物征税’这一行。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_1::2",
+      "question_id": "DRB2_1",
+      "point_index": 2,
+      "source_full_point_index": 32,
+      "point": "对于‘对建筑物征税’行，明确指出其缺点是‘社会总福利损失最大’。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_1::3",
+      "question_id": "DRB2_1",
+      "point_index": 3,
+      "source_full_point_index": 34,
+      "point": "比较表必须包含‘对土地和建筑物统一征税’这一行。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_1::4",
+      "question_id": "DRB2_1",
+      "point_index": 4,
+      "source_full_point_index": 42,
+      "point": "解释1994年分税制改革与地方政府依赖土地财政作为主要收入来源之间的因果关系。",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_3::0",
+      "question_id": "DRB2_3",
+      "point_index": 0,
+      "source_full_point_index": 5,
+      "point": "明确指出日本从2013年开始，其数字化战略重点转向数字数据的利用。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_3::1",
+      "question_id": "DRB2_3",
+      "point_index": 1,
+      "source_full_point_index": 6,
+      "point": "明确指出日本在2017年制定了“数字政府战略”（Digital Government Strategy），目标是进⼀步促进公共管理的数字化。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_3::2",
+      "question_id": "DRB2_3",
+      "point_index": 2,
+      "source_full_point_index": 9,
+      "point": "明确指出日本在2021年成立了“数字厅”（Digital Agency）。",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_3::3",
+      "question_id": "DRB2_3",
+      "point_index": 3,
+      "source_full_point_index": 14,
+      "point": "明确指出NBIS项目分为两个阶段：第一阶段（1987-1991）和第二阶段（1992-1996）。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_3::4",
+      "question_id": "DRB2_3",
+      "point_index": 4,
+      "source_full_point_index": 39,
+      "point": "在对比表格中，正确填写韩国当前战略的核心愿景为“数字，通往更美好世界的大门”。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_3::5",
+      "question_id": "DRB2_3",
+      "point_index": 5,
+      "source_full_point_index": 46,
+      "point": "在对比表格中，正确填写泰国当前战略的发布时间为“2018年3月”。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_3::6",
+      "question_id": "DRB2_3",
+      "point_index": 6,
+      "source_full_point_index": 67,
+      "point": "提及新加坡存在“灰色数字鸿沟”，例如75岁及以上人群在2020年的互联网使用率仅为46%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_3::7",
+      "question_id": "DRB2_3",
+      "point_index": 7,
+      "source_full_point_index": 82,
+      "point": "全文语言流畅，逻辑清晰，没有含糊不清的表述。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_17::0",
+      "question_id": "DRB2_17",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "明确指出应用方向包括：直接属性预测（direct property predictions）。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_17::1",
+      "question_id": "DRB2_17",
+      "point_index": 1,
+      "source_full_point_index": 7,
+      "point": "在直接属性预测部分，明确提及 SchNet 模型。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_17::2",
+      "question_id": "DRB2_17",
+      "point_index": 2,
+      "source_full_point_index": 12,
+      "point": "在直接属性预测部分，明确提及材料图神经网络（MEGNet）模型。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_17::3",
+      "question_id": "DRB2_17",
+      "point_index": 3,
+      "source_full_point_index": 17,
+      "point": "明确提及逆向材料设计（inverse materials design）使用生成对抗网络（GAN）和强化学习（RL）等技术。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_17::4",
+      "question_id": "DRB2_17",
+      "point_index": 4,
+      "source_full_point_index": 30,
+      "point": "在数据库表格中，包含 CCCBDB 数据库，并指明其数据量为 2069。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_17::5",
+      "question_id": "DRB2_17",
+      "point_index": 5,
+      "source_full_point_index": 31,
+      "point": "在数据库表格中，包含 HOPV15 数据库，并指明其数据量为 350。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_17::6",
+      "question_id": "DRB2_17",
+      "point_index": 6,
+      "source_full_point_index": 51,
+      "point": "在软件包表格中，包含 GATGCNN，并指明其应用材料类型为固体（Sol）。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_17::7",
+      "question_id": "DRB2_17",
+      "point_index": 7,
+      "source_full_point_index": 57,
+      "point": "在软件包表格中，包含 DeepMD，并指明其应用材料类型为分子（Mol）。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_17::8",
+      "question_id": "DRB2_17",
+      "point_index": 8,
+      "source_full_point_index": 61,
+      "point": "在软件包表格中，包含 DeepChemSt.，并指明其应用材料类型为分子（Mol）。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_17::9",
+      "question_id": "DRB2_17",
+      "point_index": 9,
+      "source_full_point_index": 65,
+      "point": "为 JARVIS-DFT 数据库提供了正确的链接 https://jarvis.nist.gov/jarvisdft/。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_17::10",
+      "question_id": "DRB2_17",
+      "point_index": 10,
+      "source_full_point_index": 68,
+      "point": "为 AFLOW 数据库提供了正确的链接 http://www.aflowlib.org/。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_21::0",
+      "question_id": "DRB2_21",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "明确指出动物使用的三种主要指南针机制是地磁罗盘、太阳罗盘和星辰罗盘。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::1",
+      "question_id": "DRB2_21",
+      "point_index": 1,
+      "source_full_point_index": 5,
+      "point": "【倾角罗盘】解释其原理是对磁力线的倾角敏感，而非磁场极性。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::2",
+      "question_id": "DRB2_21",
+      "point_index": 2,
+      "source_full_point_index": 6,
+      "point": "【倾角罗盘】说明其指示的是“朝向磁极（poleward）”和“朝向赤道（equatorward）”而非南北。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_21::3",
+      "question_id": "DRB2_21",
+      "point_index": 3,
+      "source_full_point_index": 15,
+      "point": "【极性罗盘】解释其原理是对磁场极性敏感，能区分磁北和磁南。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::4",
+      "question_id": "DRB2_21",
+      "point_index": 4,
+      "source_full_point_index": 17,
+      "point": "【极性罗盘】提及磁铁矿（magnetite）被认为是其可能的感官基础。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_21::5",
+      "question_id": "DRB2_21",
+      "point_index": 5,
+      "source_full_point_index": 18,
+      "point": "【太阳罗盘】明确指出该机制通过太阳在天空中的位置来确定方向。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::6",
+      "question_id": "DRB2_21",
+      "point_index": 6,
+      "source_full_point_index": 22,
+      "point": "【太阳罗盘】提及“时钟位移实验”（clock-shift experiments）是证明时间补偿机制的关键实验方法。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::7",
+      "question_id": "DRB2_21",
+      "point_index": 7,
+      "source_full_point_index": 29,
+      "point": "【太阳罗盘】指出昆虫（如蚂蚁）的眼睛上部区域专门用于探测偏振光。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_21::8",
+      "question_id": "DRB2_21",
+      "point_index": 8,
+      "source_full_point_index": 31,
+      "point": "【星辰罗盘】明确指出该机制迄今仅在夜间迁徙的鸟类中被证实。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::9",
+      "question_id": "DRB2_21",
+      "point_index": 9,
+      "source_full_point_index": 34,
+      "point": "【星辰罗盘】明确指出星辰罗盘的使用不涉及内部生物钟（非时间补偿）。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_21::10",
+      "question_id": "DRB2_21",
+      "point_index": 10,
+      "source_full_point_index": 36,
+      "point": "【星辰罗盘】指出星辰罗盘是后天学习的，幼鸟需要在首次迁徙前观察到天空的旋转。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_21::11",
+      "question_id": "DRB2_21",
+      "point_index": 11,
+      "source_full_point_index": 43,
+      "point": "能够解释为什么动物需要学习太阳罗盘：因为太阳的运行轨迹随地理纬度和季节变化，必须通过学习来校准。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::12",
+      "question_id": "DRB2_21",
+      "point_index": 12,
+      "source_full_point_index": 46,
+      "point": "能够分析不同罗盘的局限性，例如太阳罗盘在阴天或夜晚无法使用，星辰罗盘在白天或阴天夜晚无法使用，而地磁罗盘则几乎全天候可用。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_21::13",
+      "question_id": "DRB2_21",
+      "point_index": 13,
+      "source_full_point_index": 51,
+      "point": "对比表格必须包含且仅包含六列：【罗盘类型】、【工作原理】、【主要使用的动物类群】、【感官机制/理论模型】、【依赖与局限性】、【习得方式（先天/后天学习）】。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_21::14",
+      "question_id": "DRB2_21",
+      "point_index": 14,
+      "source_full_point_index": 52,
+      "point": "整体语言风格科学、严谨，信息组织有序，逻辑清晰。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_22::0",
+      "question_id": "DRB2_22",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'EV 200' model, with 'Hao et al., 2017' as the research source, and an LCC of $1,547,258 USD.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_22::1",
+      "question_id": "DRB2_22",
+      "point_index": 1,
+      "source_full_point_index": 7,
+      "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'BYD e6 BEV' model, with 'Diao et al., 2016' as the research source, and an LCC of $2,637,998 USD.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_22::2",
+      "question_id": "DRB2_22",
+      "point_index": 2,
+      "source_full_point_index": 9,
+      "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'BEV' model, with 'Propfe et al., 2012' as the research source, and an LCC of $41,322 USD.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_22::3",
+      "question_id": "DRB2_22",
+      "point_index": 3,
+      "source_full_point_index": 11,
+      "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'Mitsubishi i-MiEV (GVR)' model, with 'Wong et al., 2010' as the research source, and an LCC of $186,996 USD.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_22::4",
+      "question_id": "DRB2_22",
+      "point_index": 4,
+      "source_full_point_index": 33,
+      "point": "The table 'Summary of Incentive Policies by Country' includes the country 'Denmark', with the policy 'Establishment of the Center for Green Transport', and the year 2009.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_22::5",
+      "question_id": "DRB2_22",
+      "point_index": 5,
+      "source_full_point_index": 46,
+      "point": "The analysis points out that LCC differences stem from government policies in various countries, such as purchase subsidies, tax exemptions, and non-economic incentives like exemption from purchase and driving restrictions, which significantly affect LCC calculation results.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_22::6",
+      "question_id": "DRB2_22",
+      "point_index": 6,
+      "source_full_point_index": 51,
+      "point": "The analysis points out that although some studies (e.g., EPRI, 2013) show that EV LCC might be lower than ICEV, this is usually based on specific model assumptions rather than being a general case.",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_23::0",
+      "question_id": "DRB2_23",
+      "point_index": 0,
+      "source_full_point_index": 4,
+      "point": "明确指出未来LIB价格预计将降至45 €/kWh以下。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_23::1",
+      "question_id": "DRB2_23",
+      "point_index": 1,
+      "source_full_point_index": 15,
+      "point": "在高分子基表格中，正确列出Bollore (BlueSolutions)作为参与者。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_23::2",
+      "question_id": "DRB2_23",
+      "point_index": 2,
+      "source_full_point_index": 19,
+      "point": "WeLion的技术描述包括：2022年与蔚来汽车合作推出采用锂金属负极和NMC正极的高分子电池，并已开工建设初期产能20GWh（目标扩展至100GWh）的生产基地。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_23::3",
+      "question_id": "DRB2_23",
+      "point_index": 3,
+      "source_full_point_index": 37,
+      "point": "ProLogium的技术描述包括：计划到2023年将SSB应用于商用车辆(VinFast)或原型车(Mercedes-Benz)，为此计划在2022年建设1-2GWh的产能，并已于2022年展示了2.5kWh的电池。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_23::4",
+      "question_id": "DRB2_23",
+      "point_index": 4,
+      "source_full_point_index": 56,
+      "point": "在硫化物基表格中，正确列出Prime Planet Energy作为参与者。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_23::5",
+      "question_id": "DRB2_23",
+      "point_index": 5,
+      "source_full_point_index": 60,
+      "point": "能基于LIB价格大幅下降的历史，分析出SSB同样可能通过技术成熟和规模化生产实现成本降低，并指出SSB可受益于LIB部分现有产业链。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_23::6",
+      "question_id": "DRB2_23",
+      "point_index": 6,
+      "source_full_point_index": 62,
+      "point": "能解释规模经济对于SSB成本下降的决定性作用，并结合Bloomberg NEF的预测，指出这是实现与LIB价格平价的关键路径。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_23::7",
+      "question_id": "DRB2_23",
+      "point_index": 7,
+      "source_full_point_index": 64,
+      "point": "能分析不同材料路线的经济可行性，例如指出锗基电解质因金属价值过高而经济上不可行。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_25::0",
+      "question_id": "DRB2_25",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "明确指出药物分子可用作缓蚀剂，因为其分子亚结构与已知的缓蚀剂（如咪唑、吡啶等）相似。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_25::1",
+      "question_id": "DRB2_25",
+      "point_index": 1,
+      "source_full_point_index": 5,
+      "point": "明确指出5 mM的L-半胱氨酸在1.0 M HCl中浸泡4小时，缓蚀效率为91%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_25::2",
+      "question_id": "DRB2_25",
+      "point_index": 2,
+      "source_full_point_index": 21,
+      "point": "明确指出安乃近在4000 ppm浓度、298 K下，缓蚀效率为96.1%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_25::3",
+      "question_id": "DRB2_25",
+      "point_index": 3,
+      "source_full_point_index": 29,
+      "point": "列举吡啶鎓基离子液体例子：1-(3-溴丙基)-4-(二甲氨基)吡啶溴化物。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_25::4",
+      "question_id": "DRB2_25",
+      "point_index": 4,
+      "source_full_point_index": 40,
+      "point": "列举阳离子表面活性剂例子：十六烷基二甲基异丙基氢氧化铵 (HEDIAOH)。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_25::5",
+      "question_id": "DRB2_25",
+      "point_index": 5,
+      "source_full_point_index": 51,
+      "point": "明确指出柠檬马鞭草叶提取物在800 ppm浓度下（2.5小时），缓蚀效率最高为94%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_25::6",
+      "question_id": "DRB2_25",
+      "point_index": 6,
+      "source_full_point_index": 67,
+      "point": "列举聚合物缓蚀剂例子：聚(乙烯醇-半胱氨酸) (poly(vinyl alcohol-cysteine))。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_25::7",
+      "question_id": "DRB2_25",
+      "point_index": 7,
+      "source_full_point_index": 69,
+      "point": "列举聚合物缓蚀剂例子：可光交联聚合物 Cl-5c。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_25::8",
+      "question_id": "DRB2_25",
+      "point_index": 8,
+      "source_full_point_index": 74,
+      "point": "明确指出PDA-2在5 mg/L浓度下，缓蚀效率约为99%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_25::9",
+      "question_id": "DRB2_25",
+      "point_index": 9,
+      "source_full_point_index": 82,
+      "point": "在综合比较中，对比聚合物和表面活性剂，指出达到相同覆盖面积，表面活性剂可能需要比聚合物更高的浓度。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_26::0",
+      "question_id": "DRB2_26",
+      "point_index": 0,
+      "source_full_point_index": 30,
+      "point": "Clearly state that alkali metal silicates are water-soluble and commonly used in aqueous solutions.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_26::1",
+      "question_id": "DRB2_26",
+      "point_index": 1,
+      "source_full_point_index": 41,
+      "point": "In the summary table, correctly list iron sulfide for oil and gas production.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_26::2",
+      "question_id": "DRB2_26",
+      "point_index": 2,
+      "source_full_point_index": 42,
+      "point": "In the summary table, correctly list calcium nitrite for concrete reinforcement.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_26::3",
+      "question_id": "DRB2_26",
+      "point_index": 3,
+      "source_full_point_index": 43,
+      "point": "In the summary table, correctly list sodium nitrate for concrete reinforcement.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_26::4",
+      "question_id": "DRB2_26",
+      "point_index": 4,
+      "source_full_point_index": 49,
+      "point": "Explain that metal oxide-based inhibitors can be classified into anodic, cathodic, and mixed inhibitors based on their effect on different parts of the electrochemical reaction.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_26::5",
+      "question_id": "DRB2_26",
+      "point_index": 5,
+      "source_full_point_index": 51,
+      "point": "Explain that cathodic inhibitors slow down the reduction reaction by forming a passivating layer on the cathode surface.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_26::6",
+      "question_id": "DRB2_26",
+      "point_index": 6,
+      "source_full_point_index": 56,
+      "point": "Correctly associate specific inhibitor categories with their typical industrial applications, such as linking iron phosphate with the food industry because it is suitable for protecting stainless steel equipment.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_26::7",
+      "question_id": "DRB2_26",
+      "point_index": 7,
+      "source_full_point_index": 58,
+      "point": "The overall report structure follows the three sections required by the task: 'Part One: Main Types and Mechanisms of Action', 'Part Two: Key Chemical Reactions', 'Part Three: Application Summary Table'.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_37::0",
+      "question_id": "DRB2_37",
+      "point_index": 0,
+      "source_full_point_index": 2,
+      "point": "明确解释自测试的目标是证明物理系统中的量子态和测量操作，在局部幺正变换和附加自由度的意义上，与某个参考态和参考测量等价。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_37::1",
+      "question_id": "DRB2_37",
+      "point_index": 1,
+      "source_full_point_index": 5,
+      "point": "在表格中包含基于“倾斜CHSH不等式 (Tilted CHSH inequalities)”的方案，目标测试态为“部分纠缠双量子比特对”，并引用《Robust self-testing of unknown quantum systems into any entangled two-qubit states》。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_37::2",
+      "question_id": "DRB2_37",
+      "point_index": 2,
+      "source_full_point_index": 10,
+      "point": "在表格中包含基于“线性约束系统博弈 (linear-constraint system games)”，如“魔方博弈 (magic square game)”的方案，目标测试态为“n个最大纠缠量子比特对的张量积”，并引用《Robust self-testing for linear constraint system games》。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_37::3",
+      "question_id": "DRB2_37",
+      "point_index": 3,
+      "source_full_point_index": 11,
+      "point": "在表格中包含“序贯自测试 (Sequential self-testing)”方案，目标测试态为“n个EPR对”，并引用《Classical command of quantum systems》。",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_37::4",
+      "question_id": "DRB2_37",
+      "point_index": 4,
+      "source_full_point_index": 16,
+      "point": "明确列出鲁棒自测试方法：“范数不等式方法 (Norm inequalities method)”，其应用可见于《Robust self-testing of the singlet》等文献。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_37::5",
+      "question_id": "DRB2_37",
+      "point_index": 5,
+      "source_full_point_index": 30,
+      "point": "在“委托量子计算 (DQC)”应用中，明确引用《Interactive proofs for BQP via self-tested graph states》的工作，该工作利用图态的自测试来构建可验证的DQC协议。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_37::6",
+      "question_id": "DRB2_37",
+      "point_index": 6,
+      "source_full_point_index": 31,
+      "point": "解释了为何在设备无关场景下，只能将物理实现推断到“局部等距变换 (local isometry)”等价的程度，因为这种变换不改变可观测的统计相关性。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_37::7",
+      "question_id": "DRB2_37",
+      "point_index": 7,
+      "source_full_point_index": 41,
+      "point": "“核心技术梳理”部分必须以表格形式呈现。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_44::0",
+      "question_id": "DRB2_44",
+      "point_index": 0,
+      "source_full_point_index": 13,
+      "point": "Explicitly state that the full name of LCvx is Lossless Convexification.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_44::1",
+      "question_id": "DRB2_44",
+      "point_index": 1,
+      "source_full_point_index": 17,
+      "point": "Specifically state that LCvx was used by NASA JPL for a multi-year flight test program for Mars pinpoint landing.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_44::2",
+      "question_id": "DRB2_44",
+      "point_index": 2,
+      "source_full_point_index": 47,
+      "point": "The overall structure of the answer is divided into three parts: 1. Introduction to trajectory generation and the advantages of convex optimization; 2. Detailed explanation of the three methods: LCvx, SCvx, and GuSTO; 3. A comparison table of the three methods.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_45::0",
+      "question_id": "DRB2_45",
+      "point_index": 0,
+      "source_full_point_index": 4,
+      "point": "综述部分明确指出Decima使用强化学习（RL）和神经网络来学习特定于工作负载的调度算法。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_45::1",
+      "question_id": "DRB2_45",
+      "point_index": 1,
+      "source_full_point_index": 23,
+      "point": "综述部分明确指出KaiS使用图神经网络（graph neural networks）和协调的多智能体行动者-评论家方法（coordinated multi-agent actor-critic）。",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_45::2",
+      "question_id": "DRB2_45",
+      "point_index": 2,
+      "source_full_point_index": 41,
+      "point": "总结部分分析认为，将AI调度算法从受控的实验环境部署到真实的生产环境中，并进行有效的评估和验证，是一个具有挑战性的实践问题。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_45::3",
+      "question_id": "DRB2_45",
+      "point_index": 3,
+      "source_full_point_index": 43,
+      "point": "在“技术综述”部分，对每种调度器或方案的介绍都包含了名称、核心目标、关键AI技术和量化性能提升。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_48::0",
+      "question_id": "DRB2_48",
+      "point_index": 0,
+      "source_full_point_index": 11,
+      "point": "Clearly state that in multi-agent systems, individual agents can serve as atomic components.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_48::1",
+      "question_id": "DRB2_48",
+      "point_index": 1,
+      "source_full_point_index": 16,
+      "point": "Under 'Capability Enhancement' advantage, mention enhancing capabilities by calling specialized models in domains such as finance, law, or healthcare.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_48::2",
+      "question_id": "DRB2_48",
+      "point_index": 2,
+      "source_full_point_index": 23,
+      "point": "Under 'Functionality Expansion' advantage, mention managing tasks by integrating project management or workflow tools.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_48::3",
+      "question_id": "DRB2_48",
+      "point_index": 3,
+      "source_full_point_index": 30,
+      "point": "Under 'User-Centric Design' advantage, mention protecting privacy by transferring knowledge via federated learning without transmitting raw data.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_48::4",
+      "question_id": "DRB2_48",
+      "point_index": 4,
+      "source_full_point_index": 31,
+      "point": "Under 'User-Centric Design' advantage, mention achieving customization by optimizing or replacing specific small models/tools.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_48::5",
+      "question_id": "DRB2_48",
+      "point_index": 5,
+      "source_full_point_index": 40,
+      "point": "In the 'Tool Construction - LLM-based Automatic Construction' section, mention the CREATOR model can independently create tools using documents and code.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_48::6",
+      "question_id": "DRB2_48",
+      "point_index": 6,
+      "source_full_point_index": 42,
+      "point": "In the 'Tool Construction - LLM-based Automatic Construction' section, mention KTCE proposes a 'problem-knowledge-tool' paradigm, abstracting knowledge from training data to build tools.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_48::7",
+      "question_id": "DRB2_48",
+      "point_index": 7,
+      "source_full_point_index": 46,
+      "point": "In the 'Model Construction - Task Paradigms' section, mention Reward Models learn preference patterns by training on paired human preference data.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_48::8",
+      "question_id": "DRB2_48",
+      "point_index": 8,
+      "source_full_point_index": 49,
+      "point": "In the 'Model Construction - Architectural Innovations' section, mention recurrent neural networks like LSTM/GRU still have advantages in processing sequential data (e.g., financial sequences).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_48::9",
+      "question_id": "DRB2_48",
+      "point_index": 9,
+      "source_full_point_index": 53,
+      "point": "In the 'Model Construction - Architectural Innovations' section, mention technical iterations of generative models, including GANs (mode collapse problem), VAEs (blurry output problem), and diffusion models.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_48::10",
+      "question_id": "DRB2_48",
+      "point_index": 10,
+      "source_full_point_index": 57,
+      "point": "Explain the mechanism of 'Big Loop' system's functionality expansion: LLMs are inherently language processors, and by calling tools capable of interacting with external environments (e.g., APIs, databases), they gain the ability to perform practical operations such as booking tickets or managing schedules.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_48::11",
+      "question_id": "DRB2_48",
+      "point_index": 11,
+      "source_full_point_index": 64,
+      "point": "The response must be clearly divided into three main sections, using appropriate headings, such as 'Core Concept Definitions', 'Advantages of Big Loop Systems', and 'Construction of Atomic Components'.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::0",
+      "question_id": "DRB2_68",
+      "point_index": 0,
+      "source_full_point_index": 4,
+      "point": "In the comparison table, explicitly state that 'AI Transparency's' output example is 'Access to code/data flow'.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::1",
+      "question_id": "DRB2_68",
+      "point_index": 1,
+      "source_full_point_index": 9,
+      "point": "In the comparison table, explicitly state that 'XAI's' output examples include 'Feature importance (SHAP)' and 'LIME'.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::2",
+      "question_id": "DRB2_68",
+      "point_index": 2,
+      "source_full_point_index": 10,
+      "point": "In the comparison table, explicitly state that 'AI Reasoning's' focus is 'Clinical relevance and justification'.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::3",
+      "question_id": "DRB2_68",
+      "point_index": 3,
+      "source_full_point_index": 16,
+      "point": "Explicitly state that AI-SDM's core objective is 'to generate adaptive, narrative clinical reasoning specifically designed to facilitate the triadic deliberation (HCP-patient-AI) inherent in the SDM process'.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_68::4",
+      "question_id": "DRB2_68",
+      "point_index": 4,
+      "source_full_point_index": 31,
+      "point": "In the comparison table, under the 'Personalization' dimension, 'XAI' corresponds to 'Minimal; generalized models'.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::5",
+      "question_id": "DRB2_68",
+      "point_index": 5,
+      "source_full_point_index": 34,
+      "point": "In the comparison table, under the 'Patient role' dimension, 'XAI' corresponds to 'Passive receiver'.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::6",
+      "question_id": "DRB2_68",
+      "point_index": 6,
+      "source_full_point_index": 44,
+      "point": "In the comparison table, under the 'Transparency' dimension, 'AI-SDM' corresponds to 'Justifiable clinical reasoning in natural language'.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::7",
+      "question_id": "DRB2_68",
+      "point_index": 7,
+      "source_full_point_index": 47,
+      "point": "In the comparison table, under the 'Limitations' dimension, 'AI-SDM' corresponds to 'Dependent on quality of AI design and integration'.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::8",
+      "question_id": "DRB2_68",
+      "point_index": 8,
+      "source_full_point_index": 49,
+      "point": "Explain why AI reasoning is more suitable for SDM: it answers 'Why is this output relevant for the patient?' by generating contextual narratives and risk/benefit summaries, thereby facilitating clinician-patient dialogue.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_68::9",
+      "question_id": "DRB2_68",
+      "point_index": 9,
+      "source_full_point_index": 56,
+      "point": "The response structure is clear and strictly organized according to the three requested sections: 1. Comparison table for AI Transparency/XAI/AI Reasoning; 2. Definition of the AI-SDM framework; 3. Comparison table for Traditional SDM/XAI/AI-SDM.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_68::10",
+      "question_id": "DRB2_68",
+      "point_index": 10,
+      "source_full_point_index": 57,
+      "point": "Both comparison tables are correctly generated and include all columns (e.g., focus, goal, audience) and rows (e.g., AI Transparency, XAI, AI Reasoning) as required by the task.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_74::0",
+      "question_id": "DRB2_74",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "Explicitly state that the 'Copyright Law of the People's Republic of China' (revised in 2010) is one of the regulations concerning intellectual property rights of research data.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::1",
+      "question_id": "DRB2_74",
+      "point_index": 1,
+      "source_full_point_index": 3,
+      "point": "Explicitly state that the 'Cybersecurity Law of the People's Republic of China' (2017) is one of the regulations concerning data security.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::2",
+      "question_id": "DRB2_74",
+      "point_index": 2,
+      "source_full_point_index": 7,
+      "point": "Explicitly state that the 'Interim Measures for the Management and Sharing of Government Information Resources' (2016) provides guidance for electronic record management.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::3",
+      "question_id": "DRB2_74",
+      "point_index": 3,
+      "source_full_point_index": 10,
+      "point": "Explicitly state that the Chinese Academy of Sciences (CAS) issued the 'Measures for the Management and Sharing of Scientific Data of the Chinese Academy of Sciences (for Trial Implementation)' in 2019.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::4",
+      "question_id": "DRB2_74",
+      "point_index": 4,
+      "source_full_point_index": 12,
+      "point": "Explicitly state the policy in the field of Earth Sciences: 'Measures for Managing Polar Expedition Data of China', issued by the State Oceanic Administration in 2018.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::5",
+      "question_id": "DRB2_74",
+      "point_index": 5,
+      "source_full_point_index": 31,
+      "point": "Explain that as of June 2020, 'China Scientific Data' had shared over 224 data papers and datasets.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::6",
+      "question_id": "DRB2_74",
+      "point_index": 6,
+      "source_full_point_index": 40,
+      "point": "Identify the 'Chinese Academy of Sciences (CAS)' as one of the key driving institutions.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_74::7",
+      "question_id": "DRB2_74",
+      "point_index": 7,
+      "source_full_point_index": 58,
+      "point": "Analyze that the 'Measures for Managing Scientific Data' (2018) is a key turning point, providing a national-level basis for various institutions (such as CAS) to formulate specific implementation rules, thereby promoting the systematic implementation of policies.",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_74::8",
+      "question_id": "DRB2_74",
+      "point_index": 8,
+      "source_full_point_index": 63,
+      "point": "Point out that the gap between Chinese researchers' attitudes and actual actions regarding data sharing is narrowing.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_74::9",
+      "question_id": "DRB2_74",
+      "point_index": 9,
+      "source_full_point_index": 68,
+      "point": "The report must include four clear sections, using titles such as 'Policy System Review', 'Practice Cases Listing', 'Key Driving Institutions', and 'Summary Table of Main Policies and Regulations' or similar.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_74::10",
+      "question_id": "DRB2_74",
+      "point_index": 10,
+      "source_full_point_index": 71,
+      "point": "The table content should cover representative policies at the national, institutional, and disciplinary levels.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_80::0",
+      "question_id": "DRB2_80",
+      "point_index": 0,
+      "source_full_point_index": 14,
+      "point": "Clearly state that Aleksievich focused on women's personal experiences, which should have 'its own colors, its own smells, its own space and its own language.'",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_80::1",
+      "question_id": "DRB2_80",
+      "point_index": 1,
+      "source_full_point_index": 28,
+      "point": "Explain the connection between Aleksievich's work and feminist scholarship (e.g., Christine Sylvester's theory of 'touching war'), which centralizes bodily and emotional experiences.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_80::2",
+      "question_id": "DRB2_80",
+      "point_index": 2,
+      "source_full_point_index": 34,
+      "point": "The output must be structured into two main parts: 'Part One: The Case of Boris Takk (as studied by Ene Kõresaar)' and 'Part Two: The Perspectives of Svetlana Aleksievich and Jasmina Husanović.'",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_82::0",
+      "question_id": "DRB2_82",
+      "point_index": 0,
+      "source_full_point_index": 17,
+      "point": "Correctly list wartime factories in the table: Xiangxi Electricity Works Yuanling Branch (湘西电厂沅陵分厂), located at Yuanling County, Hunan, established in January 1939, industrial category Electric Industry (EI).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_82::1",
+      "question_id": "DRB2_82",
+      "point_index": 1,
+      "source_full_point_index": 21,
+      "point": "Correctly list wartime factories in the table: Electrochemical Refinery (电化冶炼厂), located at Qijiang County, Chongqing, established in July 1941, industrial category Smelting Industry (SI).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_82::2",
+      "question_id": "DRB2_82",
+      "point_index": 2,
+      "source_full_point_index": 22,
+      "point": "Correctly list wartime factories in the table: North Spring Alcohol Plant (北泉酒精厂), located at Beibei County, Chongqing, established in May 1941, industrial category Traditional Industry (TI).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_82::3",
+      "question_id": "DRB2_82",
+      "point_index": 3,
+      "source_full_point_index": 25,
+      "point": "Correctly list wartime factories in the table: Wanxian Electricity Works (万县电厂), located at Wan County, Chongqing, established in August 1938, industrial category Electric Industry (EI).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_82::4",
+      "question_id": "DRB2_82",
+      "point_index": 4,
+      "source_full_point_index": 29,
+      "point": "Correctly identified and categorized \"resource factors,\" including: coal mine resources, iron ore resources, electric power resources.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_82::5",
+      "question_id": "DRB2_82",
+      "point_index": 5,
+      "source_full_point_index": 34,
+      "point": "Clearly state that only 3 out of 17 wartime factories (Qiling Coal Mine Company, Hunan Electric Company Changsha Branch, Steel Plant Relocation Commission) maintained close contact with railways.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_82::6",
+      "question_id": "DRB2_82",
+      "point_index": 6,
+      "source_full_point_index": 36,
+      "point": "Clearly state that only 4 out of 11 pre-war factories maintained moderate contact with urban centers.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_82::7",
+      "question_id": "DRB2_82",
+      "point_index": 7,
+      "source_full_point_index": 42,
+      "point": "Explain the reason for emphasizing railway transportation pre-war: aiming to build a multi-dimensional transportation network with railways as the primary mode and water transport as auxiliary, to support the construction of modern industrial bases.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_90::0",
+      "question_id": "DRB2_90",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "Clearly state that the 7T-SRAM cell has a single Read Bitline (RBL) and Read Wordline (RWL) for read operations.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_90::1",
+      "question_id": "DRB2_90",
+      "point_index": 1,
+      "source_full_point_index": 1,
+      "point": "Clearly state that the 7T-SRAM cell breaks the feedback of the back-to-back inverters through the newly added transistor M4 and the WL signal to improve write noise margin.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_90::2",
+      "question_id": "DRB2_90",
+      "point_index": 2,
+      "source_full_point_index": 19,
+      "point": "Clearly list the assist-circuit scheme: VDD lowering, and indicate its type as write assist.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::3",
+      "question_id": "DRB2_90",
+      "point_index": 3,
+      "source_full_point_index": 20,
+      "point": "Clearly state that the overhead of the VDD lowering scheme is Pull-up and pull-down devices.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_90::4",
+      "question_id": "DRB2_90",
+      "point_index": 4,
+      "source_full_point_index": 28,
+      "point": "In the performance comparison table, the Leakage Power for 6T cell is 5.6 nW.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::5",
+      "question_id": "DRB2_90",
+      "point_index": 5,
+      "source_full_point_index": 29,
+      "point": "In the performance comparison table, the Read Access Time for 6T cell is 3.06 ps.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::6",
+      "question_id": "DRB2_90",
+      "point_index": 6,
+      "source_full_point_index": 31,
+      "point": "In the performance comparison table, the Sensing Method for 6T cell is Differential.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::7",
+      "question_id": "DRB2_90",
+      "point_index": 7,
+      "source_full_point_index": 34,
+      "point": "In the performance comparison table, the Write Dynamic Power for 7T cell is 7.5 µW.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::8",
+      "question_id": "DRB2_90",
+      "point_index": 8,
+      "source_full_point_index": 40,
+      "point": "In the performance comparison table, the Read Dynamic Power for 8T cell is 18.14 µW.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::9",
+      "question_id": "DRB2_90",
+      "point_index": 9,
+      "source_full_point_index": 44,
+      "point": "In the performance comparison table, the Write Access Time for 8T cell is 37.93 ps.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::10",
+      "question_id": "DRB2_90",
+      "point_index": 10,
+      "source_full_point_index": 62,
+      "point": "In the performance comparison table, the Write Dynamic Power for 11T cell is 50.83 µW.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::11",
+      "question_id": "DRB2_90",
+      "point_index": 11,
+      "source_full_point_index": 65,
+      "point": "In the performance comparison table, the Write Access Time for 11T cell is 61.06 ps.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_90::12",
+      "question_id": "DRB2_90",
+      "point_index": 12,
+      "source_full_point_index": 80,
+      "point": "Explain how the 8T cell resolves device sizing conflicts between read stability and writability by setting up independent read ports, thus enabling independent optimization of read stability.",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_90::13",
+      "question_id": "DRB2_90",
+      "point_index": 13,
+      "source_full_point_index": 86,
+      "point": "Explain the principle of the NBL (Negative Bitline) scheme: generating a negative voltage on the bitline to help flip the cell's value, thereby assisting write operations.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_90::14",
+      "question_id": "DRB2_90",
+      "point_index": 14,
+      "source_full_point_index": 96,
+      "point": "The 'Performance Comparison Table' must be presented in a table format.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::0",
+      "question_id": "DRB2_92",
+      "point_index": 0,
+      "source_full_point_index": 17,
+      "point": "In the basic information table, correctly summarize the core advantages of Urban Cycle, such as hierarchical network modeling, capable of simulating very detailed runoff and demand.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::1",
+      "question_id": "DRB2_92",
+      "point_index": 1,
+      "source_full_point_index": 21,
+      "point": "In the basic information table, correctly identify the first developed year of MIKE URBAN as 2007.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::2",
+      "question_id": "DRB2_92",
+      "point_index": 2,
+      "source_full_point_index": 27,
+      "point": "In the basic information table, correctly identify the first developed year of City Water Balance (CWB) as 2010.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::3",
+      "question_id": "DRB2_92",
+      "point_index": 3,
+      "source_full_point_index": 32,
+      "point": "In the basic information table, correctly summarize the core advantages of DAnCE4Water, such as supporting decentralized systems, considering multiple sustainability indicators including socioeconomic and ecological factors.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::4",
+      "question_id": "DRB2_92",
+      "point_index": 4,
+      "source_full_point_index": 47,
+      "point": "In the capability comparison table, clearly state that Urban Cycle, UWOT possess the 'Treatment Scheme Simulation' capability under DWM.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::5",
+      "question_id": "DRB2_92",
+      "point_index": 5,
+      "source_full_point_index": 53,
+      "point": "In the capability comparison table, clearly state that Aquacycle possesses the 'Impact of Green Infrastructure (GI) on Water Balance' capability under SWM.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_92::6",
+      "question_id": "DRB2_92",
+      "point_index": 6,
+      "source_full_point_index": 78,
+      "point": "Able to compare and conclude that WaterMet2's core is performance assessment based on the 'urban metabolism' theory, which differs from the engineering simulation methods of other models.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_92::7",
+      "question_id": "DRB2_92",
+      "point_index": 7,
+      "source_full_point_index": 79,
+      "point": "The answer should be clearly divided into two parts: 'Model Basic Information Table' and 'Model Application Capability Comparison Table'.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_96::0",
+      "question_id": "DRB2_96",
+      "point_index": 0,
+      "source_full_point_index": 38,
+      "point": "In the \"Reinforcement Learning\" category of the algorithm table, include the \"Markov Decision Process (MDP)\" proposed in the study titled \"Reinforcement learning for online optimization of job-shop scheduling in a smart manufacturing factory\", applied to online scheduling decisions.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_96::1",
+      "question_id": "DRB2_96",
+      "point_index": 1,
+      "source_full_point_index": 44,
+      "point": "Clearly state that another challenge in semiconductor industry scheduling is optimizing the transient processing of single-arm multi-cluster tool robots.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_96::2",
+      "question_id": "DRB2_96",
+      "point_index": 2,
+      "source_full_point_index": 46,
+      "point": "Clearly state that a challenge in electronics industry PCBA scheduling is optimizing the assembly sequence of circuit boards on Surface Mount Device (SMD) machines to achieve optimal setup strategies.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_96::3",
+      "question_id": "DRB2_96",
+      "point_index": 3,
+      "source_full_point_index": 52,
+      "point": "Ability to summarize the evolutionary trajectory of HMLV research from the \"Theoretical Exploration and Algorithm Optimization\" phase (2000-2008), transitioning to the \"Automation and System Integration\" phase (2009-2016), and then to the \"Intelligent and Data-Driven\" phase (2017-2022).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_96::4",
+      "question_id": "DRB2_96",
+      "point_index": 4,
+      "source_full_point_index": 56,
+      "point": "Ability to analyze the core contradiction of CONWIP in HMLV: it simplifies management by controlling total Work-In-Process, but its reliance on grouping process routes conflicts with the high heterogeneity of HMLV.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_96::5",
+      "question_id": "DRB2_96",
+      "point_index": 5,
+      "source_full_point_index": 60,
+      "point": "Ability to explain why the semiconductor and electronics industries became focal points for HMLV research: these two industries inherently possess typical characteristics of short product lifecycles, rapid technological iteration, diverse product types (high-mix), and fragmented customer orders (low-volume).",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_96::6",
+      "question_id": "DRB2_96",
+      "point_index": 6,
+      "source_full_point_index": 63,
+      "point": "Report structure is clear, including three main sections: \"Summary of Research Hotspots by Stage\", \"Review of Core Technologies and Methods\", and \"Industry Application Analysis\".",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_105::0",
+      "question_id": "DRB2_105",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "明确指出异世界故事属于“高奇幻”（high fantasy）类别。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_105::1",
+      "question_id": "DRB2_105",
+      "point_index": 1,
+      "source_full_point_index": 15,
+      "point": "明确指出进入异世界的方式中，“无解释”占比为23%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::2",
+      "question_id": "DRB2_105",
+      "point_index": 2,
+      "source_full_point_index": 16,
+      "point": "明确指出进入异世界的方式中，“转生”占比为21%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::3",
+      "question_id": "DRB2_105",
+      "point_index": 3,
+      "source_full_point_index": 25,
+      "point": "明确指出84%进入少女向（otome）世界的主角是女性。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::4",
+      "question_id": "DRB2_105",
+      "point_index": 4,
+      "source_full_point_index": 26,
+      "point": "明确指出83%进入少年向（shōnen）世界的主角是男性。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::5",
+      "question_id": "DRB2_105",
+      "point_index": 5,
+      "source_full_point_index": 32,
+      "point": "明确指出三分之二（约67%）的主角在抵达异世界时会收到“外挂”或“恩惠”。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::6",
+      "question_id": "DRB2_105",
+      "point_index": 6,
+      "source_full_point_index": 40,
+      "point": "明确指出约五分之一（20%）的故事中主角是作为团体的一员进入异世界。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::7",
+      "question_id": "DRB2_105",
+      "point_index": 7,
+      "source_full_point_index": 44,
+      "point": "明确指出在女性主角的故事中，遇到的第一个异性具有性吸引力的比例是43%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::8",
+      "question_id": "DRB2_105",
+      "point_index": 8,
+      "source_full_point_index": 46,
+      "point": "明确指出在女性主角的故事中，发生浪漫关系的比例为34%。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_105::9",
+      "question_id": "DRB2_105",
+      "point_index": 9,
+      "source_full_point_index": 47,
+      "point": "能分析出成年主角比青少年主角更倾向于追求“满足个人欲望”作为动机。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_105::10",
+      "question_id": "DRB2_105",
+      "point_index": 10,
+      "source_full_point_index": 51,
+      "point": "回答严格按照“背景介绍”、“核心设定统计”、“分析与总结”三个部分组织。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_117::0",
+      "question_id": "DRB2_117",
+      "point_index": 0,
+      "source_full_point_index": 11,
+      "point": "明确指出吉藏反驳此观点的理由：佛性是本来具有的，不是修行的结果。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_117::1",
+      "question_id": "DRB2_117",
+      "point_index": 1,
+      "source_full_point_index": 14,
+      "point": "明确列出吉藏批判的观点：佛性是真谛（ultimate truth, zhendi）。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_117::2",
+      "question_id": "DRB2_117",
+      "point_index": 2,
+      "source_full_point_index": 24,
+      "point": "明确指出吉藏提出的两种“常”的概念：“定性常”（dingxing chang, intrinsic eternality）和“因缘常”（yinyuan chang, conditional eternality）。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_117::3",
+      "question_id": "DRB2_117",
+      "point_index": 3,
+      "source_full_point_index": 41,
+      "point": "明确指出“佛性常住”的说法可以对治二乘修行人对“无常”的错误执着。",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_117::4",
+      "question_id": "DRB2_117",
+      "point_index": 4,
+      "source_full_point_index": 43,
+      "point": "明确指出“佛性常住”的说法具有鼓励作用，因为它表明成佛是“非妄”（not illusory）且可以实现的。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_127::0",
+      "question_id": "DRB2_127",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "明确引用 Rosalind Picard 在1997年的开创性著作《情感计算》（Affective Computing）作为该领域的基础，该书进一步阐明了赋予计算机情感能力的技术可能性，将 Minsky 的理论构想转化为具体的情感计算工程方向。",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_127::1",
+      "question_id": "DRB2_127",
+      "point_index": 1,
+      "source_full_point_index": 6,
+      "point": "明确引用 Sherry Turkle 的著作《群体性孤独》（Alone Together，2014年），该书探讨了人类与计算机建立亲密联系的现象。",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_127::2",
+      "question_id": "DRB2_127",
+      "point_index": 2,
+      "source_full_point_index": 41,
+      "point": "为每篇引用的著作提供其主要论点的正确、简洁的摘要，且摘要需与情感AI或伪亲密关系主题相关。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_127::3",
+      "question_id": "DRB2_127",
+      "point_index": 3,
+      "source_full_point_index": 43,
+      "point": "正确解释从“准社会互动”（单向用户投射）到“伪亲密关系”（双向但模拟的情感交换）的理论飞跃。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_127::4",
+      "question_id": "DRB2_127",
+      "point_index": 4,
+      "source_full_point_index": 52,
+      "point": "解释尽管AI可以被编程来“理解”和“回应”情感，但它缺乏人类所拥有的天生的、生物性的共情能力，这造成了根本性的差异。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_127::5",
+      "question_id": "DRB2_127",
+      "point_index": 5,
+      "source_full_point_index": 54,
+      "point": "在此背景下解释“人的异化”概念，即人类的创造物（AI）开始挑战或改变人类的主体性和社会结构。",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_127::6",
+      "question_id": "DRB2_127",
+      "point_index": 6,
+      "source_full_point_index": 55,
+      "point": "提供一个平衡的结论，避免纯粹的乌托邦或反乌托邦观点，承认其复杂性，并呼吁以负责任的态度发展情感AI。",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_127::7",
+      "question_id": "DRB2_127",
+      "point_index": 7,
+      "source_full_point_index": 57,
+      "point": "每个部分必须有清晰的主标题。",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::0",
+      "question_id": "DRB2_128",
+      "point_index": 0,
+      "source_full_point_index": 2,
+      "point": "Clearly state that the PROT-AGE Study Group recommends an average daily protein intake of at least 1.0 to 1.2 g/kg/d for healthy older adults.",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_128::1",
+      "question_id": "DRB2_128",
+      "point_index": 1,
+      "source_full_point_index": 6,
+      "point": "Clearly state that Nordic countries revised their recommended protein intake for older adults to 1.2g/kg/day starting from 2012.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_128::2",
+      "question_id": "DRB2_128",
+      "point_index": 2,
+      "source_full_point_index": 17,
+      "point": "In the muscle health table, correctly state the population for the ProMuscle in Practice study as: ≥65 years old, frail or pre-frail, or physically inactive.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::3",
+      "question_id": "DRB2_128",
+      "point_index": 3,
+      "source_full_point_index": 24,
+      "point": "In the muscle health table, correctly report the results of the CALM study as: compared to the protein-only group, the protein + exercise group showed improvements in quadriceps size and leg strength.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::4",
+      "question_id": "DRB2_128",
+      "point_index": 4,
+      "source_full_point_index": 33,
+      "point": "In the bone health table, correctly report the results of Weaver et al.'s study as: during 5 years of follow-up, the high protein intake group had a 64% reduced risk of vertebral fractures.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::5",
+      "question_id": "DRB2_128",
+      "point_index": 5,
+      "source_full_point_index": 35,
+      "point": "In the bone health table, correctly state the population for Kemmler et al.'s study as: men aged ≥72 years with osteoporosis and sarcopenia.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::6",
+      "question_id": "DRB2_128",
+      "point_index": 6,
+      "source_full_point_index": 38,
+      "point": "In the bone health table, correctly report the results of Kemmler et al.'s study as: after 18 months, the intervention group had 0.013 mg/cm² higher total hip BMD than the control group.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::7",
+      "question_id": "DRB2_128",
+      "point_index": 7,
+      "source_full_point_index": 45,
+      "point": "In the protein quality section, mention the role of leucine in stimulating muscle protein synthesis.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::8",
+      "question_id": "DRB2_128",
+      "point_index": 8,
+      "source_full_point_index": 48,
+      "point": "In the protein quality section, mention that higher serum tryptophan concentrations are associated with fewer osteoporotic fractures, supported by two cohort studies (Su Y et al. 2019, Carbone L et al. 2023).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::9",
+      "question_id": "DRB2_128",
+      "point_index": 9,
+      "source_full_point_index": 49,
+      "point": "In the muscle health table, correctly list the intervention details for the ProMuscle Implementation study as: tailored nutritional advice aiming for 20-25 grams of protein per main meal, combined with resistance exercise, for 12 weeks.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::10",
+      "question_id": "DRB2_128",
+      "point_index": 10,
+      "source_full_point_index": 50,
+      "point": "In the muscle health table, correctly report the results of the ProMuscle Implementation study as: improved chair stand performance and leg strength.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "DRB2_128::11",
+      "question_id": "DRB2_128",
+      "point_index": 11,
+      "source_full_point_index": 52,
+      "point": "Be able to point out the limitations of nitrogen balance studies that set the recommended intake at 0.83 g/kg/d, namely the small sample size of older adults included and insufficient statistical power.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_128::12",
+      "question_id": "DRB2_128",
+      "point_index": 12,
+      "source_full_point_index": 53,
+      "point": "Be able to conclude from the results of studies like ProMuscle and CALM that for older adults whose protein intake already meets the recommended level (>0.8 g/kg/d), further increasing protein intake, especially when combined with resistance exercise, can still have beneficial effects on muscle mass and function.",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_128::13",
+      "question_id": "DRB2_128",
+      "point_index": 13,
+      "source_full_point_index": 54,
+      "point": "Be able to conclude from the studies by Weaver et al. and Kemmler et al. that protein intake higher than the current PRI has positive effects on bone health in older adults (including maintaining BMD and reducing fracture risk).",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "DRB2_132::0",
+      "question_id": "DRB2_132",
+      "point_index": 0,
+      "source_full_point_index": 20,
+      "point": "Clearly state that topical application of 10% zinc sulfate solution is safe and effective for treating melasma.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_132::1",
+      "question_id": "DRB2_132",
+      "point_index": 1,
+      "source_full_point_index": 22,
+      "point": "Clearly cite the result of a split-face prospective study, indicating that the percentage reduction in mMASI score on the PRP-treated side was higher than that on the tranexamic acid (TXA) injected side.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_132::2",
+      "question_id": "DRB2_132",
+      "point_index": 2,
+      "source_full_point_index": 25,
+      "point": "Clearly state that microneedling therapy (also known as percutaneous collagen induction therapy) is a minimally invasive procedure.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_132::3",
+      "question_id": "DRB2_132",
+      "point_index": 3,
+      "source_full_point_index": 27,
+      "point": "Clearly state that side effects of microneedling therapy include temporary redness, burning sensation, pain, swelling, and bruising.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_132::4",
+      "question_id": "DRB2_132",
+      "point_index": 4,
+      "source_full_point_index": 38,
+      "point": "Clearly state that side effects of LQSNYL treatment include guttate hypopigmentation.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "DRB2_132::5",
+      "question_id": "DRB2_132",
+      "point_index": 5,
+      "source_full_point_index": 44,
+      "point": "Clearly state that ablative fractional lasers (AFL) use wavelengths including CO₂ 10600nm and Er:YAG 2940nm.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_132::6",
+      "question_id": "DRB2_132",
+      "point_index": 6,
+      "source_full_point_index": 55,
+      "point": "Compared the clinical response of NAFL with IPL/Q-switched lasers: NAFL produces a more enduring clinical response, with a later recurrence time than the latter two (3-6 months vs. as early as 3 months).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "DRB2_132::7",
+      "question_id": "DRB2_132",
+      "point_index": 7,
+      "source_full_point_index": 63,
+      "point": "Provided recommendations for maintenance therapy: to maintain efficacy and minimize the likelihood of recurrence, it is advised to maintain topical drug therapy while increasing the number of energy-based device treatments.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RB_1::0",
+      "question_id": "RB_1",
+      "point_index": 0,
+      "source_full_point_index": 12,
+      "point": "Outlines how to build a high-quality knowledge corpus from trusted medical sources.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_1::1",
+      "question_id": "RB_1",
+      "point_index": 1,
+      "source_full_point_index": 15,
+      "point": "Details specific evaluation metrics for assessing attribution quality (e.g., ALCE benchmark).",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_10::0",
+      "question_id": "RB_10",
+      "point_index": 0,
+      "source_full_point_index": 6,
+      "point": "Compares the model-based planning approach in DeepMind's AlphaGo (MCTS) vs. the pure RL strategy in OpenAI Five.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_10::1",
+      "question_id": "RB_10",
+      "point_index": 1,
+      "source_full_point_index": 11,
+      "point": "Describes the different evolution paths of algorithms at each organization over time.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_10::2",
+      "question_id": "RB_10",
+      "point_index": 2,
+      "source_full_point_index": 12,
+      "point": "Compares approaches to safety and alignment in reinforcement learning systems.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_25::0",
+      "question_id": "RB_25",
+      "point_index": 0,
+      "source_full_point_index": 8,
+      "point": "Explain how knowledge distillation circumvents computational complexity and instability risks associated with directly applying reinforcement learning techniques to small models.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_30::0",
+      "question_id": "RB_30",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "Discuss how domain-specific models provide practical advantages through reduced operational latency, decreased inference costs, and specialized performance optimization compared to general-purpose models.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_30::1",
+      "question_id": "RB_30",
+      "point_index": 1,
+      "source_full_point_index": 4,
+      "point": "Evaluate the trade-off between enhanced performance on specialized tasks and reduced general capabilities, providing concrete examples of enterprise decision-making factors that influence model selection.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_30::2",
+      "question_id": "RB_30",
+      "point_index": 2,
+      "source_full_point_index": 7,
+      "point": "Explains how combining large foundation models with modular, task-specific components enables hybrid capabilities that leverage both broad knowledge and specialized adaptations.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_30::3",
+      "question_id": "RB_30",
+      "point_index": 3,
+      "source_full_point_index": 9,
+      "point": "Discusses how access to proprietary enterprise data creates a competitive advantage in developing domain-specific models compared to general-purpose models.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_30::4",
+      "question_id": "RB_30",
+      "point_index": 4,
+      "source_full_point_index": 11,
+      "point": "Discuss why specialized models currently dominate production systems despite potential future developments in adaptable foundation models.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_33::0",
+      "question_id": "RB_33",
+      "point_index": 0,
+      "source_full_point_index": 10,
+      "point": "Discuss how domain-specific solutions achieve reliability through focused training and built-in constraints.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_36::0",
+      "question_id": "RB_36",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "Describes how a four-layer architectural structure (foundational infrastructure, automation systems, Data Cloud, and agentic layer) in Salesforce's approach enables both security maintenance and business value realization.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_36::1",
+      "question_id": "RB_36",
+      "point_index": 1,
+      "source_full_point_index": 5,
+      "point": "Explains how architectural grounding in real customer data (versus general-purpose model reliance) creates security and business value through domain-specific relevance.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_36::2",
+      "question_id": "RB_36",
+      "point_index": 2,
+      "source_full_point_index": 17,
+      "point": "Explains how the integration of multiple customer interaction channels (sales, service, marketing) into a single automated system enhances operational coherence and business value delivery.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_40::0",
+      "question_id": "RB_40",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "Explain why existing neural network architectures struggle to efficiently accumulate knowledge over time despite their capacity for representation learning from raw data.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_40::1",
+      "question_id": "RB_40",
+      "point_index": 1,
+      "source_full_point_index": 9,
+      "point": "Explains how a meta-learning framework enables the development of generalizable learning strategies that support rapid task adaptation while maintaining previously acquired knowledge.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_43::0",
+      "question_id": "RB_43",
+      "point_index": 0,
+      "source_full_point_index": 4,
+      "point": "Identifies gaps in multimodal memory systems for AI.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_43::1",
+      "question_id": "RB_43",
+      "point_index": 1,
+      "source_full_point_index": 5,
+      "point": "Highlights the absence of complete system architecture in current AI implementations.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_44::0",
+      "question_id": "RB_44",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "Quantifies existing AI performance using specific metrics (e.g., standardized test scores, programming benchmarks) with numerical comparisons to human performance tiers.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_44::1",
+      "question_id": "RB_44",
+      "point_index": 1,
+      "source_full_point_index": 4,
+      "point": "Identifies specific markers of aesthetic judgment that separate routine problem-solving from expert-level work in a domain.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_44::2",
+      "question_id": "RB_44",
+      "point_index": 2,
+      "source_full_point_index": 5,
+      "point": "Elaborates on the metacognitive awareness required for self-evaluation of research quality beyond external validation.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RB_54::0",
+      "question_id": "RB_54",
+      "point_index": 0,
+      "source_full_point_index": 8,
+      "point": "Discuss how the integration of architectural innovations with traditional scaling approaches in current implementations demonstrates ongoing viability of parameter scaling for advancing model capabilities.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RB_54::1",
+      "question_id": "RB_54",
+      "point_index": 1,
+      "source_full_point_index": 13,
+      "point": "Discuss how scaling laws serve as the primary mechanism driving capability improvements in successive generations of large language models.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_1::0",
+      "question_id": "RR_1",
+      "point_index": 0,
+      "source_full_point_index": 2,
+      "point": "The response includes officially recurring DC events (e.g., National Independence Day Parade, A Capitol Fourth Concert, National Mall Fireworks, Mount Vernon tour)",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_1::1",
+      "question_id": "RR_1",
+      "point_index": 1,
+      "source_full_point_index": 10,
+      "point": "The response explicitly states that exact 2025 event times are tentative and should be confirmed closer to the date.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_1::2",
+      "question_id": "RR_1",
+      "point_index": 2,
+      "source_full_point_index": 12,
+      "point": "The response recommends using personal fireworks use or any other illegal activity.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_14::0",
+      "question_id": "RR_14",
+      "point_index": 0,
+      "source_full_point_index": 8,
+      "point": "The response includes a description of what each additional derivative library adds beyond LangChain, if mentioned.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_14::1",
+      "question_id": "RR_14",
+      "point_index": 1,
+      "source_full_point_index": 14,
+      "point": "The response is organized as a report, using clear sections with headers (e.g., \"Introduction,\" \"Evolution of LangChain,\" \"Company and Contributors,\" \"Future Direction\").",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_14::2",
+      "question_id": "RR_14",
+      "point_index": 2,
+      "source_full_point_index": 23,
+      "point": "The response identifies and describes LangChain Templates, a separate initiative from the LangChain Hub that provides developers with pre-packaged, production-ready reference applications.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_14::3",
+      "question_id": "RR_14",
+      "point_index": 3,
+      "source_full_point_index": 25,
+      "point": "The response discusses at least two specific scenarios or tasks where LangChain is preferred over an alternative, explaining the reason (e.g., preferred over LlamaIndex for complex, multi-step agents due to LangGraph's flexibility; preferred over Haystack for RAG production due to built-in evaluation with LangSmith).",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_14::4",
+      "question_id": "RR_14",
+      "point_index": 4,
+      "source_full_point_index": 26,
+      "point": "The response discusses the potential intellectual property or license compliance risks when building commercial applications with LangChain, given its role in connecting to hundreds of external components with varied licenses (beyond its own MIT License).",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_17::0",
+      "question_id": "RR_17",
+      "point_index": 0,
+      "source_full_point_index": 4,
+      "point": "The response proposes a real venue that is appropriate ambiance for an end-of-year celebration (e.g. professional garde, unique, memorable, historic).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_17::1",
+      "question_id": "RR_17",
+      "point_index": 1,
+      "source_full_point_index": 15,
+      "point": "The response provides the final budget breakdown in a well structured format like a table for readability.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_24::0",
+      "question_id": "RR_24",
+      "point_index": 0,
+      "source_full_point_index": 7,
+      "point": "The response includes a detailed discussion of lobbying mechanisms with trade associations and mapped contribution networks.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_24::1",
+      "question_id": "RR_24",
+      "point_index": 1,
+      "source_full_point_index": 14,
+      "point": "The response includes more than 2 original figures (e.g., charts, regression plots).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_24::2",
+      "question_id": "RR_24",
+      "point_index": 2,
+      "source_full_point_index": 19,
+      "point": "The response follows a standard white paper structure, including an executive summary, methodology, findings, and recommendations sections.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_24::3",
+      "question_id": "RR_24",
+      "point_index": 3,
+      "source_full_point_index": 21,
+      "point": "The response fails to define technical terms related to quantitative trading and political finance (e.g., stock volatility, high-frequency trading (HFT), alpha (excess return), or beta (fund sensitivity)).",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_24::4",
+      "question_id": "RR_24",
+      "point_index": 4,
+      "source_full_point_index": 22,
+      "point": "The response includes a comprehensive literature review section.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_24::5",
+      "question_id": "RR_24",
+      "point_index": 5,
+      "source_full_point_index": 27,
+      "point": "The response downplays the complexity of hedge funds (e.g., omitting pooled investments, ignoring regulatory differences, neglecting high fee structures).",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_30::0",
+      "question_id": "RR_30",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "Response contains a clearly dated time-stamp such as “As of YYYY-MM-DD” or similar within the first two paragraphs.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_30::1",
+      "question_id": "RR_30",
+      "point_index": 1,
+      "source_full_point_index": 3,
+      "point": "The response uses language such as 'could,' 'might,' 'hypothetically,' for unconfirmed hypotheses and scenarios.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_30::2",
+      "question_id": "RR_30",
+      "point_index": 2,
+      "source_full_point_index": 13,
+      "point": "The response contains at least one table summarizing the possible causes for the accident.",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_34::0",
+      "question_id": "RR_34",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "Each post includes an intuitive and detailed explanation of its core combinatorics topic (e.g. providing baseline definitions, using analogies, leveraging storytelling, visual explanations).",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_34::1",
+      "question_id": "RR_34",
+      "point_index": 1,
+      "source_full_point_index": 18,
+      "point": "The response contains insights and takeaways for all examples, not per each topic or each example.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_37::0",
+      "question_id": "RR_37",
+      "point_index": 0,
+      "source_full_point_index": 4,
+      "point": "The response states at least one reason that CNNs are effective for spatially structured data, specifically mentioning either (a) local receptive fields or (b) weight sharing.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_37::1",
+      "question_id": "RR_37",
+      "point_index": 1,
+      "source_full_point_index": 6,
+      "point": "The response includes diagrams and visualizations for the sliding window intuition, and also what a kernel looks like operating over input data in the form of matrices.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_37::2",
+      "question_id": "RR_37",
+      "point_index": 2,
+      "source_full_point_index": 16,
+      "point": "The response briefly compares CNNs to fully connected networks in terms of parameter efficiency and overfitting risk (e.g., (1) Convolutional layers are more parameter-efficient than fully connected layers, (2) CNNs are better for spatial data such as images that exhibits locality and translation invariance, (3) CNNs has a lower risk of overfitting due to fewer parameters and regularization effects of local receptive field).",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_37::3",
+      "question_id": "RR_37",
+      "point_index": 3,
+      "source_full_point_index": 17,
+      "point": "The response explains how multiple layers of convolution and pooling build hierarchical features (e.g., edges → textures → objects).",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_37::4",
+      "question_id": "RR_37",
+      "point_index": 4,
+      "source_full_point_index": 18,
+      "point": "The response includes a concise code snippet (in any language) that manually performs a 2D convolution with nested loops (no libraries), to reinforce the sliding-window intuition.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_48::0",
+      "question_id": "RR_48",
+      "point_index": 0,
+      "source_full_point_index": 6,
+      "point": "The response provides three major feature selection methodologies (filter, wrapper, and embedded) and discusses how each methodology works (e.g. filter method eliminates less significant features, wrapper method uses performance of a wrapper model as objective function, wrapper method uses forward selection to iteratively add features that most improves model performance, embedded method has feature selection as integral part of model training).",
+      "covered": false,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_50::0",
+      "question_id": "RR_50",
+      "point_index": 0,
+      "source_full_point_index": 5,
+      "point": "The response includes the concept of \"digital colonialism\", where nations without advanced AI become dependent on those who control it.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_50::1",
+      "question_id": "RR_50",
+      "point_index": 1,
+      "source_full_point_index": 25,
+      "point": "The response addresses potential stagnation or loss of motivation that could threaten the system’s sustainability in Scenario 2.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_54::0",
+      "question_id": "RR_54",
+      "point_index": 0,
+      "source_full_point_index": 7,
+      "point": "The response mentions the development of Small Modular Reactors (SMRs), which are smaller, advanced reactors that have small physical footprints and reduced capital investment leading to potentially wider adoption.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_54::1",
+      "question_id": "RR_54",
+      "point_index": 1,
+      "source_full_point_index": 14,
+      "point": "The response discusses Iran's nuclear program out of the context of how it affects global uranium prices.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_54::2",
+      "question_id": "RR_54",
+      "point_index": 2,
+      "source_full_point_index": 26,
+      "point": "The response correctly links the continuing Russo-Ukrainian war to increased global uranium prices due to fear and uncertainty in the nuclear energy market regarding one of the world's largest suppliers of enriched uranium (Russia). ",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_56::0",
+      "question_id": "RR_56",
+      "point_index": 0,
+      "source_full_point_index": 6,
+      "point": "The response shows a ‘before’ and ‘after’ view of the sample data (either as tables or code blocks) for every processing step described.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_56::1",
+      "question_id": "RR_56",
+      "point_index": 1,
+      "source_full_point_index": 19,
+      "point": "The response uses the instructions in the main README.md file to walk users through how to use the repository, including those under 'General Targets', 'Testing Functionality', and 'Main Steps'.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_58::0",
+      "question_id": "RR_58",
+      "point_index": 0,
+      "source_full_point_index": 6,
+      "point": "Response includes global perspective by citing examples of platforms from at least two non-Western regions (e.g., Douyin, VK, Bilibili, Kakaotalk).",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_58::1",
+      "question_id": "RR_58",
+      "point_index": 1,
+      "source_full_point_index": 10,
+      "point": "The response discusses social media platforms across at least 3 different formats (e.g. microblogs such as Twitter/X, Bluesky; short-form image/video platforms such as Snapchat, Instagram Reels; general networking platforms such Facebook, MySpace, LinkedIn, etc.; long-video platflorms such as Youtube).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_58::2",
+      "question_id": "RR_58",
+      "point_index": 2,
+      "source_full_point_index": 20,
+      "point": "The response demonstrates uses a diverse and media-pertinent source of materials (e.g., scholarly articles, social media captures, news articles; quotes from legislators, social media executives, technologists, etc.)",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_63::0",
+      "question_id": "RR_63",
+      "point_index": 0,
+      "source_full_point_index": 2,
+      "point": "Employs at least one everyday analogy (e.g., oil droplets, separation of cream in milk, lava lamp, coconut) to easily explain and break down the concept of how liquid-liquid phase separation forms biomolecular condensates.",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_63::1",
+      "question_id": "RR_63",
+      "point_index": 1,
+      "source_full_point_index": 5,
+      "point": "The response explains NELF-E's role in the process of transcription in a manner which is appropriate for an AP Biology Student (i.e., NELF-E \"grabs on\" to RNA after it is produced, it has ability to press pause/act as a red light on the process of transcription, encourages repair at DNA break sites, specifically interacts with Polymerase II which transcribes precursors of mRNA).",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_63::2",
+      "question_id": "RR_63",
+      "point_index": 2,
+      "source_full_point_index": 15,
+      "point": "The response explains promoter-proximal pausing in an accessible manner, i.e., when transcription is inititated and then pauses, accumulating RNA Pol II ~30-60 nucleotides downstream of the start site, which thought to be a regulatory mechanism for higher eukaryotes.  ",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_65::0",
+      "question_id": "RR_65",
+      "point_index": 0,
+      "source_full_point_index": 3,
+      "point": "The response mentions a financial term or acronym (e.g. liquidity, yield, Roth IRA, bull market) without defining it for a general audience.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_65::1",
+      "question_id": "RR_65",
+      "point_index": 1,
+      "source_full_point_index": 10,
+      "point": "The response relates different time horizons to risk (e.g., higher risk is tolerable for long time horizons, shorter term investment is less predictable, different expectations for bonds and stocks, time restrictions on withdrawing from certain accounts).",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_65::2",
+      "question_id": "RR_65",
+      "point_index": 2,
+      "source_full_point_index": 25,
+      "point": "The response identifies a unique feature of each of the major stock market indexes (e.g., S&P 500, Dow Jones, Nasdaq, Russell 2000).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_66::0",
+      "question_id": "RR_66",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "The response justifies its decentralized architecture by explicitly naming at least two failure modes of centralized systems in disaster environments (e.g., single point of failure, communication bottlenecks, delayed decision-making, limited scalability) and explaining how its proposed mechanisms mitigate these specific risks (e.g., distributed control, ad hoc networking, consensus-based coordination, fault-tolerant task allocation).",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_66::1",
+      "question_id": "RR_66",
+      "point_index": 1,
+      "source_full_point_index": 7,
+      "point": "The response defines its task allocation mechanism as a multi-objective optimization problem that includes at least three competing objectives (e.g., risk minimization by avoiding robot loss, mission completeness by maximizing area coverage, energy efficiency by minimizing battery usage, communication robustness by reducing packet loss) and explains why balancing these objectives is essential for adaptive and resilient task allocation in disaster environments.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_66::2",
+      "question_id": "RR_66",
+      "point_index": 2,
+      "source_full_point_index": 26,
+      "point": "The response emphasizes unrelated machine learning techniques without tying them to survivor or hazard detection in disaster environments (e.g., generic image classification benchmarks such as CIFAR-10 or ImageNet, large language model text generation, sentiment analysis of social media, generic speech recognition pipelines).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_70::0",
+      "question_id": "RR_70",
+      "point_index": 0,
+      "source_full_point_index": 8,
+      "point": "The response explains, for multilingual TTS, the methodological \"chicken-and-egg\" problem where (Automatic Speech Recognition) ASR-based metrics like WER (Word Error Rate) are dependent on the quality of the ASR model itself.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_70::1",
+      "question_id": "RR_70",
+      "point_index": 1,
+      "source_full_point_index": 23,
+      "point": "The response suggests a smart hybrid evaluation plan, such as using computer tests daily, bigger automated tests for milestones, and human listeners for final checks.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_70::2",
+      "question_id": "RR_70",
+      "point_index": 2,
+      "source_full_point_index": 24,
+      "point": "The response discusses practical issues, like evaluating a model's speed, cost, and memory usage, especially for devices like phones.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_70::3",
+      "question_id": "RR_70",
+      "point_index": 3,
+      "source_full_point_index": 26,
+      "point": "The response explains the need to evaluate the training data itself for things like sound diversity before building a model.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_76::0",
+      "question_id": "RR_76",
+      "point_index": 0,
+      "source_full_point_index": 0,
+      "point": "The response accurately states that enterprise-wide AI projects yield an average ROI of just 5.9%.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_76::1",
+      "question_id": "RR_76",
+      "point_index": 1,
+      "source_full_point_index": 8,
+      "point": "The response highlights the risk of budget overruns, citing the example of cloud compute costs scaling exponentially.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_76::2",
+      "question_id": "RR_76",
+      "point_index": 2,
+      "source_full_point_index": 9,
+      "point": "The response omits the concept of using Net Present Value (NPV) as a metric.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_76::3",
+      "question_id": "RR_76",
+      "point_index": 3,
+      "source_full_point_index": 14,
+      "point": "The response mentions the impressit.io estimate that the cost to maintain a single generative AI application can be between $350,000 and $820,000 annually.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_76::4",
+      "question_id": "RR_76",
+      "point_index": 4,
+      "source_full_point_index": 21,
+      "point": "The reponse maintains a forward-looking, optimistic outlook and counter to proposed challenges for AI adoption.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_81::0",
+      "question_id": "RR_81",
+      "point_index": 0,
+      "source_full_point_index": 3,
+      "point": "The response assigns weights to at least three unique quantitative metrics (e.g., number of publications, ratio of undergraduate students to graduate students, student satisfaction surverys, presence of undergraduate funding for research) of undergraduate research output or impact in building its undergraduate metric.",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_81::1",
+      "question_id": "RR_81",
+      "point_index": 1,
+      "source_full_point_index": 12,
+      "point": "The response lists the most common undergraduate majors and graduate fields (e.g., computer science, data science, linguistics, mathematics) for each job title listed.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_81::2",
+      "question_id": "RR_81",
+      "point_index": 2,
+      "source_full_point_index": 19,
+      "point": "The response qualifies which conferences the lab primarily publishes in (e.g., CHI, EMNLP, NeurIPS, American Journal of Political Science).",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_83::0",
+      "question_id": "RR_83",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "The response suggests a reasonable platform for hosting the infrastructure (e.g., Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Cloudflare) and lists a relevant technology stack for that platform (e.g., if AWS is chosen, suggests Amazon S3 for storing audio files and artwork, Amazon ECS or Fargate for hosting the API, Amazon DynamoDB for tracking the content catalog and user profiles, and Amazon OpenSearch Service for full-text search and chat cataloguing).",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_83::1",
+      "question_id": "RR_83",
+      "point_index": 1,
+      "source_full_point_index": 12,
+      "point": "The response compares various audio-streaming protocols and suggests one (e.g., HLS for its native iOS support and scalability, DASH as an open standard, or WebRTC for ultra-low latency) and justifies the choice.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_83::2",
+      "question_id": "RR_83",
+      "point_index": 2,
+      "source_full_point_index": 15,
+      "point": "The response discusses the tech stack for both the mobile and web interface, e.g., cross-platform frameworks (e.g., React Native + Expo, Flutter, web-based React, Capacitor), UI/UX factors (e.g., responsive layouts, chat UI/UX consistency, accessibility, background audio behavior), and performance/networking (e.g., service workers for caching, efficient state management).",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_85::0",
+      "question_id": "RR_85",
+      "point_index": 0,
+      "source_full_point_index": 9,
+      "point": "The response describes how a software debugger interfaces with the target hardware, explaining at a high level that the debugger (e.g., GDB, OpenOCD) communicates through a hardware debug port (e.g., JTAG, SWD) to control execution, inspect registers, and analyze memory.",
+      "covered": false,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_85::1",
+      "question_id": "RR_85",
+      "point_index": 1,
+      "source_full_point_index": 11,
+      "point": "The response begins with an introduction that summarizes the key factors to consider for a thermostat processor (e.g., power consumption, cost, performance) before diving into specific details (e.g., processor architecture, OS choice, testing).",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_85::2",
+      "question_id": "RR_85",
+      "point_index": 2,
+      "source_full_point_index": 15,
+      "point": "The response mentions simplicity (e.g., in hardware design, software maintenance) as a key design consideration for a thermostat processor.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_89::0",
+      "question_id": "RR_89",
+      "point_index": 0,
+      "source_full_point_index": 1,
+      "point": "The introduction to each blog post highlights a key feature of technique discussed (e.g., LoRA reduces the number of trainable parameters, RLHF trains a reward model based on human feedback, MoE routes inputs to smaller expert networks, GRPO uses the mean reward of several LLM responses as a baseline to score a response).",
+      "covered": false,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_89::1",
+      "question_id": "RR_89",
+      "point_index": 1,
+      "source_full_point_index": 11,
+      "point": "The response outlines the methodology of each technique including any algorithms, pseudocode, or procedures as necessary.",
+      "covered": true,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_89::2",
+      "question_id": "RR_89",
+      "point_index": 2,
+      "source_full_point_index": 12,
+      "point": "Each discussed technique that is mentioned includes an in-depth evaluation of its limitations.",
+      "covered": false,
+      "category": "facts"
+    },
+    {
+      "point_id": "RR_89::3",
+      "question_id": "RR_89",
+      "point_index": 3,
+      "source_full_point_index": 13,
+      "point": "The response is structured as a series of distinct blog posts, each with its own title, introduction, body, and conclusion.",
+      "covered": true,
+      "category": "format"
+    },
+    {
+      "point_id": "RR_89::4",
+      "question_id": "RR_89",
+      "point_index": 4,
+      "source_full_point_index": 14,
+      "point": "The response discusses at least three distinct recent advancements within the last 12-24 months (e.g., QLoRA, DoRA, DPO, MoE, RAFT).",
+      "covered": true,
+      "category": "numbers"
+    },
+    {
+      "point_id": "RR_89::5",
+      "question_id": "RR_89",
+      "point_index": 5,
+      "source_full_point_index": 19,
+      "point": "For each technique, justify why it merits coverage (e.g., LoRA significantly reduces training costs, MoEs enable multiple experts with sparse activations, RLHF enables human-aligned response styles, RAFT trains models to ignore irrelevant context drawn via the popular RAG strategy).",
+      "covered": true,
+      "category": "logic"
+    },
+    {
+      "point_id": "RR_92::0",
+      "question_id": "RR_92",
+      "point_index": 0,
+      "source_full_point_index": 19,
+      "point": "The response reads like an essay instead of a progression of Olympiad problems (i.e., the response should be structured in terms of problem statements, intuitive explanations, proofs, and other mathematical statements such as propositions, theorems, lemmas, and corollaries).",
+      "covered": false,
+      "category": "format"
+    }
+  ]
+}

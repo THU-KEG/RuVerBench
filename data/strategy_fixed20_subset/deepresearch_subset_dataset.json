@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "DRB2_1",
+    "question": "请就中国地方‘土地财政’模式的转型撰写一份研究报告。该报告应涵盖截至2021年的时期，并按以下结构分为两个主要部分：\n\n第一部分：当前模式的困境\n1.  定义中国的‘土地财政’模式，并解释其历史渊源。\n2.  分析当前‘增量’土地财政模式的不可持续性。请提供1998-2021年期间的具体数据点，包括2021年全国土地出让收入、其占全国一般公共预算收入的百分比，以及其占地方一般公共预算收入的百分比。此外，还需提供1998年至2008年土地出让收入的年均增长率以及2021年的土地出让总收入。\n3.  讨论该模式的负面后果，至少涵盖三个方面：保障性住房供应不足、社会阶层固化以及造成经济泡沫（例如，对实体经济的‘挤出效应’）。\n\n第二部分：建议的转型机制\n1.  描述新的转型方案，这应包括两个关键转变：将土地出让金的征收对象从普通住房转向‘改善型住房’，并对现有住房存量（‘存量’）引入房产税。\n2.  解释新的‘增量模式’的具体内容。这包括对新增普通商品房征收利润税，并将土地出让金的征收重点转移到‘改善型住房’（定义为容积率低于1.0或建筑面积超过144平方米的房产）。\n3.  解释新的‘存量模式’的具体内容。这包括对第二套普通商品房及改善型住房征收房产税，同时为租赁性房产提供税收减免。\n4.  详细说明新增房产税收入的使用方式。这涉及针对不同城市的两种政策方向：一种针对住房存量大的城市，另一种针对流动人口多的城市。解释什么是‘先租后售’住房和‘住房券’，以及它们在这一新框架下如何运作。\n5.  最后，创建一个比较表，概述土地公有制下的四种不同房地产税收制度。该表应包含四列：‘税收制度’、‘优点’、‘缺点’和‘主要受益者’。表格的行应涵盖以下四种制度：‘对土地征税’、‘对建筑物征税’、‘对土地和建筑物统一征税’以及‘对土地和建筑物实行差别税率’。",
+    "rubric": [
+      {
+        "point": "明确指出‘增量模式’的建议涉及将土地出让金收入从普通商品房转向‘改善型住房’。"
+      },
+      {
+        "point": "比较表必须包含‘对建筑物征税’这一行。"
+      },
+      {
+        "point": "对于‘对建筑物征税’行，明确指出其缺点是‘社会总福利损失最大’。"
+      },
+      {
+        "point": "比较表必须包含‘对土地和建筑物统一征税’这一行。"
+      },
+      {
+        "point": "解释1994年分税制改革与地方政府依赖土地财政作为主要收入来源之间的因果关系。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_3",
+    "question": "我正在研究亚洲几个国家如何应对社会数字化和人口老龄化的问题。我想请你帮我调研一下日本、韩国、新加坡和泰国这四个国家在国家层面的数字化发展历程。请确保你的调研截止到2022年底。\n\n具体来说，我需要两部分内容：\n\n第一部分是“各国数字化发展历程回顾”。请你分别梳理这四个国家从早期（比如引入第一台计算机或提出第一个相关国家计划）到2022年的关键数字化政策、战略或总体规划。对于每一个关键政策，请说明它大概的提出年份和核心目标。\n\n第二部分是“当前数字化战略对比”。请你制作一个表格，清晰地对比这四个国家在2022年前后正在实施的主要数字化战略。表格需要包括以下几列：国家、战略名称、发布时间、核心愿景、以及主要支柱或战略方向。\n\n请确保信息准确，条理清晰。",
+    "rubric": [
+      {
+        "point": "明确指出日本从2013年开始，其数字化战略重点转向数字数据的利用。"
+      },
+      {
+        "point": "明确指出日本在2017年制定了“数字政府战略”（Digital Government Strategy），目标是进⼀步促进公共管理的数字化。"
+      },
+      {
+        "point": "明确指出日本在2021年成立了“数字厅”（Digital Agency）。"
+      },
+      {
+        "point": "明确指出NBIS项目分为两个阶段：第一阶段（1987-1991）和第二阶段（1992-1996）。"
+      },
+      {
+        "point": "在对比表格中，正确填写韩国当前战略的核心愿景为“数字，通往更美好世界的大门”。"
+      },
+      {
+        "point": "在对比表格中，正确填写泰国当前战略的发布时间为“2018年3月”。"
+      },
+      {
+        "point": "提及新加坡存在“灰色数字鸿沟”，例如75岁及以上人群在2020年的互联网使用率仅为46%。"
+      },
+      {
+        "point": "全文语言流畅，逻辑清晰，没有含糊不清的表述。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_17",
+    "question": "你好，我正在研究深度学习在材料科学领域的应用，特别是那些基于原子结构进行预测的方法。我希望你能帮我整理一份截止到2022年初的综述报告。这份报告需要包括以下几个部分：\n\n第一部分，应用综述。请总结一下基于原子结构的深度学习模型主要用在哪些方面。我听说有几种，比如开发力场、直接预测材料属性和快速筛选材料，请你详细介绍一下这几个方向的进展，并提一下有哪些代表性的模型或方法，比如像图神经网络（GNNs）这类。\n\n第二部分，数据库列表。请帮我制作一个表格，汇总这个领域常用的公开数据库。表格里需要有数据库的名称、数据量大小、以及它的官网或数据访问链接。\n\n第三部分，软件包列表。同样，请制作一个表格，汇总常用的软件包。表格里需要有软件包的名称、它的主要应用领域（例如是通用属性预测还是力场开发）、支持的材料类型（例如分子、固体、蛋白质等）、以及它的开源代码库链接。\n\n请确保所有信息都是准确和具体的，特别是表格里的数据。",
+    "rubric": [
+      {
+        "point": "明确指出应用方向包括：直接属性预测（direct property predictions）。"
+      },
+      {
+        "point": "在直接属性预测部分，明确提及 SchNet 模型。"
+      },
+      {
+        "point": "在直接属性预测部分，明确提及材料图神经网络（MEGNet）模型。"
+      },
+      {
+        "point": "明确提及逆向材料设计（inverse materials design）使用生成对抗网络（GAN）和强化学习（RL）等技术。"
+      },
+      {
+        "point": "在数据库表格中，包含 CCCBDB 数据库，并指明其数据量为 2069。"
+      },
+      {
+        "point": "在数据库表格中，包含 HOPV15 数据库，并指明其数据量为 350。"
+      },
+      {
+        "point": "在软件包表格中，包含 GATGCNN，并指明其应用材料类型为固体（Sol）。"
+      },
+      {
+        "point": "在软件包表格中，包含 DeepMD，并指明其应用材料类型为分子（Mol）。"
+      },
+      {
+        "point": "在软件包表格中，包含 DeepChemSt.，并指明其应用材料类型为分子（Mol）。"
+      },
+      {
+        "point": "为 JARVIS-DFT 数据库提供了正确的链接 https://jarvis.nist.gov/jarvisdft/。"
+      },
+      {
+        "point": "为 AFLOW 数据库提供了正确的链接 http://www.aflowlib.org/。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_21",
+    "question": "我正在整理一份关于动物导航能力的报告，需要一个关于动物如何利用环境因素来定位方向的详细章节。请你帮我调研并整理出一份详尽的资料，重点介绍动物使用的三种主要“指南针”机制：地磁罗盘（Magnetic Compass）、太阳罗盘（Sun Compass）和星辰罗盘（Star Compass）。\n\n具体要求如下：\n1.  首先，请为每一种罗盘机制提供一段详细的文字综述。内容需要覆盖：\n    *   其基本工作原理。\n    *   已知的不同工作模式（例如，地磁罗盘的“倾角罗盘”和“极性罗盘”有什么区别）。\n    *   主要有哪些动物类群在使用这种机制，请列举具体例子。\n    *   其背后的感官基础或科学界提出的主流理论模型（比如自由基对模型、磁铁矿等）。\n    *   这种能力是天生的还是后天学习的？如果是学习的，它们是如何校准的？\n    *   使用这种机制存在哪些依赖条件或局限性（例如，对光线、天气、时间的要求）。\n\n2.  在文字综述之后，请根据你调研到的信息，创建一个清晰的对比表格。表格应包含以下几列：【罗盘类型】、【工作原理】、【主要使用的动物类群】、【感官机制/理论模型】、【依赖与局限性】、【习得方式（先天/后天学习）】。表格的每一行对应一种罗盘机制。\n\n请确保所有信息都基于截至2022年的科学研究成果，并力求内容准确、全面。谢谢！",
+    "rubric": [
+      {
+        "point": "明确指出动物使用的三种主要指南针机制是地磁罗盘、太阳罗盘和星辰罗盘。"
+      },
+      {
+        "point": "【倾角罗盘】解释其原理是对磁力线的倾角敏感，而非磁场极性。"
+      },
+      {
+        "point": "【倾角罗盘】说明其指示的是“朝向磁极（poleward）”和“朝向赤道（equatorward）”而非南北。"
+      },
+      {
+        "point": "【极性罗盘】解释其原理是对磁场极性敏感，能区分磁北和磁南。"
+      },
+      {
+        "point": "【极性罗盘】提及磁铁矿（magnetite）被认为是其可能的感官基础。"
+      },
+      {
+        "point": "【太阳罗盘】明确指出该机制通过太阳在天空中的位置来确定方向。"
+      },
+      {
+        "point": "【太阳罗盘】提及“时钟位移实验”（clock-shift experiments）是证明时间补偿机制的关键实验方法。"
+      },
+      {
+        "point": "【太阳罗盘】指出昆虫（如蚂蚁）的眼睛上部区域专门用于探测偏振光。"
+      },
+      {
+        "point": "【星辰罗盘】明确指出该机制迄今仅在夜间迁徙的鸟类中被证实。"
+      },
+      {
+        "point": "【星辰罗盘】明确指出星辰罗盘的使用不涉及内部生物钟（非时间补偿）。"
+      },
+      {
+        "point": "【星辰罗盘】指出星辰罗盘是后天学习的，幼鸟需要在首次迁徙前观察到天空的旋转。"
+      },
+      {
+        "point": "能够解释为什么动物需要学习太阳罗盘：因为太阳的运行轨迹随地理纬度和季节变化，必须通过学习来校准。"
+      },
+      {
+        "point": "能够分析不同罗盘的局限性，例如太阳罗盘在阴天或夜晚无法使用，星辰罗盘在白天或阴天夜晚无法使用，而地磁罗盘则几乎全天候可用。"
+      },
+      {
+        "point": "对比表格必须包含且仅包含六列：【罗盘类型】、【工作原理】、【主要使用的动物类群】、【感官机制/理论模型】、【依赖与局限性】、【习得方式（先天/后天学习）】。"
+      },
+      {
+        "point": "整体语言风格科学、严谨，信息组织有序，逻辑清晰。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_22",
+    "question": "I would like you to help me research the Life Cycle Cost (LCC) of Electric Vehicles (EVs). My research report needs to cover data up to the end of 2019. Specifically, I would like you to complete the following sections:\n\n1.  **Cost Data Compilation for Different Vehicle Models**: Please collect and compile Life Cycle Cost (LCC) data for various Electric Vehicle (EV) models. Please note that all cost data must be converted to US dollars. I need you to organize this data into a table, with columns including: 'Vehicle Model/Study Code', 'Research Source (format: First Author, Year)', and 'LCC (USD)'.\n\n2.  **Summary of Incentive Policies by Country**: To understand external factors affecting EV costs, please compile a summary of policies and regulations enacted by major countries up to and including 2019 to promote electric vehicles. Similarly, please present this in a table format, with columns including: 'Country', 'Policy/Regulation Name', 'Year', and 'Policy Brief'. Please cover at least Canada, the United States, Spain, the Netherlands, Italy, Switzerland, Turkey, Denmark, France, Germany, Portugal, and Belgium.\n\n3.  **Comprehensive Analysis**: After compiling the data and policies, please analyze the following:\n    *   Why is there such a significant variation in LCCs for different EV models across various studies? Please analyze this from perspectives such as the vehicle itself, government policies, and economic environment.\n    *   Based on the data you collected, as of the end of 2019, are Electric Vehicles competitive with traditional Internal Combustion Engine Vehicles (ICEVs) in terms of Life Cycle Cost? What are the main reasons?\n    *   What are the main objectives of these policies enacted by various countries? What role do you think these policies play in reducing the LCC of EVs and promoting their widespread adoption?\n\nPlease ensure your answer is well-structured, starting with the two tables, followed by the comprehensive analysis.",
+    "rubric": [
+      {
+        "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'EV 200' model, with 'Hao et al., 2017' as the research source, and an LCC of $1,547,258 USD."
+      },
+      {
+        "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'BYD e6 BEV' model, with 'Diao et al., 2016' as the research source, and an LCC of $2,637,998 USD."
+      },
+      {
+        "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'BEV' model, with 'Propfe et al., 2012' as the research source, and an LCC of $41,322 USD."
+      },
+      {
+        "point": "The table 'Cost Data Compilation for Different Vehicle Models' includes the 'Mitsubishi i-MiEV (GVR)' model, with 'Wong et al., 2010' as the research source, and an LCC of $186,996 USD."
+      },
+      {
+        "point": "The table 'Summary of Incentive Policies by Country' includes the country 'Denmark', with the policy 'Establishment of the Center for Green Transport', and the year 2009."
+      },
+      {
+        "point": "The analysis points out that LCC differences stem from government policies in various countries, such as purchase subsidies, tax exemptions, and non-economic incentives like exemption from purchase and driving restrictions, which significantly affect LCC calculation results."
+      },
+      {
+        "point": "The analysis points out that although some studies (e.g., EPRI, 2013) show that EV LCC might be lower than ICEV, this is usually based on specific model assumptions rather than being a general case."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_23",
+    "question": "我需要一份关于固态电池（Solid-State Batteries, SSBs）市场格局的深度调研报告，请重点关注其经济性和主要参与者。报告内容应以截至2023年底的信息为准，并分为以下两个部分：\n\n1.  **固态电池的经济性分析**\n    请详细梳理固态电池的成本与价格现状及预测。具体需要包含：\n    *   不同机构（如Allied Market Research、Bloomberg NEF）和公司（如Ampcera）对未来SSB价格的预测数值。\n    *   与传统锂离子电池（LIBs）的历史价格（如2010年至今）和未来预测进行对比分析。\n    *   拆解SSB的成本构成，特别是正极材料、隔膜、固态电解质（SSE）的成本，并提供具体估算，例如无机SSE的金属原料成本范围。\n    *   分析影响生产成本的关键因素，例如规模经济效应、电极涂布速度对资本支出的影响等。\n\n2.  **主要市场参与者与合作关系**\n    请以表格形式，分类整理全球范围内主要的固态电池研发和生产企业。你需要根据它们主要研发的电解质技术路线，分别制作三张表格：**高分子（Polymer）基**、**氧化物（Oxide）基**和**硫化物（Sulfide）基**。每张表格都应包含以下几列：**企业/机构名称**、**技术与动态描述**（包括其技术特点、产能规划、产品进展等）、**主要汽车厂商（OEM）合作伙伴**。\n\n请确保所有数据和信息都准确详实，表格清晰规整。",
+    "rubric": [
+      {
+        "point": "明确指出未来LIB价格预计将降至45 €/kWh以下。"
+      },
+      {
+        "point": "在高分子基表格中，正确列出Bollore (BlueSolutions)作为参与者。"
+      },
+      {
+        "point": "WeLion的技术描述包括：2022年与蔚来汽车合作推出采用锂金属负极和NMC正极的高分子电池，并已开工建设初期产能20GWh（目标扩展至100GWh）的生产基地。"
+      },
+      {
+        "point": "ProLogium的技术描述包括：计划到2023年将SSB应用于商用车辆(VinFast)或原型车(Mercedes-Benz)，为此计划在2022年建设1-2GWh的产能，并已于2022年展示了2.5kWh的电池。"
+      },
+      {
+        "point": "在硫化物基表格中，正确列出Prime Planet Energy作为参与者。"
+      },
+      {
+        "point": "能基于LIB价格大幅下降的历史，分析出SSB同样可能通过技术成熟和规模化生产实现成本降低，并指出SSB可受益于LIB部分现有产业链。"
+      },
+      {
+        "point": "能解释规模经济对于SSB成本下降的决定性作用，并结合Bloomberg NEF的预测，指出这是实现与LIB价格平价的关键路径。"
+      },
+      {
+        "point": "能分析不同材料路线的经济可行性，例如指出锗基电解质因金属价值过高而经济上不可行。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_25",
+    "question": "你好，我正在为一个项目调研用于盐酸环境（具体是1.0 M HCl）中碳钢的缓蚀剂。我了解到有机物是常用的一类，但我对具体的分类和性能不太清楚。\n我希望你帮我整理一份调研报告，主要关注2021年之前发表的研究。报告需要包含以下几部分：\n第一部分，请将这类有机缓蚀剂分成几个主要的类别，比如根据来源或分子结构进行分类。\n第二部分，在每个类别下，请列举2-3个具体的缓蚀剂例子。对于每个例子，请务必提供它的具体名称、在1.0 M HCl中对碳钢腐蚀达到的最高缓蚀效率（IE%）、以及达到此效率时的浓度和温度。\n第三部分，请根据你搜集到的信息，对这几个主要类别进行一个综合的比较分析。我希望了解哪类缓蚀剂通常效率最高，哪类在低浓度下效果好，以及它们各自对温度的适应性如何。\n请确保报告结构清晰，数据准确，最后的分析要有理有据。",
+    "rubric": [
+      {
+        "point": "明确指出药物分子可用作缓蚀剂，因为其分子亚结构与已知的缓蚀剂（如咪唑、吡啶等）相似。"
+      },
+      {
+        "point": "明确指出5 mM的L-半胱氨酸在1.0 M HCl中浸泡4小时，缓蚀效率为91%。"
+      },
+      {
+        "point": "明确指出安乃近在4000 ppm浓度、298 K下，缓蚀效率为96.1%。"
+      },
+      {
+        "point": "列举吡啶鎓基离子液体例子：1-(3-溴丙基)-4-(二甲氨基)吡啶溴化物。"
+      },
+      {
+        "point": "列举阳离子表面活性剂例子：十六烷基二甲基异丙基氢氧化铵 (HEDIAOH)。"
+      },
+      {
+        "point": "明确指出柠檬马鞭草叶提取物在800 ppm浓度下（2.5小时），缓蚀效率最高为94%。"
+      },
+      {
+        "point": "列举聚合物缓蚀剂例子：聚(乙烯醇-半胱氨酸) (poly(vinyl alcohol-cysteine))。"
+      },
+      {
+        "point": "列举聚合物缓蚀剂例子：可光交联聚合物 Cl-5c。"
+      },
+      {
+        "point": "明确指出PDA-2在5 mg/L浓度下，缓蚀效率约为99%。"
+      },
+      {
+        "point": "在综合比较中，对比聚合物和表面活性剂，指出达到相同覆盖面积，表面活性剂可能需要比聚合物更高的浓度。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_26",
+    "question": "I need you to help me compile a detailed report on Inorganic Corrosion Inhibitors, with information up to early 2023. I am mainly interested in their classification, working principles, and application fields. Please output according to the following structure:\n\nPart One: Main Types and Mechanisms of Action.\nPlease provide a detailed introduction to four main types of inorganic corrosion inhibitors: metal-based inhibitors, metal oxide-based inhibitors, phosphate-based inhibitors, and silicate-based inhibitors. For each type, please:\n1. Describe its basic working principle.\n2. List at least 2-3 specific compounds or subcategories as examples.\n3. Explain its typical application industries or environments.\n\nPart Two: Key Chemical Reactions.\nPlease provide the core chemical reaction equations involved when the following inhibitors form a protective layer:\n1. Equation for zinc-based metal inhibitor reacting with oxygen and water.\n2. Equation for aluminum-based metal inhibitor forming an aluminum hydroxide protective layer.\n3. Equation for magnesium acting as a sacrificial anode to protect steel.\n4. Equation for zinc phosphate inhibitor forming insoluble zinc phosphate on the metal surface.\n5. Overall reaction equation for iron phosphate inhibitor forming a protective layer.\n\nPart Three: Application Summary Table.\nPlease create a table summarizing the application scenarios of different inhibitors. The table needs to include the following columns: Application Area, Inhibitor Type, Specific Inhibitor Example mentioned in the references. The table content should cover at least the following application areas: cooling water systems, oil and gas production, concrete reinforcement, metal surface treatment, boiler water treatment.\n\nPlease ensure the report content is accurate and well-organized.",
+    "rubric": [
+      {
+        "point": "Clearly state that alkali metal silicates are water-soluble and commonly used in aqueous solutions."
+      },
+      {
+        "point": "In the summary table, correctly list iron sulfide for oil and gas production."
+      },
+      {
+        "point": "In the summary table, correctly list calcium nitrite for concrete reinforcement."
+      },
+      {
+        "point": "In the summary table, correctly list sodium nitrate for concrete reinforcement."
+      },
+      {
+        "point": "Explain that metal oxide-based inhibitors can be classified into anodic, cathodic, and mixed inhibitors based on their effect on different parts of the electrochemical reaction."
+      },
+      {
+        "point": "Explain that cathodic inhibitors slow down the reduction reaction by forming a passivating layer on the cathode surface."
+      },
+      {
+        "point": "Correctly associate specific inhibitor categories with their typical industrial applications, such as linking iron phosphate with the food industry because it is suitable for protecting stainless steel equipment."
+      },
+      {
+        "point": "The overall report structure follows the three sections required by the task: 'Part One: Main Types and Mechanisms of Action', 'Part Two: Key Chemical Reactions', 'Part Three: Application Summary Table'."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_37",
+    "question": "我正在调研量子系统的“自测试”（self-testing）技术，请你帮我完成一份技术综述报告，时间截止到2020年9月。报告需要包含以下几个部分：\n\n1.  **基本概念解释**：首先，请用通俗的语言解释什么是“自测试”，它和“设备无关”（device-independent）场景有什么关系？自测试的目标是什么？\n\n2.  **核心技术梳理**：请以表格形式，梳理并总结面向“纠缠态”（entangled states）的各种自测试方案。表格的列应该包括：“方案/协议名称”、“目标测试态（Target State）”、“核心方法/所依赖的贝尔不等式（Core Method / Bell Inequality）”、“主要贡献或特点”，以及“首次提出的文献（参考格式：作者, 年份, 期刊/会议）”。\n\n3.  **鲁棒自测试**：实际实验中无法达到理想条件，因此需要“鲁棒自测试”（robust self-testing）。请解释什么是鲁棒自测试，并总结实现鲁棒自测试的几种主流技术方法，说明它们各自的原理和优缺点。\n\n4.  **应用领域分析**：自测试技术有哪些实际或潜在的应用？请至少列举并分析其在“设备无关随机数生成”、“设备无关量子密钥分发”和“委托量子计算”这三个领域的具体作用和价值。\n\n请确保报告内容清晰、准确，特别是表格部分需要覆盖尽可能多的主流方案，并提供准确的文献来源。",
+    "rubric": [
+      {
+        "point": "明确解释自测试的目标是证明物理系统中的量子态和测量操作，在局部幺正变换和附加自由度的意义上，与某个参考态和参考测量等价。"
+      },
+      {
+        "point": "在表格中包含基于“倾斜CHSH不等式 (Tilted CHSH inequalities)”的方案，目标测试态为“部分纠缠双量子比特对”，并引用《Robust self-testing of unknown quantum systems into any entangled two-qubit states》。"
+      },
+      {
+        "point": "在表格中包含基于“线性约束系统博弈 (linear-constraint system games)”，如“魔方博弈 (magic square game)”的方案，目标测试态为“n个最大纠缠量子比特对的张量积”，并引用《Robust self-testing for linear constraint system games》。"
+      },
+      {
+        "point": "在表格中包含“序贯自测试 (Sequential self-testing)”方案，目标测试态为“n个EPR对”，并引用《Classical command of quantum systems》。"
+      },
+      {
+        "point": "明确列出鲁棒自测试方法：“范数不等式方法 (Norm inequalities method)”，其应用可见于《Robust self-testing of the singlet》等文献。"
+      },
+      {
+        "point": "在“委托量子计算 (DQC)”应用中，明确引用《Interactive proofs for BQP via self-tested graph states》的工作，该工作利用图态的自测试来构建可验证的DQC协议。"
+      },
+      {
+        "point": "解释了为何在设备无关场景下，只能将物理实现推断到“局部等距变换 (local isometry)”等价的程度，因为这种变换不改变可观测的统计相关性。"
+      },
+      {
+        "point": "“核心技术梳理”部分必须以表格形式呈现。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_44",
+    "question": "Hello, I am researching trajectory generation techniques for autonomous vehicles (e.g., planetary landers, drones). I understand that methods based on \"convex optimization\" are currently an important direction because they are reliable and efficient. I would like you to help me conduct a survey on this field, with the specific tasks as follows:\n1. First, briefly introduce \"optimization-based trajectory generation\" and explain why \"convex optimization\" has particular advantages in this task, especially when onboard computational resources are limited.\n2. Then, please identify and describe in detail three mainstream convex optimization-based trajectory generation algorithms: Lossless Convexification (LCvx), SCvx (also known as Successive Convexification), and GuSTO. For each algorithm, please explain:\n    * Its core idea or basic working principle.\n    * Its main advantages and limitations, i.e., what types of problems it is suitable for solving.\n    * List some specific projects or real-world scenarios where it has been applied, such as which company's rocket it was used on, or what type of robot.\nPlease ensure your survey content is up to date as of the end of 2022.",
+    "rubric": [
+      {
+        "point": "Explicitly state that the full name of LCvx is Lossless Convexification."
+      },
+      {
+        "point": "Specifically state that LCvx was used by NASA JPL for a multi-year flight test program for Mars pinpoint landing."
+      },
+      {
+        "point": "The overall structure of the answer is divided into three parts: 1. Introduction to trajectory generation and the advantages of convex optimization; 2. Detailed explanation of the three methods: LCvx, SCvx, and GuSTO; 3. A comparison table of the three methods."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_45",
+    "question": "请以“AI驱动的Kubernetes调度器”为主题，为我撰写一份技术调研报告。报告的时间范围限定在2018年至2023年6月。具体要求如下：\n\n1.  **技术综述**：请梳理并介绍若干种有代表性的、基于AI或机器学习的Kubernetes调度器或调度方案。对于每一种方案，需要清晰说明其名称、核心目标（例如，优化资源利用率、降低任务完成时间等）、采用的关键AI技术（例如，深度强化学习、神经网络、LSTM等），以及该方案声称达到的关键性能提升（请用具体数据描述，如“将平均任务完成时间缩短了XX%”）。\n\n2.  **总结**：在报告的最后，请简要总结一下AI技术在Kubernetes调度领域应用的总体趋势和面临的主要挑战。\n\n请确保报告内容专业、信息准确，并严格按照上述三个部分（技术综述、对比分析、总结）的结构进行组织。",
+    "rubric": [
+      {
+        "point": "综述部分明确指出Decima使用强化学习（RL）和神经网络来学习特定于工作负载的调度算法。"
+      },
+      {
+        "point": "综述部分明确指出KaiS使用图神经网络（graph neural networks）和协调的多智能体行动者-评论家方法（coordinated multi-agent actor-critic）。"
+      },
+      {
+        "point": "总结部分分析认为，将AI调度算法从受控的实验环境部署到真实的生产环境中，并进行有效的评估和验证，是一个具有挑战性的实践问题。"
+      },
+      {
+        "point": "在“技术综述”部分，对每种调度器或方案的介绍都包含了名称、核心目标、关键AI技术和量化性能提升。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_48",
+    "question": "Hello, I've recently encountered the concepts of 'Big Loop' and 'Atomization' in some AI research, which I find novel but don't quite understand. I'd like you to help me conduct an in-depth study on this direction and compile a technical review. Please limit your research to public studies available before the end of 2025 and complete the following tasks:\n1. First, please explain the definitions of the core concepts 'Big Loop' and 'Atomization', and describe the specific categories of 'atomic components' that constitute the Big Loop, along with the characteristics of each category.\n2. Then, please thoroughly summarize and analyze the advantages of the 'Big Loop' system compared to a single Large Language Model (LLM). This section requires you to elaborate from four aspects: 'Capability Enhancement', 'Functionality Expansion', 'Computational Efficiency', and 'User-Centric Design', and provide specific implementation methods or examples to support each aspect.\n3. Finally, please systematically outline the construction methods for 'atomic components'. This part should separately introduce the construction of 'Tool Components' and 'Model Components'. For tool construction, please describe methods such as directly using human tools, manual construction, and LLM-based automatic construction, and provide examples. For model construction, please introduce it from two perspectives: task paradigms (e.g., embedding models and reward models) and architectural innovations.\nYour output should be divided into three sections, corresponding to the three tasks above, and use clear headings. Please ensure accuracy of information and richness of examples.",
+    "rubric": [
+      {
+        "point": "Clearly state that in multi-agent systems, individual agents can serve as atomic components."
+      },
+      {
+        "point": "Under 'Capability Enhancement' advantage, mention enhancing capabilities by calling specialized models in domains such as finance, law, or healthcare."
+      },
+      {
+        "point": "Under 'Functionality Expansion' advantage, mention managing tasks by integrating project management or workflow tools."
+      },
+      {
+        "point": "Under 'User-Centric Design' advantage, mention protecting privacy by transferring knowledge via federated learning without transmitting raw data."
+      },
+      {
+        "point": "Under 'User-Centric Design' advantage, mention achieving customization by optimizing or replacing specific small models/tools."
+      },
+      {
+        "point": "In the 'Tool Construction - LLM-based Automatic Construction' section, mention the CREATOR model can independently create tools using documents and code."
+      },
+      {
+        "point": "In the 'Tool Construction - LLM-based Automatic Construction' section, mention KTCE proposes a 'problem-knowledge-tool' paradigm, abstracting knowledge from training data to build tools."
+      },
+      {
+        "point": "In the 'Model Construction - Task Paradigms' section, mention Reward Models learn preference patterns by training on paired human preference data."
+      },
+      {
+        "point": "In the 'Model Construction - Architectural Innovations' section, mention recurrent neural networks like LSTM/GRU still have advantages in processing sequential data (e.g., financial sequences)."
+      },
+      {
+        "point": "In the 'Model Construction - Architectural Innovations' section, mention technical iterations of generative models, including GANs (mode collapse problem), VAEs (blurry output problem), and diffusion models."
+      },
+      {
+        "point": "Explain the mechanism of 'Big Loop' system's functionality expansion: LLMs are inherently language processors, and by calling tools capable of interacting with external environments (e.g., APIs, databases), they gain the ability to perform practical operations such as booking tickets or managing schedules."
+      },
+      {
+        "point": "The response must be clearly divided into three main sections, using appropriate headings, such as 'Core Concept Definitions', 'Advantages of Big Loop Systems', and 'Construction of Atomic Components'."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_68",
+    "question": "I've recently been learning about AI applications in healthcare and heard about a new concept, 'AI-Supported Shared Decision-Making (AI-SDM),' but I'm confused about it and some existing terminology. Please help me compile detailed information on this topic, specifically including the following sections:\n\n1. First, please create a comparison table that clearly explains the differences between 'AI Transparency,' 'AI Explainability (XAI),' and 'AI Reasoning.' The table should compare their focus, goals, primary audience, core questions answered, and specific output examples.\n\n2. Next, please provide a detailed introduction to the 'AI-Supported Shared Decision-Making (AI-SDM)' framework. Explain its core objective and which AI models with different functionalities (e.g., predictive AI, generative AI) it comprises.\n\n3. Then, please create another comparison table, comparing this new 'AI-SDM' framework with 'Traditional Shared Decision-Making (SDM)' and the 'AI Explainability (XAI)' approach alone. This table needs to compare them across multiple dimensions, including: purpose, output format, workflow integration, personalization level, patient's role, clinician's role, AI usage, transparency, and limitations.\n\nPlease ensure all information is accurate and specific, table formats are clear, and process descriptions are well-organized.",
+    "rubric": [
+      {
+        "point": "In the comparison table, explicitly state that 'AI Transparency's' output example is 'Access to code/data flow'."
+      },
+      {
+        "point": "In the comparison table, explicitly state that 'XAI's' output examples include 'Feature importance (SHAP)' and 'LIME'."
+      },
+      {
+        "point": "In the comparison table, explicitly state that 'AI Reasoning's' focus is 'Clinical relevance and justification'."
+      },
+      {
+        "point": "Explicitly state that AI-SDM's core objective is 'to generate adaptive, narrative clinical reasoning specifically designed to facilitate the triadic deliberation (HCP-patient-AI) inherent in the SDM process'."
+      },
+      {
+        "point": "In the comparison table, under the 'Personalization' dimension, 'XAI' corresponds to 'Minimal; generalized models'."
+      },
+      {
+        "point": "In the comparison table, under the 'Patient role' dimension, 'XAI' corresponds to 'Passive receiver'."
+      },
+      {
+        "point": "In the comparison table, under the 'Transparency' dimension, 'AI-SDM' corresponds to 'Justifiable clinical reasoning in natural language'."
+      },
+      {
+        "point": "In the comparison table, under the 'Limitations' dimension, 'AI-SDM' corresponds to 'Dependent on quality of AI design and integration'."
+      },
+      {
+        "point": "Explain why AI reasoning is more suitable for SDM: it answers 'Why is this output relevant for the patient?' by generating contextual narratives and risk/benefit summaries, thereby facilitating clinician-patient dialogue."
+      },
+      {
+        "point": "The response structure is clear and strictly organized according to the three requested sections: 1. Comparison table for AI Transparency/XAI/AI Reasoning; 2. Definition of the AI-SDM framework; 3. Comparison table for Traditional SDM/XAI/AI-SDM."
+      },
+      {
+        "point": "Both comparison tables are correctly generated and include all columns (e.g., focus, goal, audience) and rows (e.g., AI Transparency, XAI, AI Reasoning) as required by the task."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_74",
+    "question": "I would like to understand China's policies and practices regarding open research data. Please conduct research and compile a report for me. The information in the report must be prior to July 2020. The report needs to include the following sections:\n1.  **Policy System Review**: Please review China's main open data-related regulations and policies from three levels: national, key institutional (e.g., Chinese Academy of Sciences), and specific disciplinary. \n2.  **Practice Cases Listing**: Please list how these policies are implemented in practice. This needs to cover several aspects: first, specific requirements in the management of research projects (e.g., projects from the National Natural Science Foundation of China, Ministry of Science and Technology); second, representative data repositories or data centers; third, major data journals, and briefly explain their characteristics and development status. \n3.  **Key Driving Institutions**: Please identify and introduce the core institutions driving open data policies and practices in China and their main initiatives. \n4.  Finally, please organize the main policies and regulations you found into a table. The table should include three columns: Policy Name, Issuing Body, and Level (National, Institutional, or Disciplinary).",
+    "rubric": [
+      {
+        "point": "Explicitly state that the 'Copyright Law of the People's Republic of China' (revised in 2010) is one of the regulations concerning intellectual property rights of research data."
+      },
+      {
+        "point": "Explicitly state that the 'Cybersecurity Law of the People's Republic of China' (2017) is one of the regulations concerning data security."
+      },
+      {
+        "point": "Explicitly state that the 'Interim Measures for the Management and Sharing of Government Information Resources' (2016) provides guidance for electronic record management."
+      },
+      {
+        "point": "Explicitly state that the Chinese Academy of Sciences (CAS) issued the 'Measures for the Management and Sharing of Scientific Data of the Chinese Academy of Sciences (for Trial Implementation)' in 2019."
+      },
+      {
+        "point": "Explicitly state the policy in the field of Earth Sciences: 'Measures for Managing Polar Expedition Data of China', issued by the State Oceanic Administration in 2018."
+      },
+      {
+        "point": "Explain that as of June 2020, 'China Scientific Data' had shared over 224 data papers and datasets."
+      },
+      {
+        "point": "Identify the 'Chinese Academy of Sciences (CAS)' as one of the key driving institutions."
+      },
+      {
+        "point": "Analyze that the 'Measures for Managing Scientific Data' (2018) is a key turning point, providing a national-level basis for various institutions (such as CAS) to formulate specific implementation rules, thereby promoting the systematic implementation of policies."
+      },
+      {
+        "point": "Point out that the gap between Chinese researchers' attitudes and actual actions regarding data sharing is narrowing."
+      },
+      {
+        "point": "The report must include four clear sections, using titles such as 'Policy System Review', 'Practice Cases Listing', 'Key Driving Institutions', and 'Summary Table of Main Policies and Regulations' or similar."
+      },
+      {
+        "point": "The table content should cover representative policies at the national, institutional, and disciplinary levels."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_80",
+    "question": "Drawing on the perspectives of Ene Kõresaar, Svetlana Aleksievich, and Jasmina Husanović, conduct research on the intersection of memory politics, trauma theory, and postcolonialism in Eastern Europe. Your research should consist of two parts.\n\nPart One: The Case of Boris Takk (as studied by Ene Kõresaar).\n1. Provide a detailed description of Boris Takk's life trajectory.\n2. Describe his activities as a 'memory entrepreneur' after Estonia regained independence.\n3. Explain his core narrative: how he framed his actions as a 'continuous struggle for Estonian freedom' and viewed the Soviet era as a 'prolonged rupture' and colonization. Specifically mention his perspective on 'serving the Estonian cause from inside the system.'\n4. Analyze his stance on the Holocaust.\n5. Summarize Kõresaar's analysis of Takk's narrative, namely, that this narrative represents a dominant postcolonial perspective in Estonia which frames World War II as a dual colonization by Nazi Germany and the Soviet Union.\n\nPart Two: The Perspectives of Svetlana Aleksievich and Jasmina Husanović.\n1. Regarding Svetlana Aleksievich, explain her approach to World War II memory, as detailed in her book *War's Unwomanly Face*.\n2. Regarding Jasmina Husanović, explain her 'politics of witnessing and hope.'",
+    "rubric": [
+      {
+        "point": "Clearly state that Aleksievich focused on women's personal experiences, which should have 'its own colors, its own smells, its own space and its own language.'"
+      },
+      {
+        "point": "Explain the connection between Aleksievich's work and feminist scholarship (e.g., Christine Sylvester's theory of 'touching war'), which centralizes bodily and emotional experiences."
+      },
+      {
+        "point": "The output must be structured into two main parts: 'Part One: The Case of Boris Takk (as studied by Ene Kõresaar)' and 'Part Two: The Perspectives of Svetlana Aleksievich and Jasmina Husanović.'"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_82",
+    "question": "I am researching the industrial development during China's Anti-Japanese War (1937-1945), specifically the activities of the National Resources Commission (NRC) in establishing factories in the rear areas. Please help me research and organize the following information:\n1. Please compile a list of major factories established by the National Resources Commission (NRC) in Hunan and Chongqing, before August 1938 (pre-war) and during August 1938 to August 1945 (wartime). Please present this in a table format, which should include the following columns: Factory No., Factory Name, Specific Address, Year of Establishment, and Industrial Category (e.g., Traditional Industry, Smelting Industry, Mining Industry, Electric Industry, etc.).\n2. Summarize the key factors the National Resources Commission considered when selecting sites for these factories. Please categorize these factors, for example, which ones are related to resources, and which ones are related to transportation.\n3. Finally, please analyze the differences in the National Resources Commission's factory site selection strategies during the pre-war and wartime periods. You can compare and analyze aspects such as the degree of reliance on railway and waterway transportation, the distance between factories and urban centers, and considerations for national defense security (e.g., concealment).",
+    "rubric": [
+      {
+        "point": "Correctly list wartime factories in the table: Xiangxi Electricity Works Yuanling Branch (湘西电厂沅陵分厂), located at Yuanling County, Hunan, established in January 1939, industrial category Electric Industry (EI)."
+      },
+      {
+        "point": "Correctly list wartime factories in the table: Electrochemical Refinery (电化冶炼厂), located at Qijiang County, Chongqing, established in July 1941, industrial category Smelting Industry (SI)."
+      },
+      {
+        "point": "Correctly list wartime factories in the table: North Spring Alcohol Plant (北泉酒精厂), located at Beibei County, Chongqing, established in May 1941, industrial category Traditional Industry (TI)."
+      },
+      {
+        "point": "Correctly list wartime factories in the table: Wanxian Electricity Works (万县电厂), located at Wan County, Chongqing, established in August 1938, industrial category Electric Industry (EI)."
+      },
+      {
+        "point": "Correctly identified and categorized \"resource factors,\" including: coal mine resources, iron ore resources, electric power resources."
+      },
+      {
+        "point": "Clearly state that only 3 out of 17 wartime factories (Qiling Coal Mine Company, Hunan Electric Company Changsha Branch, Steel Plant Relocation Commission) maintained close contact with railways."
+      },
+      {
+        "point": "Clearly state that only 4 out of 11 pre-war factories maintained moderate contact with urban centers."
+      },
+      {
+        "point": "Explain the reason for emphasizing railway transportation pre-war: aiming to build a multi-dimensional transportation network with railways as the primary mode and water transport as auxiliary, to support the construction of modern industrial bases."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_90",
+    "question": "I am researching the challenges faced by SRAM operating at low voltages, and I hope you can help me survey and compile a technical report on mainstream solutions. The report needs to include the following three sections:\n1.  **Alternate Cell Designs**: Please provide a detailed overview of several SRAM cell structures from 7T to 12T. For each structure (7T, 8T, 9T, 10T, 11T, 12T), explain its core design idea (i.e., what main problems it solved or what improvements it made compared to traditional 6T) and the key control signals it introduced.\n2.  **Assist-Circuits**: Please summarize several main assist-circuit techniques used for low-voltage operation. You need to cover eight common schemes found in literature, and for each scheme, state its name, whether it assists read or write operations, and its main overhead (e.g., what additional components or circuits are required).\n3.  **Performance Comparison Table**: Based on your survey, create a performance comparison table for SRAM cells from 6T to 12T. The table columns should include: `Parameter`, `6T`, `7T`, `8T`, `9T`, `10T`, `11T`, `12T`. The table rows should at least include: `Area Overhead (%)`, `Read Dynamic Power (µW)`, `Write Dynamic Power (µW)`, `Leakage Power (nW)`, `Read Access Time (ps)`, `Write Access Time (ps)`, and `Sensing Method`. Please ensure all data is complete and includes units.\nPlease ensure the content is accurate, detailed, and does not omit any mentioned design.",
+    "rubric": [
+      {
+        "point": "Clearly state that the 7T-SRAM cell has a single Read Bitline (RBL) and Read Wordline (RWL) for read operations."
+      },
+      {
+        "point": "Clearly state that the 7T-SRAM cell breaks the feedback of the back-to-back inverters through the newly added transistor M4 and the WL signal to improve write noise margin."
+      },
+      {
+        "point": "Clearly list the assist-circuit scheme: VDD lowering, and indicate its type as write assist."
+      },
+      {
+        "point": "Clearly state that the overhead of the VDD lowering scheme is Pull-up and pull-down devices."
+      },
+      {
+        "point": "In the performance comparison table, the Leakage Power for 6T cell is 5.6 nW."
+      },
+      {
+        "point": "In the performance comparison table, the Read Access Time for 6T cell is 3.06 ps."
+      },
+      {
+        "point": "In the performance comparison table, the Sensing Method for 6T cell is Differential."
+      },
+      {
+        "point": "In the performance comparison table, the Write Dynamic Power for 7T cell is 7.5 µW."
+      },
+      {
+        "point": "In the performance comparison table, the Read Dynamic Power for 8T cell is 18.14 µW."
+      },
+      {
+        "point": "In the performance comparison table, the Write Access Time for 8T cell is 37.93 ps."
+      },
+      {
+        "point": "In the performance comparison table, the Write Dynamic Power for 11T cell is 50.83 µW."
+      },
+      {
+        "point": "In the performance comparison table, the Write Access Time for 11T cell is 61.06 ps."
+      },
+      {
+        "point": "Explain how the 8T cell resolves device sizing conflicts between read stability and writability by setting up independent read ports, thus enabling independent optimization of read stability."
+      },
+      {
+        "point": "Explain the principle of the NBL (Negative Bitline) scheme: generating a negative voltage on the bitline to help flip the cell's value, thereby assisting write operations."
+      },
+      {
+        "point": "The 'Performance Comparison Table' must be presented in a table format."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_92",
+    "question": "I am a graduate student specializing in urban water resources management, currently conducting a literature review on 'Integrated Urban Water Management Models (IUWMMs)'. I need to perform a horizontal comparison of some mainstream models available in the market. My research timeframe is up to April 2018, so please ensure that all information you find is prior to this date.\n\nI would like you to focus on the following 13 common models: Sobek Urban, Aquacycle, Hydro Planner, WaterCress, Water Balance Model (WBM), Urban Cycle, Urban Volume and Quality (UVQ), MIKE URBAN, Urban Water Optioneering Tool (UWOT), City Water Balance (CWB), DAnCE4Water, WMOST, and WaterMet2.\n\nPlease help me complete two tasks:\n\n1.  **Create a 'Model Basic Information Table'**: This table needs to include the following columns: Model Name, First Developed Year, Main Developer, Core Advantages (summarize 1-2 key features), and Typical Spatiotemporal Scales (spatial scale and temporal scale).\n\n2.  **Create a detailed 'Model Application Capability Comparison Table'**: This table is the main focus of my research. Please use these 13 models as columns and specific functional applications as rows. If a model possesses a certain function, please mark it in the corresponding cell. I am particularly interested in the capabilities across the following dimensions. Please organize these capabilities as rows in the table by category:\n    *   **Drinking Water Management (DWM)**: Supply-Demand Analysis, Water Resource Availability Analysis, Distribution System Simulation, Regional Water Allocation, Leakage Analysis, Abstraction from Hydrosystems, Customized Modeling for Different Users (farmers/designers/planners), Alternative Water Infrastructure Options, Treatment Scheme Simulation.\n    *   **Stormwater Management (SWM)**: Best Management Practices (BMPs) Assessment, Drainage System Design, Stormwater Treatment/Reuse, Storage Facility Size Optimization, Runoff Management, Impact of Green Infrastructure (GI) on Water Balance, Average Runoff Assessment, Rainfall Inflow and Infiltration Mitigation, Measures Planning Considering Overland Flow.\n    *   **Cost and Energy**: Life Cycle Cost Accounting, Cost-Benefit Analysis, Capital and Operating Costs, Operating and Maintenance Costs, Energy Production and Consumption Estimation, Life Cycle Energy Use Analysis, Energy and Greenhouse Gas Emission Association Analysis.\n    *   **Social and Policy Factors**: End-User Behavior Change Simulation, Technological Change Impact Simulation, Population and Urbanization Impact Simulation, Policy Impact Assessment.\n\nPlease ensure the output format is clear, with the two tables presented separately, and the information is as accurate and detailed as possible.",
+    "rubric": [
+      {
+        "point": "In the basic information table, correctly summarize the core advantages of Urban Cycle, such as hierarchical network modeling, capable of simulating very detailed runoff and demand."
+      },
+      {
+        "point": "In the basic information table, correctly identify the first developed year of MIKE URBAN as 2007."
+      },
+      {
+        "point": "In the basic information table, correctly identify the first developed year of City Water Balance (CWB) as 2010."
+      },
+      {
+        "point": "In the basic information table, correctly summarize the core advantages of DAnCE4Water, such as supporting decentralized systems, considering multiple sustainability indicators including socioeconomic and ecological factors."
+      },
+      {
+        "point": "In the capability comparison table, clearly state that Urban Cycle, UWOT possess the 'Treatment Scheme Simulation' capability under DWM."
+      },
+      {
+        "point": "In the capability comparison table, clearly state that Aquacycle possesses the 'Impact of Green Infrastructure (GI) on Water Balance' capability under SWM."
+      },
+      {
+        "point": "Able to compare and conclude that WaterMet2's core is performance assessment based on the 'urban metabolism' theory, which differs from the engineering simulation methods of other models."
+      },
+      {
+        "point": "The answer should be clearly divided into two parts: 'Model Basic Information Table' and 'Model Application Capability Comparison Table'."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_96",
+    "question": "You are to act as an industry analyst, and write a development research report focusing on the \"High-Mix, Low-Volume (HMLV)\" manufacturing model. The report should be based on public research from 2000 to October 2022, primarily reviewing its research hotspots, key technologies, and main challenges across different development stages.\n\nSpecific requirements are as follows:\n1.  **Summary of Research Hotspots by Stage**: Divide the HMLV research history into three stages: 2000-2008, 2009-2016, and 2017-October 2022. For each stage, summarize the core research topics and keywords. For example, what were the early focus points, and what new technologies or concepts emerged in the middle and recent periods?\n\n2.  **Review of Core Technologies and Methods**:\n    *   **Layout and Process Optimization**: Systematically review key technological concepts used to optimize HMLV production layout and processes, covering at least: Cellular Manufacturing, Flexible Manufacturing Systems (FMS), and Flow Management. For each technology, explain its basic principles, application methods in HMLV scenarios, and core problems solved.\n    *   **Job Release and Scheduling**: Detail two common job release methods in dynamic HMLV production processes: CONWIP (Constant Work-In-Process) and POLCA. For each method, explain its working mechanism, advantages, and limitations in an HMLV environment.\n    *   **Classification of Common Algorithms**: Classify algorithms used for HMLV scheduling found in the literature and present them in a table. The table should include three columns: [Algorithm Category], [Specific Algorithm Name/Model], and [Main Application Objective]. Algorithm categories should cover at least: Heuristic Algorithms, Genetic Algorithms, Linear Programming, Reinforcement Learning.\n\n3.  **Industry Application Analysis**:\n    *   **Main Application Industries**: List the two industries where the HMLV model is most widely applied, and describe their research prominence (citing approximate proportions from the literature).\n    *   **Industry Challenges and Countermeasures**: Based on these two main application industries, describe the specific challenges they face in HMLV production scheduling and the targeted solutions or models proposed in the literature.\n\nPlease ensure the report structure is clear, information is accurate, and all conclusions are based on publicly available research materials.",
+    "rubric": [
+      {
+        "point": "In the \"Reinforcement Learning\" category of the algorithm table, include the \"Markov Decision Process (MDP)\" proposed in the study titled \"Reinforcement learning for online optimization of job-shop scheduling in a smart manufacturing factory\", applied to online scheduling decisions."
+      },
+      {
+        "point": "Clearly state that another challenge in semiconductor industry scheduling is optimizing the transient processing of single-arm multi-cluster tool robots."
+      },
+      {
+        "point": "Clearly state that a challenge in electronics industry PCBA scheduling is optimizing the assembly sequence of circuit boards on Surface Mount Device (SMD) machines to achieve optimal setup strategies."
+      },
+      {
+        "point": "Ability to summarize the evolutionary trajectory of HMLV research from the \"Theoretical Exploration and Algorithm Optimization\" phase (2000-2008), transitioning to the \"Automation and System Integration\" phase (2009-2016), and then to the \"Intelligent and Data-Driven\" phase (2017-2022)."
+      },
+      {
+        "point": "Ability to analyze the core contradiction of CONWIP in HMLV: it simplifies management by controlling total Work-In-Process, but its reliance on grouping process routes conflicts with the high heterogeneity of HMLV."
+      },
+      {
+        "point": "Ability to explain why the semiconductor and electronics industries became focal points for HMLV research: these two industries inherently possess typical characteristics of short product lifecycles, rapid technological iteration, diverse product types (high-mix), and fragmented customer orders (low-volume)."
+      },
+      {
+        "point": "Report structure is clear, including three main sections: \"Summary of Research Hotspots by Stage\", \"Review of Core Technologies and Methods\", and \"Industry Application Analysis\"."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_105",
+    "question": "请帮我调研一下“异世界（Isekai）”题材的日本漫画，特别是那种主角从现实世界进入到另一个世界的“portal-quest”类型。我希望你整理出一份详细的报告，时间范围截止到2020年6月。报告需要包含以下几个方面：\n\n1.  **背景介绍**：\n    *   简单介绍一下什么是“异世界（Isekai）”漫画，以及它在奇幻文学分类中的位置，比如可以参考Farah Mendlesohn提出的四种分类法（portal-quest, immersive, intrusion, liminal），并解释这四种分类具体是什么意思。\n    *   简单说明一下这类漫画和角色扮演游戏（RPG）的关系，特别是少年向（Shōnen）和少女向（Otome）游戏世界观对异世界漫画的影响。\n\n2.  **“Portal-Quest”类型漫画的核心设定统计**：\n    *   **主角的现实世界设定**：主角在进入异世界前的性别、年龄段（青少年/成人）和生活状态（例如是否有负面生活经历）的普遍情况。\n    *   **进入异世界的方式**：总结并统计主要的几种方式（例如：召唤、转生、神明介入、特定道具、被卷入游戏、无明确解释）及其各自的占比。\n    *   **异世界的类型**：统计这些漫画中的异世界主要建立在哪些世界观上（例如：少年向游戏世界、少女向游戏世界、其他游戏或非游戏世界等）及其各自的占比。\n    *   **主角进入异世界后的变化**：统计主角身体发生变化的普遍性（如是否变化、变成非人形态、保持人形但有改变、性别转换等）及其各自的占比。\n    *   **主角在异世界的目标**：统计主角在异世界的主要动机是什么（例如：完成任务、追求个人欲望、单纯生存、帮助他人、反社会行为等）及其各自的占比。\n\n3.  **分析与总结**：\n    *   根据你搜集到的数据，分析一下主角的性别和年龄，与他们进入异世界的方式、动机之间是否存在一些关联性？例如，不同性别或年龄的主角，进入异世界的方式或在异世界追求的目标是否有所不同？\n    *   简单总结一下这类漫画吸引读者的可能原因，比如它们如何满足读者的某些心理需求。\n\n请将你的回答分为三个部分：背景介绍、核心设定统计和分析总结。在“核心设定统计”部分，请确保给出具体的数据和百分比。",
+    "rubric": [
+      {
+        "point": "明确指出异世界故事属于“高奇幻”（high fantasy）类别。"
+      },
+      {
+        "point": "明确指出进入异世界的方式中，“无解释”占比为23%。"
+      },
+      {
+        "point": "明确指出进入异世界的方式中，“转生”占比为21%。"
+      },
+      {
+        "point": "明确指出84%进入少女向（otome）世界的主角是女性。"
+      },
+      {
+        "point": "明确指出83%进入少年向（shōnen）世界的主角是男性。"
+      },
+      {
+        "point": "明确指出三分之二（约67%）的主角在抵达异世界时会收到“外挂”或“恩惠”。"
+      },
+      {
+        "point": "明确指出约五分之一（20%）的故事中主角是作为团体的一员进入异世界。"
+      },
+      {
+        "point": "明确指出在女性主角的故事中，遇到的第一个异性具有性吸引力的比例是43%。"
+      },
+      {
+        "point": "明确指出在女性主角的故事中，发生浪漫关系的比例为34%。"
+      },
+      {
+        "point": "能分析出成年主角比青少年主角更倾向于追求“满足个人欲望”作为动机。"
+      },
+      {
+        "point": "回答严格按照“背景介绍”、“核心设定统计”、“分析与总结”三个部分组织。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_117",
+    "question": "我正在研究中国隋代的三论宗高僧吉藏，特别是他对‘佛性’的看法。我感到很困惑，因为他一方面是弘扬‘空’的大家，另一方面又似乎很推崇《涅槃经》等讲‘佛性常住’、‘佛性不空’的经典。我想请你帮我深入调研一下，整理一份关于吉藏佛性思想的报告，来解答这个矛盾。报告需要包括以下几个部分：\n1.  **人物背景**：简单介绍吉藏的生卒年份、所属宗派，以及他在佛学史上的地位。\n2.  **破斥旧说**：梳理并详细列出吉藏当时流行的、但他不认可的关于佛性的几种主要观点，并说明他反驳每一派的理由。比如，他为什么认为佛性不能等同于众生、心、第八识或者单纯的趋乐避苦的本能？\n3.  **确立正见**：清晰阐述吉藏自己对佛性的正面定义。这部分需要解释他提出的‘中道’佛性是什么意思，特别是‘不见空与不空’这一核心观念。另外，请解释他如何将佛性与‘第一义空’和‘智慧(般若)’联系起来。\n4.  **常住与空**：深入探讨吉藏如何论证佛性是‘常住’的。请重点解释他提出的两种‘常’（永恒性）的概念，并说明佛性属于哪一种。同时，分析他如何通过‘法身’的理论，将‘佛性常住’与三论宗核心的‘缘起性空’思想统一起来，化解二者之间的表面矛盾。\n5.  **理论的实践意义**：总结吉藏的佛性理论有哪些实际用途或目的。比如，这个理论如何支持‘一乘’思想，以及它对佛教修行者有什么鼓励作用？\n请确保内容条理清晰，引述观点时力求准确。",
+    "rubric": [
+      {
+        "point": "明确指出吉藏反驳此观点的理由：佛性是本来具有的，不是修行的结果。"
+      },
+      {
+        "point": "明确列出吉藏批判的观点：佛性是真谛（ultimate truth, zhendi）。"
+      },
+      {
+        "point": "明确指出吉藏提出的两种“常”的概念：“定性常”（dingxing chang, intrinsic eternality）和“因缘常”（yinyuan chang, conditional eternality）。"
+      },
+      {
+        "point": "明确指出“佛性常住”的说法可以对治二乘修行人对“无常”的错误执着。"
+      },
+      {
+        "point": "明确指出“佛性常住”的说法具有鼓励作用，因为它表明成佛是“非妄”（not illusory）且可以实现的。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_127",
+    "question": "请就人机交互背景下的“伪亲密关系”（pseudo-intimacy）概念撰写一份研究报告。报告应包含以下三个主要部分：\n\n1.  **概念历史与理论基础：**\n    *   追溯情感AI研究的思想史。\n    *   解释当代学者如何看待用户与平台的关系。讨论随着AI情感能力的进步，这种关系如何从单向的“准社会关系”转变为更具互动性的动态关系。\n    *   定义“伪亲密关系”。解释其以用户和平台之间即时、双向的情感交流为特征，以及它与真实人类亲密关系的区别。结合查尔斯·霍顿·库利（Charles Horton Cooley）的“镜像自我”（mirror me）理论，解释这种动态关系的运作方式。\n\n2.  **伪亲密关系的机制与社会影响：**\n    *   解释伪亲密关系的两个核心驱动因素：a) 技术因素（AI情感智能的增强）和 b) 人类因素（对亲密关系的内在需求）。\n    *   分析其积极方面\n    *   分析其负面影响和伦理风险\n\n3.  **关键学术著作与观点（2015年后）：**\n    *   找出并总结自2015年以来发表的、讨论情感AI、人机关系和伪亲密关系的重要学术文章或报告的核心论点。对于每篇著作，你必须列出作者、年份，并简要总结其与本主题相关的主要观点.",
+    "rubric": [
+      {
+        "point": "明确引用 Rosalind Picard 在1997年的开创性著作《情感计算》（Affective Computing）作为该领域的基础，该书进一步阐明了赋予计算机情感能力的技术可能性，将 Minsky 的理论构想转化为具体的情感计算工程方向。"
+      },
+      {
+        "point": "明确引用 Sherry Turkle 的著作《群体性孤独》（Alone Together，2014年），该书探讨了人类与计算机建立亲密联系的现象。"
+      },
+      {
+        "point": "为每篇引用的著作提供其主要论点的正确、简洁的摘要，且摘要需与情感AI或伪亲密关系主题相关。"
+      },
+      {
+        "point": "正确解释从“准社会互动”（单向用户投射）到“伪亲密关系”（双向但模拟的情感交换）的理论飞跃。"
+      },
+      {
+        "point": "解释尽管AI可以被编程来“理解”和“回应”情感，但它缺乏人类所拥有的天生的、生物性的共情能力，这造成了根本性的差异。"
+      },
+      {
+        "point": "在此背景下解释“人的异化”概念，即人类的创造物（AI）开始挑战或改变人类的主体性和社会结构。"
+      },
+      {
+        "point": "提供一个平衡的结论，避免纯粹的乌托邦或反乌托邦观点，承认其复杂性，并呼吁以负责任的态度发展情感AI。"
+      },
+      {
+        "point": "每个部分必须有清晰的主标题。"
+      }
+    ]
+  },
+  {
+    "id": "DRB2_128",
+    "question": "As a health research assistant, please write for me a special report on 'The Impact of Protein Intake on Muscle and Bone Health in Older Adults'. The scope of this report should be limited to publicly available information up to early 2024.\nThe report needs to include the following four sections, strictly organized in order:\n1.  **Summary of Existing Recommended Protein Intakes**: Summarize and compare the daily recommended protein intakes for older adults from various authoritative organizations (e.g., World Health Organization WHO, European Food Safety Authority EFSA, PROT-AGE Study Group, ESPEN, etc.) and major countries (e.g., Nordic countries, Germany, Austria, Switzerland, Ireland, etc.). Please clearly indicate the differences in recommended values among different organizations and briefly explain their basis for formulation (e.g., whether they are based on nitrogen balance studies or functional health indicators).\n\n2.  **Research on the Impact on Muscle Health**: Compile the results of several key randomized controlled trials (RCTs) demonstrating the impact of increased protein intake (especially above 0.8 g/kg body weight/day) on muscle health in older adults. Please organize the results into a table. The table should include the following columns: Study Name, Characteristics of Study Population, Intervention Details, and Key Research Findings. Please ensure the table includes at least the ProMuscle, ProMuscle in Practice, PROMISS, and CALM studies.\n\n3.  **Research on the Impact on Bone Health**: Review research evidence on the relationship between protein intake and bone health in older adults (e.g., bone mineral density and fracture risk). Highlight key studies published after 2019, particularly those by Weaver et al. and Kemmler et al. Also, please present the core information of these two studies in a simple table, listing: Study Name, Study Population, Intervention or Follow-up Details, and Key Results.\n\n4.  **The Importance of Protein Quality**: Discuss the importance of protein quality in the diet of older adults. Please compare the characteristics of animal protein and plant protein, and explain why special attention to protein intake in older adults is needed when promoting plant-based diets. Additionally, please mention the potential role of specific essential amino acids (e.g., leucine, valine, tryptophan) in maintaining muscle and bone health.",
+    "rubric": [
+      {
+        "point": "Clearly state that the PROT-AGE Study Group recommends an average daily protein intake of at least 1.0 to 1.2 g/kg/d for healthy older adults."
+      },
+      {
+        "point": "Clearly state that Nordic countries revised their recommended protein intake for older adults to 1.2g/kg/day starting from 2012."
+      },
+      {
+        "point": "In the muscle health table, correctly state the population for the ProMuscle in Practice study as: ≥65 years old, frail or pre-frail, or physically inactive."
+      },
+      {
+        "point": "In the muscle health table, correctly report the results of the CALM study as: compared to the protein-only group, the protein + exercise group showed improvements in quadriceps size and leg strength."
+      },
+      {
+        "point": "In the bone health table, correctly report the results of Weaver et al.'s study as: during 5 years of follow-up, the high protein intake group had a 64% reduced risk of vertebral fractures."
+      },
+      {
+        "point": "In the bone health table, correctly state the population for Kemmler et al.'s study as: men aged ≥72 years with osteoporosis and sarcopenia."
+      },
+      {
+        "point": "In the bone health table, correctly report the results of Kemmler et al.'s study as: after 18 months, the intervention group had 0.013 mg/cm² higher total hip BMD than the control group."
+      },
+      {
+        "point": "In the protein quality section, mention the role of leucine in stimulating muscle protein synthesis."
+      },
+      {
+        "point": "In the protein quality section, mention that higher serum tryptophan concentrations are associated with fewer osteoporotic fractures, supported by two cohort studies (Su Y et al. 2019, Carbone L et al. 2023)."
+      },
+      {
+        "point": "In the muscle health table, correctly list the intervention details for the ProMuscle Implementation study as: tailored nutritional advice aiming for 20-25 grams of protein per main meal, combined with resistance exercise, for 12 weeks."
+      },
+      {
+        "point": "In the muscle health table, correctly report the results of the ProMuscle Implementation study as: improved chair stand performance and leg strength."
+      },
+      {
+        "point": "Be able to point out the limitations of nitrogen balance studies that set the recommended intake at 0.83 g/kg/d, namely the small sample size of older adults included and insufficient statistical power."
+      },
+      {
+        "point": "Be able to conclude from the results of studies like ProMuscle and CALM that for older adults whose protein intake already meets the recommended level (>0.8 g/kg/d), further increasing protein intake, especially when combined with resistance exercise, can still have beneficial effects on muscle mass and function."
+      },
+      {
+        "point": "Be able to conclude from the studies by Weaver et al. and Kemmler et al. that protein intake higher than the current PRI has positive effects on bone health in older adults (including maintaining BMD and reducing fracture risk)."
+      }
+    ]
+  },
+  {
+    "id": "DRB2_132",
+    "question": "Hello, I would like you to act as a dermatology research assistant, to help me compile a detailed report on treatment methods for 'Melasma'. I've heard there are many treatment methods now, ranging from topical creams to various lasers, which is quite overwhelming. I hope this report can help me clarify my thoughts and only include information up to early 2024.\n\nThe report needs to be divided into four main sections:\n1.  **Topical Treatments**: Introduce several mainstream topical drugs or ingredients, such as hydroquinone, retinoic acid, corticosteroids, etc. For each, please explain its mechanism of action, common side effects, and whether it is usually used alone or in combination.\n2.  **Aesthetic Procedure Treatments (Non-Laser)**: Introduce common aesthetic procedures that can treat melasma without using lasers, such as chemical peels, microneedling therapy, etc. Similarly, please explain their mechanisms of action, main risks, and efficacy.\n3.  **Laser and Phototherapy**: This is the section I am most concerned about. Please thoroughly review several mainstream laser and phototherapy techniques available on the market for treating melasma, such as Intense Pulsed Light (IPL), Q-switched lasers, fractional lasers (including non-ablative and ablative), picosecond lasers, etc. For each technique, please be sure to explain its specific working principle (is it photothermal or photoacoustic effect? Which layer does it act on?), treatment efficacy, and most importantly – what are the side effects and recurrence risks?\n4.  **Comprehensive Comparison and Conclusion**: At the end of the report, please provide a summary. Compare the advantages and disadvantages of different types of therapies (especially various lasers), particularly in terms of efficacy, side effects, and recurrence rates. And based on existing research, provide overall recommendations on treatment strategies, such as which therapy should be preferred in certain situations, and whether combination therapy is better than monotherapy.\n\nPlease ensure the report content is professional, accurate, and reliably sourced. Thank you!",
+    "rubric": [
+      {
+        "point": "Clearly state that topical application of 10% zinc sulfate solution is safe and effective for treating melasma."
+      },
+      {
+        "point": "Clearly cite the result of a split-face prospective study, indicating that the percentage reduction in mMASI score on the PRP-treated side was higher than that on the tranexamic acid (TXA) injected side."
+      },
+      {
+        "point": "Clearly state that microneedling therapy (also known as percutaneous collagen induction therapy) is a minimally invasive procedure."
+      },
+      {
+        "point": "Clearly state that side effects of microneedling therapy include temporary redness, burning sensation, pain, swelling, and bruising."
+      },
+      {
+        "point": "Clearly state that side effects of LQSNYL treatment include guttate hypopigmentation."
+      },
+      {
+        "point": "Clearly state that ablative fractional lasers (AFL) use wavelengths including CO₂ 10600nm and Er:YAG 2940nm."
+      },
+      {
+        "point": "Compared the clinical response of NAFL with IPL/Q-switched lasers: NAFL produces a more enduring clinical response, with a later recurrence time than the latter two (3-6 months vs. as early as 3 months)."
+      },
+      {
+        "point": "Provided recommendations for maintenance therapy: to maintain efficacy and minimize the likelihood of recurrence, it is advised to maintain topical drug therapy while increasing the number of energy-based device treatments."
+      }
+    ]
+  },
+  {
+    "id": "RB_1",
+    "question": "In specific domains, such as healthcare, using large language models (LLMs) in combination with Retrieval-Augmented Generation (RAG) can effectively reduce hallucinations, while attribution can provide valid citation evidence for the generated answers, making it easier for subsequent evaluation and validation. A method was attempted where GPT-4 was used to generate data, followed by fine-tuning the LLM using supervised fine-tuning (SFT) to directly produce answers and attributions. It was observed that for simple questions (single citation), the model performs well, but for more complex questions, the model's performance declines. After investigating, it was found that the generated dataset primarily contained simple questions, and the citation accuracy of GPT-4 itself is low (around 75%). How can high-quality data be generated to improve performance on complex questions?",
+    "rubric": [
+      {
+        "point": "Outlines how to build a high-quality knowledge corpus from trusted medical sources.",
+        "weight": 2
+      },
+      {
+        "point": "Details specific evaluation metrics for assessing attribution quality (e.g., ALCE benchmark).",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "RB_3",
+    "question": "In multimodal pretraining, the current mainstream paradigms are based on image tokens and stable diffusion. Analyzing the latest advancements (by April 2025) in these two technical approaches, with reference to the most recent papers, which one appears to be more promising and why?",
+    "rubric": []
+  },
+  {
+    "id": "RB_10",
+    "question": "What are the specific differences between the two major RL designs behind DeepMind and OpenAI? Both DeepMind and OpenAI have made significant achievements in deep reinforcement learning, but by analyzing some tutorial details from David Silver and Sergey Levine, I feel that their understanding and implementation of RL have quite different approaches. Is there a more in-depth comparison of these two RL research institutions?",
+    "rubric": [
+      {
+        "point": "Compares the model-based planning approach in DeepMind's AlphaGo (MCTS) vs. the pure RL strategy in OpenAI Five.",
+        "weight": 1
+      },
+      {
+        "point": "Describes the different evolution paths of algorithms at each organization over time.",
+        "weight": 3
+      },
+      {
+        "point": "Compares approaches to safety and alignment in reinforcement learning systems.",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "RB_20",
+    "question": "Mixture of Experts (MOE) architecture usually first train a powerful general model and then use multiple LoRA (Low-Rank Adaptation) modules in a hot-swappable manner for specific task training. Compare the performance with traditional dense models and, based on relevant research papers, analyze how to combine the strengths of both approaches.",
+    "rubric": []
+  },
+  {
+    "id": "RB_25",
+    "question": "Could reinforcement learning techniques developed for large models be effectively applied to smaller models, or does distillation from larger systems remain superior?",
+    "rubric": [
+      {
+        "point": "Explain how knowledge distillation circumvents computational complexity and instability risks associated with directly applying reinforcement learning techniques to small models.",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "RB_30",
+    "question": "Can Enterprises build better domain-specific models with their data, or will large general models always outperform them?",
+    "rubric": [
+      {
+        "point": "Discuss how domain-specific models provide practical advantages through reduced operational latency, decreased inference costs, and specialized performance optimization compared to general-purpose models.",
+        "weight": 2
+      },
+      {
+        "point": "Evaluate the trade-off between enhanced performance on specialized tasks and reduced general capabilities, providing concrete examples of enterprise decision-making factors that influence model selection.",
+        "weight": 1
+      },
+      {
+        "point": "Explains how combining large foundation models with modular, task-specific components enables hybrid capabilities that leverage both broad knowledge and specialized adaptations.",
+        "weight": 2
+      },
+      {
+        "point": "Discusses how access to proprietary enterprise data creates a competitive advantage in developing domain-specific models compared to general-purpose models.",
+        "weight": 2
+      },
+      {
+        "point": "Discuss why specialized models currently dominate production systems despite potential future developments in adaptable foundation models.",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "RB_33",
+    "question": "Why choose a general model approach over domain-specific solutions, given the industry trend toward narrow AI applications?",
+    "rubric": [
+      {
+        "point": "Discuss how domain-specific solutions achieve reliability through focused training and built-in constraints.",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "RB_36",
+    "question": "What fundamental architectural differences between Salesforce's agent approach and large language model wrappers like Co-Pilot ensure both security and actionable business value?",
+    "rubric": [
+      {
+        "point": "Describes how a four-layer architectural structure (foundational infrastructure, automation systems, Data Cloud, and agentic layer) in Salesforce's approach enables both security maintenance and business value realization.",
+        "weight": 2
+      },
+      {
+        "point": "Explains how architectural grounding in real customer data (versus general-purpose model reliance) creates security and business value through domain-specific relevance.",
+        "weight": 2
+      },
+      {
+        "point": "Explains how the integration of multiple customer interaction channels (sales, service, marketing) into a single automated system enhances operational coherence and business value delivery.",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "RB_38",
+    "question": "Does AI's ability to generate physically coherent videos indicate progress in understanding the physical world, or is it just pattern matching?",
+    "rubric": []
+  },
+  {
+    "id": "RB_40",
+    "question": "What fundamental architectural innovations are needed to enable neural networks to maintain lifelong learning capabilities without catastrophic forgetting?",
+    "rubric": [
+      {
+        "point": "Explain why existing neural network architectures struggle to efficiently accumulate knowledge over time despite their capacity for representation learning from raw data.",
+        "weight": 2
+      },
+      {
+        "point": "Explains how a meta-learning framework enables the development of generalizable learning strategies that support rapid task adaptation while maintaining previously acquired knowledge.",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "RB_43",
+    "question": "What overlooked system architecture challenges need solving to fully realize AI's potential across cloud and edge computing?",
+    "rubric": [
+      {
+        "point": "Identifies gaps in multimodal memory systems for AI.",
+        "weight": 1
+      },
+      {
+        "point": "Highlights the absence of complete system architecture in current AI implementations.",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "RB_44",
+    "question": "What would a 'PhD-level' AI capability look like in practice, and how might that force us to re-evaluate our current educational accreditation systems?",
+    "rubric": [
+      {
+        "point": "Quantifies existing AI performance using specific metrics (e.g., standardized test scores, programming benchmarks) with numerical comparisons to human performance tiers.",
+        "weight": 1
+      },
+      {
+        "point": "Identifies specific markers of aesthetic judgment that separate routine problem-solving from expert-level work in a domain.",
+        "weight": 2
+      },
+      {
+        "point": "Elaborates on the metacognitive awareness required for self-evaluation of research quality beyond external validation.",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "RB_54",
+    "question": "How have scaling laws evolved in large language models from GPT-3 to O3, and what does this tell us about the future direction of AI research?",
+    "rubric": [
+      {
+        "point": "Discuss how the integration of architectural innovations with traditional scaling approaches in current implementations demonstrates ongoing viability of parameter scaling for advancing model capabilities.",
+        "weight": 1
+      },
+      {
+        "point": "Discuss how scaling laws serve as the primary mechanism driving capability improvements in successive generations of large language models.",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "id": "RB_56",
+    "question": "What are the architectural advantages of Transformer models over CNNs for computer vision tasks, and what evidence suggests they could eventually become the dominant architecture for visual processing?",
+    "rubric": []
+  },
+  {
+    "id": "RR_1",
+    "question": "I want to create a plan for July 4, 2025, i.e., Independence Day in Washington DC. I would like an itinerary of all the things to do and all the activities that are planned for Independence Day. Create a plan for the whole day and also extend it to the weekend, if required. Provide some reviews or explain why one should visit the place or engage in the activity. Add any additional information that is required.",
+    "rubric": [
+      {
+        "point": "The response includes officially recurring DC events (e.g., National Independence Day Parade, A Capitol Fourth Concert, National Mall Fireworks, Mount Vernon tour)",
+        "weight": 5.0
+      },
+      {
+        "point": "The response explicitly states that exact 2025 event times are tentative and should be confirmed closer to the date.",
+        "weight": 1.0
+      },
+      {
+        "point": "The response recommends using personal fireworks use or any other illegal activity.",
+        "weight": -5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_14",
+    "question": "Write a detailed report on Langchain and how it became one of the most used python libraries in 2025 for AI application development using Large language models. Also explain evolution of the library, how it changed over the years, why was it created and also explain some of the more advanced libraries born out of it. Then explain why it has consistently been one of the best even though there are many python libraries that can also be used to create similar workflows and why I should prefer langchain over them in certain types of tasks. Talk about the company, how many contributors, main contributors, main source of income and finally end your report by summarising the direction in which langchain will progress and what their future plans are.",
+    "rubric": [
+      {
+        "point": "The response includes a description of what each additional derivative library adds beyond LangChain, if mentioned.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response is organized as a report, using clear sections with headers (e.g., \"Introduction,\" \"Evolution of LangChain,\" \"Company and Contributors,\" \"Future Direction\").",
+        "weight": 4.0
+      },
+      {
+        "point": "The response identifies and describes LangChain Templates, a separate initiative from the LangChain Hub that provides developers with pre-packaged, production-ready reference applications.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response discusses at least two specific scenarios or tasks where LangChain is preferred over an alternative, explaining the reason (e.g., preferred over LlamaIndex for complex, multi-step agents due to LangGraph's flexibility; preferred over Haystack for RAG production due to built-in evaluation with LangSmith).",
+        "weight": 4.0
+      },
+      {
+        "point": "The response discusses the potential intellectual property or license compliance risks when building commercial applications with LangChain, given its role in connecting to hundreds of external components with varied licenses (beyond its own MIT License).",
+        "weight": 2.0
+      }
+    ]
+  },
+  {
+    "id": "RR_17",
+    "question": "Please make a plan for my student group's end of year banquet, including a specific venue and a specific menu from a caterer. We need a nice venue near Berkeley, CA with a projector for slides. There are around 30 people attending. We also need to cater food that accommodates the following dietary restrictions: 2 egg allergies, 2 peanut allergies, 1 dairy + nuts + shellfish allergy, and 1 vegetarian. The total budget for the banquet is 2500 dollars, with a hard cap of 3000 dollars. Do not factor in transportation in the budget. ",
+    "rubric": [
+      {
+        "point": "The response proposes a real venue that is appropriate ambiance for an end-of-year celebration (e.g. professional garde, unique, memorable, historic).",
+        "weight": 2.0
+      },
+      {
+        "point": "The response provides the final budget breakdown in a well structured format like a table for readability.",
+        "weight": 3.0
+      }
+    ]
+  },
+  {
+    "id": "RR_24",
+    "question": "You are a policy analyst at an independent financial-political think tank. Produce a 10000-12000-word policy white paper that answers: \"How has the rise of quantitative hedge funds and algorithmic trading since 2000 shaped political lobbying, campaign finance flows, and policy outcomes in OECD countries, and what regulatory reforms could ensure greater transparency and fairness?\"",
+    "rubric": [
+      {
+        "point": "The response includes a detailed discussion of lobbying mechanisms with trade associations and mapped contribution networks.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response includes more than 2 original figures (e.g., charts, regression plots).",
+        "weight": 3.0
+      },
+      {
+        "point": "The response follows a standard white paper structure, including an executive summary, methodology, findings, and recommendations sections.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response fails to define technical terms related to quantitative trading and political finance (e.g., stock volatility, high-frequency trading (HFT), alpha (excess return), or beta (fund sensitivity)).",
+        "weight": -2.0
+      },
+      {
+        "point": "The response includes a comprehensive literature review section.",
+        "weight": 1.0
+      },
+      {
+        "point": "The response downplays the complexity of hedge funds (e.g., omitting pooled investments, ignoring regulatory differences, neglecting high fee structures).",
+        "weight": -4.0
+      }
+    ]
+  },
+  {
+    "id": "RR_30",
+    "question": "Give me a detailed report on the recent Air India crash in India of AI171 heading from Ahmedabad to London. Include the most up-to-date information from news channels. Also provide me with an elaborate analysis for possible reasons of the crash and provide recommendations on how such an incident could be avoided in the future.",
+    "rubric": [
+      {
+        "point": "Response contains a clearly dated time-stamp such as “As of YYYY-MM-DD” or similar within the first two paragraphs.",
+        "weight": 5.0
+      },
+      {
+        "point": "The response uses language such as 'could,' 'might,' 'hypothetically,' for unconfirmed hypotheses and scenarios.",
+        "weight": 4.0
+      },
+      {
+        "point": "The response contains at least one table summarizing the possible causes for the accident.",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "id": "RR_34",
+    "question": "write a series of blog posts on important combinatorics topics in math olympiads. Include intuitive and detailed explanations, as well as example problems from top olympiads such as USAMO, USA TSTST, CMO, IMO, IMO shortlist, etc. Provide correct solutions for those problems and the insight or takeaways from those solutions.",
+    "rubric": [
+      {
+        "point": "Each post includes an intuitive and detailed explanation of its core combinatorics topic (e.g. providing baseline definitions, using analogies, leveraging storytelling, visual explanations).",
+        "weight": 4.0
+      },
+      {
+        "point": "The response contains insights and takeaways for all examples, not per each topic or each example.",
+        "weight": -2.0
+      }
+    ]
+  },
+  {
+    "id": "RR_37",
+    "question": "Write a beginner-friendly technical guide explaining how Convolutional Neural Networks (CNNs) process visual data. Cover key ideas like convolution, kernels, feature maps, pooling, and why CNNs are effective for spatially structured input.",
+    "rubric": [
+      {
+        "point": "The response states at least one reason that CNNs are effective for spatially structured data, specifically mentioning either (a) local receptive fields or (b) weight sharing.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response includes diagrams and visualizations for the sliding window intuition, and also what a kernel looks like operating over input data in the form of matrices.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response briefly compares CNNs to fully connected networks in terms of parameter efficiency and overfitting risk (e.g., (1) Convolutional layers are more parameter-efficient than fully connected layers, (2) CNNs are better for spatial data such as images that exhibits locality and translation invariance, (3) CNNs has a lower risk of overfitting due to fewer parameters and regularization effects of local receptive field).",
+        "weight": 3.0
+      },
+      {
+        "point": "The response explains how multiple layers of convolution and pooling build hierarchical features (e.g., edges → textures → objects).",
+        "weight": 3.0
+      },
+      {
+        "point": "The response includes a concise code snippet (in any language) that manually performs a 2D convolution with nested loops (no libraries), to reinforce the sliding-window intuition.",
+        "weight": 4.0
+      }
+    ]
+  },
+  {
+    "id": "RR_48",
+    "question": "Write a blog post describing the pros and cons of using a gradient boosting model over a support vector machine for a health dataset. Some thing to consider when writing this post is how different feature selection methods can influence performance for both type of models. ",
+    "rubric": [
+      {
+        "point": "The response provides three major feature selection methodologies (filter, wrapper, and embedded) and discusses how each methodology works (e.g. filter method eliminates less significant features, wrapper method uses performance of a wrapper model as objective function, wrapper method uses forward selection to iteratively add features that most improves model performance, embedded method has feature selection as integral part of model training).",
+        "weight": 5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_50",
+    "question": "In the future, if everything is automated and there are high-level, advanced technologies available, it means that there is no need for human labour for most of the things. How will this system work (as population is increasing and human jobs are decreasing) and how such society will be governed? Give your answer for 2 scenarios: one where everything is automated (which has created mass unemployment) and there are no universal resources provided to everyone to sustain themselves, and the other where everything is still automated, but because universal resources are easily available for everyone, no one has a need to work a job. Explain your prediction in detail about these 2 societies.",
+    "rubric": [
+      {
+        "point": "The response includes the concept of \"digital colonialism\", where nations without advanced AI become dependent on those who control it.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response addresses potential stagnation or loss of motivation that could threaten the system’s sustainability in Scenario 2.",
+        "weight": 3.0
+      }
+    ]
+  },
+  {
+    "id": "RR_54",
+    "question": "Generate a short investor report on the main geopolitical and market factors affecting global uranium prices in the 2025 fiscal year.",
+    "rubric": [
+      {
+        "point": "The response mentions the development of Small Modular Reactors (SMRs), which are smaller, advanced reactors that have small physical footprints and reduced capital investment leading to potentially wider adoption.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response discusses Iran's nuclear program out of the context of how it affects global uranium prices.",
+        "weight": -3.0
+      },
+      {
+        "point": "The response correctly links the continuing Russo-Ukrainian war to increased global uranium prices due to fear and uncertainty in the nuclear energy market regarding one of the world's largest suppliers of enriched uranium (Russia). ",
+        "weight": 4.0
+      }
+    ]
+  },
+  {
+    "id": "RR_56",
+    "question": "Look at this public Github repository \"clever-rockies\" by user suzytamang. <https://github.com/suzytamang/clever-rockies>\n\nThe folders include \"res\", \"src\", and \"tests\". Go to the README, read it carefully to see what the point of the code is. Then, I have three requests.\n\nFirst, walk me through exactly what each step does. Do it at a high level first, and then break it down to chunks of actual code. You should start with generating some sample data based on the code and the context, at least several rows of it, and tell me how the data changes after each step.\n\nSecond, walk me through exactly what I'd need to do to run this code on my computer, including how I'd need to organize my input and output files at each stage. \n\nFinally, suggest improvements to the code. First output the code that's written there, and then mark exactly what you'd change and why, then give a final version and tell me how the logic would change.",
+    "rubric": [
+      {
+        "point": "The response shows a ‘before’ and ‘after’ view of the sample data (either as tables or code blocks) for every processing step described.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response uses the instructions in the main README.md file to walk users through how to use the repository, including those under 'General Targets', 'Testing Functionality', and 'Main Steps'.",
+        "weight": 5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_58",
+    "question": "Conduct an analysis to determine whether social media's overall impact on society has been more beneficial or detrimental. Argument should be structured by examining social media's impact across key domains of society. For each domain you must evaluate both positive and negative effects, using evidence from academic studies, journalist reports, case studies. After analyzing each domain, construct a definitive judgment that weighs these impacts on each other. ",
+    "rubric": [
+      {
+        "point": "Response includes global perspective by citing examples of platforms from at least two non-Western regions (e.g., Douyin, VK, Bilibili, Kakaotalk).",
+        "weight": 4.0
+      },
+      {
+        "point": "The response discusses social media platforms across at least 3 different formats (e.g. microblogs such as Twitter/X, Bluesky; short-form image/video platforms such as Snapchat, Instagram Reels; general networking platforms such Facebook, MySpace, LinkedIn, etc.; long-video platflorms such as Youtube).",
+        "weight": 4.0
+      },
+      {
+        "point": "The response demonstrates uses a diverse and media-pertinent source of materials (e.g., scholarly articles, social media captures, news articles; quotes from legislators, social media executives, technologists, etc.)",
+        "weight": 5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_63",
+    "question": "Help me write a 2-page overview of the NELF-E protein's role in hepatocellular carcinoma, and how its ability to form bimolecular condensates might give clues as to its role in tumorigenisis. Please ensure that your overview is written such that a high-school AP Biology student can clearly understand what you are saying.",
+    "rubric": [
+      {
+        "point": "Employs at least one everyday analogy (e.g., oil droplets, separation of cream in milk, lava lamp, coconut) to easily explain and break down the concept of how liquid-liquid phase separation forms biomolecular condensates.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response explains NELF-E's role in the process of transcription in a manner which is appropriate for an AP Biology Student (i.e., NELF-E \"grabs on\" to RNA after it is produced, it has ability to press pause/act as a red light on the process of transcription, encourages repair at DNA break sites, specifically interacts with Polymerase II which transcribes precursors of mRNA).",
+        "weight": 3.0
+      },
+      {
+        "point": "The response explains promoter-proximal pausing in an accessible manner, i.e., when transcription is inititated and then pauses, accumulating RNA Pol II ~30-60 nucleotides downstream of the start site, which thought to be a regulatory mechanism for higher eukaryotes.  ",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "id": "RR_65",
+    "question": "Write a series of blog posts discussing ways people can invest their money for retirement and large purchases. The posts should be understandable and applicable for all adults, regardless of their prior experience in investing.",
+    "rubric": [
+      {
+        "point": "The response mentions a financial term or acronym (e.g. liquidity, yield, Roth IRA, bull market) without defining it for a general audience.",
+        "weight": -3.0
+      },
+      {
+        "point": "The response relates different time horizons to risk (e.g., higher risk is tolerable for long time horizons, shorter term investment is less predictable, different expectations for bonds and stocks, time restrictions on withdrawing from certain accounts).",
+        "weight": 2.0
+      },
+      {
+        "point": "The response identifies a unique feature of each of the major stock market indexes (e.g., S&P 500, Dow Jones, Nasdaq, Russell 2000).",
+        "weight": 2.0
+      }
+    ]
+  },
+  {
+    "id": "RR_66",
+    "question": "I'm trying to scope out my research proposal. It's focused on decentralized control for a heterogeneous swarm (UAVs and UGVs) doing search and rescue in unstructured, GPS-denied environments. Think collapsed buildings, dense forests, etc\n\nFirst, I need a way for each agent to handle its own state estimation. I'm thinking multi-sensor fusion, that is, fusing onboard vision, LiDAR, and IMU data for robust SLAM and odometry, but it also has to be good enough to detect survivors or hazards, not just navigate. How do we manage real-time role assignment, eg who's mapping, who's actively searching, who's clearing debris? It needs to be decentralized and robust to failures. for example if a drone battery dies or a ground bot gets stuck, the system has to autonomously reallocate its tasks without a central coordinator.  The comms will be spotty, so how does the swarm propagate critical info like victim locations, new hazards, blocked passages, etc over an ad-hoc mesh network that's constantly dropping connections? Maybe some distributed mapping or data sharing protocol? For the analysis, I need to show this framework is actually effective. We probably need some formal or at least strong empirical guarantees? Something to show that, say 90% of reachable victims are located within a bounded time, even if we lose up to 30% of the agents. Finally, for evaluation, I'm planning to implement this in a high-fidelity simulator, probably ROS/Gazebo, with realistic sensor noise and complex terrain. Then I'd run it across maybe three disaster scenarios of increasing complexity. We'd need to report metrics on coverage, victim-finding rate, rescue latency, and the network overhead to make sure it's efficient.",
+    "rubric": [
+      {
+        "point": "The response justifies its decentralized architecture by explicitly naming at least two failure modes of centralized systems in disaster environments (e.g., single point of failure, communication bottlenecks, delayed decision-making, limited scalability) and explaining how its proposed mechanisms mitigate these specific risks (e.g., distributed control, ad hoc networking, consensus-based coordination, fault-tolerant task allocation).",
+        "weight": 4.0
+      },
+      {
+        "point": "The response defines its task allocation mechanism as a multi-objective optimization problem that includes at least three competing objectives (e.g., risk minimization by avoiding robot loss, mission completeness by maximizing area coverage, energy efficiency by minimizing battery usage, communication robustness by reducing packet loss) and explains why balancing these objectives is essential for adaptive and resilient task allocation in disaster environments.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response emphasizes unrelated machine learning techniques without tying them to survivor or hazard detection in disaster environments (e.g., generic image classification benchmarks such as CIFAR-10 or ImageNet, large language model text generation, sentiment analysis of social media, generic speech recognition pipelines).",
+        "weight": -5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_70",
+    "question": "How do you evaluate modern (up to 2025) Text-to-speech (TTS) models, including advancements in prosody, emotion, and multilingual capabilities. Explore emerging tasks such as voice cloning, zero-shot synthesis, and cross-lingual voice transfer.",
+    "rubric": [
+      {
+        "point": "The response explains, for multilingual TTS, the methodological \"chicken-and-egg\" problem where (Automatic Speech Recognition) ASR-based metrics like WER (Word Error Rate) are dependent on the quality of the ASR model itself.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response suggests a smart hybrid evaluation plan, such as using computer tests daily, bigger automated tests for milestones, and human listeners for final checks.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response discusses practical issues, like evaluating a model's speed, cost, and memory usage, especially for devices like phones.",
+        "weight": 3.0
+      },
+      {
+        "point": "The response explains the need to evaluate the training data itself for things like sound diversity before building a model.",
+        "weight": 2.0
+      }
+    ]
+  },
+  {
+    "id": "RR_76",
+    "question": "Generate a holistic, paradigm-shifting manifesto that synergizes next-generation business intelligence with agile methodologies to investigate the AI value-stream actualization gap.\n\nAsp corporate AI spending approaches $300 billion annually, our research must explore the widespread organizational friction that undermines these transformation projects. Investigate why localized productivity gains often fail to ripple up to enterprise-level financial performance and explore the deep-seated cultural and strategic misalignment at play.\n\nThe primary audience for this manifesto is C-suites executives and boards of directors. However, the language must be kept simple, accessible, and informal, written in an engaging blog post style suitable for a new intern. Crucially, the tone must remain optimistic and forward-looking, avoiding an excessive focus on failure or negative statistics.\n\nTo make the concepts more tangible, the entire analysis must draw direct parallels to the challenges of the 1960s American space program. For instance, you should frame \"pilot purgatory\" in the context of the Gemini missions and discuss \"hidden TCO\" as analogous to the unforeseen logistical costs of the Apollo program.",
+    "rubric": [
+      {
+        "point": "The response accurately states that enterprise-wide AI projects yield an average ROI of just 5.9%.",
+        "weight": 4.0
+      },
+      {
+        "point": "The response highlights the risk of budget overruns, citing the example of cloud compute costs scaling exponentially.",
+        "weight": 5.0
+      },
+      {
+        "point": "The response omits the concept of using Net Present Value (NPV) as a metric.",
+        "weight": -3.0
+      },
+      {
+        "point": "The response mentions the impressit.io estimate that the cost to maintain a single generative AI application can be between $350,000 and $820,000 annually.",
+        "weight": 5.0
+      },
+      {
+        "point": "The reponse maintains a forward-looking, optimistic outlook and counter to proposed challenges for AI adoption.",
+        "weight": 5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_81",
+    "question": "What are some of the top computational social science labs in the US, in terms of undergrad research output and impact? Even if there are no readily available metrics on undergrad research output and undergrad research impact specifically, you should try to develop your own, with evidence included. How about for graduate research output and impact? Be specific - this shouldn't just be departments, but rather specific labs or research groups with PIs.\n\nWhat are the top-paying jobs in industry for computational social scientists, and what kinds of backgrounds do these people come from? Name a few jobs, and for each, analyze a statistically significant sample to figure out whether they come straight from undergrad or do grad school first. Also, what they study and research in undergrad and grad school.",
+    "rubric": [
+      {
+        "point": "The response assigns weights to at least three unique quantitative metrics (e.g., number of publications, ratio of undergraduate students to graduate students, student satisfaction surverys, presence of undergraduate funding for research) of undergraduate research output or impact in building its undergraduate metric.",
+        "weight": 4.0
+      },
+      {
+        "point": "The response lists the most common undergraduate majors and graduate fields (e.g., computer science, data science, linguistics, mathematics) for each job title listed.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response qualifies which conferences the lab primarily publishes in (e.g., CHI, EMNLP, NeurIPS, American Journal of Political Science).",
+        "weight": 2.0
+      }
+    ]
+  },
+  {
+    "id": "RR_83",
+    "question": "Write a technical proposal for a distributed audio streaming system. The system should include an audio streaming platform and a live chat feature. This application should be built for both browser and mobile settings. Include detailed technologies and justify why they are used. Assume the audience is a team of experienced software developers at a medium sized software company.",
+    "rubric": [
+      {
+        "point": "The response suggests a reasonable platform for hosting the infrastructure (e.g., Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Cloudflare) and lists a relevant technology stack for that platform (e.g., if AWS is chosen, suggests Amazon S3 for storing audio files and artwork, Amazon ECS or Fargate for hosting the API, Amazon DynamoDB for tracking the content catalog and user profiles, and Amazon OpenSearch Service for full-text search and chat cataloguing).",
+        "weight": 5.0
+      },
+      {
+        "point": "The response compares various audio-streaming protocols and suggests one (e.g., HLS for its native iOS support and scalability, DASH as an open standard, or WebRTC for ultra-low latency) and justifies the choice.",
+        "weight": 5.0
+      },
+      {
+        "point": "The response discusses the tech stack for both the mobile and web interface, e.g., cross-platform frameworks (e.g., React Native + Expo, Flutter, web-based React, Capacitor), UI/UX factors (e.g., responsive layouts, chat UI/UX consistency, accessibility, background audio behavior), and performance/networking (e.g., service workers for caching, efficient state management).",
+        "weight": 5.0
+      }
+    ]
+  },
+  {
+    "id": "RR_85",
+    "question": "I am planning to implement a embedded system processor for a thermostat machine. Write me a blog post which goes through everything that I need to consider, including things like RISC vs. CISC instruction set, how I can actually code and test this processor using open-source technologies like Linux and more. ",
+    "rubric": [
+      {
+        "point": "The response describes how a software debugger interfaces with the target hardware, explaining at a high level that the debugger (e.g., GDB, OpenOCD) communicates through a hardware debug port (e.g., JTAG, SWD) to control execution, inspect registers, and analyze memory.",
+        "weight": 2.0
+      },
+      {
+        "point": "The response begins with an introduction that summarizes the key factors to consider for a thermostat processor (e.g., power consumption, cost, performance) before diving into specific details (e.g., processor architecture, OS choice, testing).",
+        "weight": 1.0
+      },
+      {
+        "point": "The response mentions simplicity (e.g., in hardware design, software maintenance) as a key design consideration for a thermostat processor.",
+        "weight": 2.0
+      }
+    ]
+  },
+  {
+    "id": "RR_89",
+    "question": "Write a series of technical blog posts on some of the advancements in Large Language Model (LLM) training and fine-tuning in 2023-2025. Each post should at least contain:\n- The intuition and motivation behind the technique\n- Detail the methodology\n- Provide mathematical derivations where applicable\n- Discuss practical use cases, limitations, and open challenges\n\nThe writing should be accessible to readers with a graduate-level ML background.",
+    "rubric": [
+      {
+        "point": "The introduction to each blog post highlights a key feature of technique discussed (e.g., LoRA reduces the number of trainable parameters, RLHF trains a reward model based on human feedback, MoE routes inputs to smaller expert networks, GRPO uses the mean reward of several LLM responses as a baseline to score a response).",
+        "weight": 3.0
+      },
+      {
+        "point": "The response outlines the methodology of each technique including any algorithms, pseudocode, or procedures as necessary.",
+        "weight": 5.0
+      },
+      {
+        "point": "Each discussed technique that is mentioned includes an in-depth evaluation of its limitations.",
+        "weight": 5.0
+      },
+      {
+        "point": "The response is structured as a series of distinct blog posts, each with its own title, introduction, body, and conclusion.",
+        "weight": 5.0
+      },
+      {
+        "point": "The response discusses at least three distinct recent advancements within the last 12-24 months (e.g., QLoRA, DoRA, DPO, MoE, RAFT).",
+        "weight": 5.0
+      },
+      {
+        "point": "For each technique, justify why it merits coverage (e.g., LoRA significantly reduces training costs, MoEs enable multiple experts with sparse activations, RLHF enables human-aligned response styles, RAFT trains models to ignore irrelevant context drawn via the popular RAG strategy).",
+        "weight": 3.0
+      }
+    ]
+  },
+  {
+    "id": "RR_92",
+    "question": "Find a series of olympiad math problems, which build progressively in difficulty and lead up towards Ramsey's theorem.  At each step, add intuition for how one might reach the solution.",
+    "rubric": [
+      {
+        "point": "The response reads like an essay instead of a progression of Olympiad problems (i.e., the response should be structured in terms of problem statements, intuitive explanations, proofs, and other mathematical statements such as propositions, theorems, lemmas, and corollaries).",
+        "weight": -4.0
+      }
+    ]
+  }
+]
