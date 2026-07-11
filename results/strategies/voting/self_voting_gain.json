@@ -11,28 +11,28 @@
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 3,
-    "delta_bacc_vs_one_vote": 0.234522
+    "delta_bacc_vs_one_vote": 0.405946
   },
   {
     "domain": "DeepResearch",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 5,
-    "delta_bacc_vs_one_vote": 0.334269
+    "delta_bacc_vs_one_vote": 0.568006
   },
   {
     "domain": "DeepResearch",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 7,
-    "delta_bacc_vs_one_vote": 0.413535
+    "delta_bacc_vs_one_vote": 0.583937
   },
   {
     "domain": "DeepResearch",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 9,
-    "delta_bacc_vs_one_vote": 0.73605
+    "delta_bacc_vs_one_vote": 0.735079
   },
   {
     "domain": "DeepResearch",
@@ -46,28 +46,28 @@
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 3,
-    "delta_bacc_vs_one_vote": 0.447986
+    "delta_bacc_vs_one_vote": 0.846615
   },
   {
     "domain": "DeepResearch",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 5,
-    "delta_bacc_vs_one_vote": 0.755584
+    "delta_bacc_vs_one_vote": 1.079141
   },
   {
     "domain": "DeepResearch",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 7,
-    "delta_bacc_vs_one_vote": 1.149745
+    "delta_bacc_vs_one_vote": 1.150496
   },
   {
     "domain": "DeepResearch",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 9,
-    "delta_bacc_vs_one_vote": 0.72986
+    "delta_bacc_vs_one_vote": 0.898147
   },
   {
     "domain": "DeepResearch",
@@ -137,7 +137,7 @@
     "model": "Seed 2.0 Pro",
     "model_id": "doubao-seed-2.0-pro",
     "votes": 9,
-    "delta_bacc_vs_one_vote": 0.257318
+    "delta_bacc_vs_one_vote": 0.257619
   },
   {
     "domain": "DeepResearch",
@@ -221,28 +221,28 @@
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 3,
-    "delta_bacc_vs_one_vote": 2.152891
+    "delta_bacc_vs_one_vote": 2.314511
   },
   {
     "domain": "AgenticCoding",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 5,
-    "delta_bacc_vs_one_vote": 2.987701
+    "delta_bacc_vs_one_vote": 2.98584
   },
   {
     "domain": "AgenticCoding",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 7,
-    "delta_bacc_vs_one_vote": 2.720313
+    "delta_bacc_vs_one_vote": 2.984907
   },
   {
     "domain": "AgenticCoding",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "votes": 9,
-    "delta_bacc_vs_one_vote": 2.858244
+    "delta_bacc_vs_one_vote": 2.746681
   },
   {
     "domain": "AgenticCoding",
@@ -256,28 +256,28 @@
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 3,
-    "delta_bacc_vs_one_vote": 3.554595
+    "delta_bacc_vs_one_vote": 3.272213
   },
   {
     "domain": "AgenticCoding",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 5,
-    "delta_bacc_vs_one_vote": 3.745637
+    "delta_bacc_vs_one_vote": 4.285245
   },
   {
     "domain": "AgenticCoding",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 7,
-    "delta_bacc_vs_one_vote": 4.534533
+    "delta_bacc_vs_one_vote": 4.534861
   },
   {
     "domain": "AgenticCoding",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "votes": 9,
-    "delta_bacc_vs_one_vote": 4.034398
+    "delta_bacc_vs_one_vote": 3.955505
   },
   {
     "domain": "AgenticCoding",

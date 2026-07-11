@@ -179,28 +179,28 @@
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "actual_rubrics_per_call": 2,
-    "delta_bacc_vs_single_rubric": -4.932107
+    "delta_bacc_vs_single_rubric": -19.958683
   },
   {
     "domain": "AgenticCoding",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "actual_rubrics_per_call": 3,
-    "delta_bacc_vs_single_rubric": -11.257681
+    "delta_bacc_vs_single_rubric": -25.607639
   },
   {
     "domain": "AgenticCoding",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "actual_rubrics_per_call": 4,
-    "delta_bacc_vs_single_rubric": -22.213574
+    "delta_bacc_vs_single_rubric": -31.277056
   },
   {
     "domain": "AgenticCoding",
     "model": "Kimi K2.6",
     "model_id": "kimi-k2.6",
     "actual_rubrics_per_call": 5,
-    "delta_bacc_vs_single_rubric": -20.488957
+    "delta_bacc_vs_single_rubric": -19.69697
   },
   {
     "domain": "AgenticCoding",
@@ -214,28 +214,28 @@
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "actual_rubrics_per_call": 2,
-    "delta_bacc_vs_single_rubric": -6.473848
+    "delta_bacc_vs_single_rubric": -8.908937
   },
   {
     "domain": "AgenticCoding",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "actual_rubrics_per_call": 3,
-    "delta_bacc_vs_single_rubric": -10.183694
+    "delta_bacc_vs_single_rubric": -27.777778
   },
   {
     "domain": "AgenticCoding",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "actual_rubrics_per_call": 4,
-    "delta_bacc_vs_single_rubric": -18.330998
+    "delta_bacc_vs_single_rubric": -26.01461
   },
   {
     "domain": "AgenticCoding",
     "model": "DeepSeek V4 Flash",
     "model_id": "deepseek-v4-flash",
     "actual_rubrics_per_call": 5,
-    "delta_bacc_vs_single_rubric": -18.015152
+    "delta_bacc_vs_single_rubric": -31.649832
   },
   {
     "domain": "AgenticCoding",
@@ -249,28 +249,28 @@
     "model": "GLM-5.1",
     "model_id": "glm-5.1",
     "actual_rubrics_per_call": 2,
-    "delta_bacc_vs_single_rubric": -4.862037
+    "delta_bacc_vs_single_rubric": -4.862551
   },
   {
     "domain": "AgenticCoding",
     "model": "GLM-5.1",
     "model_id": "glm-5.1",
     "actual_rubrics_per_call": 3,
-    "delta_bacc_vs_single_rubric": -19.271295
+    "delta_bacc_vs_single_rubric": -19.270833
   },
   {
     "domain": "AgenticCoding",
     "model": "GLM-5.1",
     "model_id": "glm-5.1",
     "actual_rubrics_per_call": 4,
-    "delta_bacc_vs_single_rubric": -22.981602
+    "delta_bacc_vs_single_rubric": -22.979798
   },
   {
     "domain": "AgenticCoding",
     "model": "GLM-5.1",
     "model_id": "glm-5.1",
     "actual_rubrics_per_call": 5,
-    "delta_bacc_vs_single_rubric": -35.345147
+    "delta_bacc_vs_single_rubric": -35.353535
   },
   {
     "domain": "AgenticCoding",
@@ -284,28 +284,28 @@
     "model": "Seed 2.0 Pro",
     "model_id": "doubao-seed-2.0-pro",
     "actual_rubrics_per_call": 2,
-    "delta_bacc_vs_single_rubric": -0.174931
+    "delta_bacc_vs_single_rubric": -1.851852
   },
   {
     "domain": "AgenticCoding",
     "model": "Seed 2.0 Pro",
     "model_id": "doubao-seed-2.0-pro",
     "actual_rubrics_per_call": 3,
-    "delta_bacc_vs_single_rubric": -9.945983
+    "delta_bacc_vs_single_rubric": -11.458333
   },
   {
     "domain": "AgenticCoding",
     "model": "Seed 2.0 Pro",
     "model_id": "doubao-seed-2.0-pro",
     "actual_rubrics_per_call": 4,
-    "delta_bacc_vs_single_rubric": -18.566688
+    "delta_bacc_vs_single_rubric": -15.656566
   },
   {
     "domain": "AgenticCoding",
     "model": "Seed 2.0 Pro",
     "model_id": "doubao-seed-2.0-pro",
     "actual_rubrics_per_call": 5,
-    "delta_bacc_vs_single_rubric": -21.130289
+    "delta_bacc_vs_single_rubric": -25.757576
   },
   {
     "domain": "AgenticCoding",
@@ -319,28 +319,28 @@
     "model": "GPT-OSS-120B",
     "model_id": "gpt-oss-120b",
     "actual_rubrics_per_call": 2,
-    "delta_bacc_vs_single_rubric": -2.102926
+    "delta_bacc_vs_single_rubric": -9.539358
   },
   {
     "domain": "AgenticCoding",
     "model": "GPT-OSS-120B",
     "model_id": "gpt-oss-120b",
     "actual_rubrics_per_call": 3,
-    "delta_bacc_vs_single_rubric": -7.582418
+    "delta_bacc_vs_single_rubric": 6.597222
   },
   {
     "domain": "AgenticCoding",
     "model": "GPT-OSS-120B",
     "model_id": "gpt-oss-120b",
     "actual_rubrics_per_call": 4,
-    "delta_bacc_vs_single_rubric": -13.712121
+    "delta_bacc_vs_single_rubric": -15.40404
   },
   {
     "domain": "AgenticCoding",
     "model": "GPT-OSS-120B",
     "model_id": "gpt-oss-120b",
     "actual_rubrics_per_call": 5,
-    "delta_bacc_vs_single_rubric": -15.311688
+    "delta_bacc_vs_single_rubric": -21.717172
   },
   {
     "domain": "AgenticCoding",
@@ -354,27 +354,27 @@
     "model": "Qwen3.5-27B",
     "model_id": "qwen3.5-27b",
     "actual_rubrics_per_call": 2,
-    "delta_bacc_vs_single_rubric": -2.064802
+    "delta_bacc_vs_single_rubric": 8.179093
   },
   {
     "domain": "AgenticCoding",
     "model": "Qwen3.5-27B",
     "model_id": "qwen3.5-27b",
     "actual_rubrics_per_call": 3,
-    "delta_bacc_vs_single_rubric": -9.47234
+    "delta_bacc_vs_single_rubric": -2.777778
   },
   {
     "domain": "AgenticCoding",
     "model": "Qwen3.5-27B",
     "model_id": "qwen3.5-27b",
     "actual_rubrics_per_call": 4,
-    "delta_bacc_vs_single_rubric": -13.073593
+    "delta_bacc_vs_single_rubric": -8.856421
   },
   {
     "domain": "AgenticCoding",
     "model": "Qwen3.5-27B",
     "model_id": "qwen3.5-27b",
     "actual_rubrics_per_call": 5,
-    "delta_bacc_vs_single_rubric": -16.688312
+    "delta_bacc_vs_single_rubric": -18.686869
   }
 ]
